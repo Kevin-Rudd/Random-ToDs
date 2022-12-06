@@ -23,6 +23,18 @@
 		"toChunk": 1,
 		"comment": "Sgail Night Sky"
 	},	{
+		"runtimeID": "00DBD0E72CCCB165",
+		"toChunk": 1,
+		"comment": "sky_falcon"
+	},	{
+		"runtimeID": "009F206E1EBA5F25",
+		"toChunk": 1,
+		"comment": "lut_colombia"
+	},	{
+		"runtimeID": "0026D710EAF1BFEE",
+		"toChunk": 1,
+		"comment": "sky_sunset_v2_026_a"
+	},	{
 		"runtimeID": "0000BB4D3ACBD175",
 		"toChunk": 1,
 		"comment": "Lamp Ornate Marrakesh"
