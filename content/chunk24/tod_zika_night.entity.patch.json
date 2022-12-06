@@ -1,0 +1,32 @@
+{
+    "tempHash": "0069324FADF99DA9",
+    "tbluHash": "0070CBCF0628A12A",
+    "patch": [
+        {
+            "op": "add",
+            "path": "/entities/abcd8462de3142c1",
+            "value": {
+                "parent": {
+                    "ref": "92a47c6170507083",
+                    "externalScene": null
+                },
+                "name": "BoxReflectionCache",
+                "template": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+                "blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+                "properties": {
+                    "m_pBoxReflectionCache": {
+                        "type": "ZRuntimeResourceID",
+                        "value": {
+                            "resource": "00C4D025BC0425D6",
+                            "flag": "5F"
+                        }
+                    }
+                },
+                "postInitProperties": {},
+                "editorOnly": false,
+                "platformSpecificPropertyValues": []
+            }
+        }
+    ],
+    "patchVersion": 4
+}

@@ -1,0 +1,233 @@
+{
+	"version": "0.8.0",
+	"updateCheck": "https://hitman-resources.netlify.app/framework/updates/third-party/Random ToDs.json",
+	"id": "KevinRudd.RandomToDs",
+	"name": "Random Times of Day",
+	"contentFolders": ["content"],
+	"description": "Gives some maps alternative times of day each time you visit. Requires SDK mod for vanilla or plugin for Peacock",
+	"authors": ["Kevin Rudd", "Kercyx"],
+    "loadBefore": [
+        "musicalmushr00m.LightingUltimate"
+    ],
+	"frameworkVersion": "2.0.0",
+	"dependencies": ["005415E5BE265EFD",{
+		"runtimeID": "003D96EAECB00C82",
+		"comment": "adonis_sky",
+		"toChunk": 1
+	},"0049E402097FE46D","000BA41D084B1850", {
+		"runtimeID": "00C7E997840E11D9",
+		"comment": "skunk_sky",
+		"toChunk": 1
+	},	{
+		"runtimeID": "00A01A2790FF4E7D",
+		"toChunk": 1,
+		"comment": "Sgail Night Sky"
+	},	{
+		"runtimeID": "0000BB4D3ACBD175",
+		"toChunk": 1,
+		"comment": "Lamp Ornate Marrakesh"
+	},	{
+		"runtimeID": "002E8103127A9ED2",
+		"toChunk": 1,
+		"comment": "Lamp Ornate Marrakesh"
+	},	{
+		"runtimeID": "001341F87621CA97",
+		"toChunk": 1,
+		"comment": "Lamp Ornate Marrakesh"
+	},	"001147744AF1F5D3", {
+		"runtimeID": "00729EF0B144AF31",
+		"comment": "Mumbai Slums Sound - Daytime Chongqing depends start 1 before this entry",
+		"toChunk": 6
+	},	{
+		"runtimeID": "0023C8B28A69EC05",
+		"comment": "Mumbai Central Sound (Light)",
+		"toChunk": 6
+	},	{
+		"runtimeID": "005BF239676A0332",
+		"comment": "Mumbai Apartment Ambience",
+		"toChunk": 6
+	},	{
+		"runtimeID": "00EEF802B8A0A491",
+		"comment": "Mumbai tiles",
+		"toChunk": 1
+	},	{
+		"runtimeID": "00A756E8CD7DD992",
+		"comment": "[assembly:/_pro/environment/materials/generic/floor/mumbai_sidewalks_tiles_a_3mat_blend.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "005259B174CBA1E0",
+		"comment": "[assembly:/_pro/environment/materials/generic/ground/asphalt_pavement_3mat_blend_a.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "00B89C2DEFFCEE02",
+		"comment": "[assembly:/_pro/environment/materials/generic/floor/mumbai_ground_tiles_b.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "009258620E53A50B",
+		"comment": "[assembly:/_pro/environment/materials/generic/floor/mumbai_ground_tiles_b.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "00A904F1C2260F8C",
+		"comment": "[assembly:/_pro/environment/materials/generic/ground/paving_granite_concrete_3mat_blend.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "009A3BDF3EE1684A",
+		"comment": "[assembly:/_pro/environment/materials/generic/floor/mumbai_sidewalks_tiles_b.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "00824F624CFCD966",
+		"comment": "[assembly:/_pro/environment/materials/generic/floor/floor_tiles_ceramic_c_2mat_blend_b_fox.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "0005DEA28E52DD52",
+		"comment": "[assembly:/_pro/environment/materials/generic/ground/asphalt_road_3mat_blend_a_fox.mi].pc_mi",
+		"toChunk": 1
+	},	{
+		"runtimeID": "00333DA97534256B",
+		"toChunk": 1,
+		"comment": "Dartmoor Outside LUT"
+	},	{
+		"runtimeID": "00E48F94093D37F9",
+		"toChunk": 1,
+		"comment": "Colorado Sky"
+	},	{
+		"runtimeID": "00AA559EFE13DEDE",
+		"toChunk": 1,
+		"comment": "laptop_b_rat"
+	},	{
+		"runtimeID": "00DF65C520255827",
+		"toChunk": 1,
+		"comment": "Infect LUT"
+	},	"001083CD8A6BB32D", {
+		"runtimeID": "008027305D878A5E",
+		"comment": "[materials/levels/wet/backdrop_building_miami_near_d.mi].pc_entitytyp",
+		"toChunk": 1
+	},	{
+		"runtimeID": "0016ECC27E61E9D0",
+		"comment": "[assembly:/_pro/environment/textures/backdrop/buildings/backdrop_building_miami_near_b/backdrop_building_miami_near_b.texture?/emissive_b.tex](ascolormap).pc_tex",
+		"toChunk": 1
+	},	{
+		"runtimeID": "00505C92F53599D0",
+		"toChunk": 1,
+		"comment": "Miami Sky"
+	}],
+	"packagedefinition": [
+		{
+			"type": "entity",
+			"partition": "paris",
+			"path": "[assembly:/_pro/scenes/missions/paris/tod_sunset.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "paris",
+			"path": "[assembly:/_pro/scenes/missions/paris/tod_midday.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "coastaltown",
+			"path": "[assembly:/_pro/scenes/missions/coastaltown/tod_summer_day_clear.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "coastaltown",
+			"path": "[assembly:/_pro/scenes/missions/coastaltown/tod_wot_sunset.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "coastaltown",
+			"path": "[assembly:/_pro/scenes/missions/coastaltown/tod_ebola_night.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "marrakesh",
+			"path": "[assembly:/_pro/scenes/missions/marrakesh/tod_summer_day_clear.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "marrakesh",
+			"path": "[assembly:/_pro/scenes/missions/marrakesh/tod_summer_night_clear.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "bangkok",
+			"path": "[assembly:/_pro/scenes/missions/bangkok/tod_summer_evening_clear.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "bangkok",
+			"path": "[assembly:/_pro/scenes/missions/bangkok/tod_zika_night.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "bangkok",
+			"path": "[assembly:/_pro/scenes/missions/bangkok/tod_midday.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "colorado",
+			"path": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "colorado",
+			"path": "[assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/tod_winter_twilight_clear.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick].entitytype"
+		  }, {
+            "type": "entity",
+            "partition": "sheep",
+            "path": "[assembly:/_pro/scenes/missions/sheep/tod_midday.brick].entitytype"
+        }, {
+            "type": "entity",
+            "partition": "sheep",
+            "path": "[assembly:/_pro/scenes/missions/sheep/tod_sunset.brick].entitytype"
+        }, {
+            "type": "entity",
+            "partition": "miami",
+            "path": "[assembly:/_pro/scenes/missions/miami/tod_night.brick].entitytype"
+        }, {
+			"type": "entity",
+			"partition": "mongoose",
+			"path": "[assembly:/_pro/scenes/missions/mumbai/tod_night.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "mongoose",
+			"path": "[assembly:/_pro/scenes/missions/mumbai/tod_midday.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "skunk",
+			"path": "[assembly:/_pro/scenes/missions/skunk/tod_night.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "theark",
+			"path": "[assembly:/_pro/scenes/missions/theark/tod_midday.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "opulent",
+			"path": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/tod_night.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "ancestral",
+			"path": "[assembly:/_pro/scenes/missions/ancestral/tod_midday.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "edgy",
+			"path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/tod_sunset.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "edgy",
+			"path": "[assembly:/_pro/scenes/missions/edgy/mission_fox/tod_midday.brick].entitytype"
+		  }, {
+            "type": "entity",
+            "partition": "wet",
+            "path": "[assembly:/_pro/scenes/missions/wet/tod_cloudy.brick].entitytype"
+        }, {
+            "type": "entity",
+            "partition": "wet",
+            "path": "[assembly:/_pro/scenes/missions/wet/tod_midday.brick].entitytype"
+        }, {
+			"type": "entity",
+			"partition": "dugong",
+			"path": "[assembly:/_PRO/Scenes/Missions/Rocky/tod_midday.brick].entitytype"
+		  }, {
+			  "type": "entity",
+			  "partition": "dugong",
+			  "path": "[assembly:/_PRO/Scenes/Missions/Rocky/tod_sunset.brick].entitytype"
+		  }
+	  ]
+}
