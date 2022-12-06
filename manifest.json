@@ -1,6 +1,5 @@
 {
 	"version": "0.8.0",
-	"updateCheck": "https://hitman-resources.netlify.app/framework/updates/third-party/Random ToDs.json",
 	"id": "KevinRudd.RandomToDs",
 	"name": "Random Times of Day",
 	"contentFolders": ["content"],
@@ -172,6 +171,10 @@
 			"type": "entity",
 			"partition": "colorado",
 			"path": "[assembly:/_pro/scenes/missions/colorado_2/lighting_day.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "colorado",
+			"path": "[assembly:/_pro/scenes/missions/colorado_2/lighting_night.brick].entitytype"
 		  }, {
 			"type": "entity",
 			"partition": "hokkaido",
