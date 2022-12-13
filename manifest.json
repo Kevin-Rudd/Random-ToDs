@@ -121,6 +121,10 @@
 		"runtimeID": "00505C92F53599D0",
 		"toChunk": 1,
 		"comment": "Miami Sky"
+	},	{
+		"runtimeID": "003A3122B5CCDB39",
+		"toChunk": 1,
+		"comment": "Sky_Sunset_v2_029 Berlin"
 	}],
 	"packagedefinition": [
 		{
@@ -184,6 +188,10 @@
 			"partition": "hokkaido",
 			"path": "[assembly:/_pro/scenes/missions/hokkaido/tod_flu.brick].entitytype"
 		  }, {
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/tod_bluenight.brick].entitytype"
+		  }, {
             "type": "entity",
             "partition": "sheep",
             "path": "[assembly:/_pro/scenes/missions/sheep/tod_midday.brick].entitytype"
@@ -219,6 +227,10 @@
 			"type": "entity",
 			"partition": "ancestral",
 			"path": "[assembly:/_pro/scenes/missions/ancestral/tod_midday.brick].entitytype"
+		  }, {
+			"type": "entity",
+			"partition": "ancestral",
+			"path": "[assembly:/_pro/scenes/missions/ancestral/tod_night.brick].entitytype"
 		  }, {
 			"type": "entity",
 			"partition": "edgy",
