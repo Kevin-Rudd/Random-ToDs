@@ -217,11 +217,11 @@
 			},
 			"m_fSunRadiusScale": {
 				"type": "float32",
-				"value": 2
+				"value": 3
 			},
 			"m_fSunIntensityScale": {
 				"type": "float32",
-				"value": 1000
+				"value": 10000
 			},
 			"m_fMieAnisotropy": {
 				"type": "float32",
@@ -229,7 +229,7 @@
 			},
 			"m_fWorldScale": {
 				"type": "float32",
-				"value": 3
+				"value": 10
 			},
 			"m_fMieHeightScale": {
 				"type": "float32",
@@ -315,7 +315,22 @@
 			},
 			"m_fHDRBrightPassThreshold": {
 				"type": "float32",
-				"value": 100
+				"value": 0.05
+			},
+			"m_fHDRBrightPassMaxPercentage": {
+				"type": "float32",
+				"value": 20
+			},
+			"m_fHDRExposureMeteringSize": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_vHDRBloomMinFalloffDistanceMinMax": {
+				"type": "SVector2",
+				"value": {
+					"x": 0,
+					"y": 5
+				}
 			},
 			"m_bNoiseEnabled": {
 				"type": "bool",
@@ -587,7 +602,7 @@
 			},
 			"m_fHDRBloomFalloff": {
 				"type": "float32",
-				"value": 2
+				"value": 1.1
 			},
 			"m_eHDRToneMapType": {
 				"type": "ZRenderPostfilterParametersEntity.EHDRToneMapType",
