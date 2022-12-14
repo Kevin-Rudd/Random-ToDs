@@ -9786,6 +9786,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -9850,6 +9854,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -9914,6 +9922,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -9978,6 +9990,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -10042,6 +10058,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -10106,6 +10126,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -10170,6 +10194,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -10254,6 +10282,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -10318,6 +10350,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -10382,6 +10418,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -10446,6 +10486,10 @@
 				"m_fWrappedDiffuse": {
 					"type": "float32",
 					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11067,6 +11111,10 @@
 						"x": 4.600000023841858,
 						"y": 19.5
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11116,6 +11164,10 @@
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#f2f2f2"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11161,6 +11213,10 @@
 						"x": 4.600000023841858,
 						"y": 19.5
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11210,6 +11266,10 @@
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#faaff7"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11259,6 +11319,10 @@
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#f2f2f2"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11304,6 +11368,10 @@
 						"x": 4.600000023841858,
 						"y": 19.5
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11353,6 +11421,10 @@
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#f2f2f2"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11398,6 +11470,10 @@
 						"x": 4.600000023841858,
 						"y": 19.5
 					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -11447,6 +11523,10 @@
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#f2f2f2"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
