@@ -5990,6 +5990,10 @@
 		}
 	}],
 	"overrideDeletes": [{
+		"ref": "3ed5346896c0a8cb",
+		"comment": "BOXC",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate"
+	}, {
 		"ref": "3d6492c0651007b5",
 		"comment": "PF",
 		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
@@ -6283,7 +6287,7 @@
 		}
 	}],
 	"pinConnectionOverrideDeletes": [],
-	"externalScenes": ["[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate"],
 	"subType": 1,
 	"quickEntityVersion": 2.1
 }
