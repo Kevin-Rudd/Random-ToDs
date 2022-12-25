@@ -7502,7 +7502,7 @@
 			},
 			"m_fLightFadeLength": {
 				"type": "float32",
-				"value": 20
+				"value": 200
 			}
 		}
 	}, {
