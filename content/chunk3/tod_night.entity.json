@@ -105,6 +105,222 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
+		"7392f8cc5d35ff42": {
+			"parent": {
+				"ref": "3a2f93d6a7ff0a23",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "entrance lamp 1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+						"rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": -23.501180251583364
+                        },
+                        "position": {
+                            "x": 39.58641052246094,
+                            "y": -104.2040023803711,
+                            "z": 1.9028512945175171
+                        }
+                    }
+                },
+                "On": {
+                    "type": "bool",
+                    "value": true
+                },
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+            },
+            "postInitProperties": {
+                "m_eidParent": {
+                    "type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+                }
+            },
+            "editorOnly": false,
+            "platformSpecificPropertyValues": []
+        
+		},
+		"e1b350ecfebf5a6": {
+			"parent": {
+				"ref": "3a2f93d6a7ff0a23",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "entrance lamp 1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+						"rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 74.2825255592054
+                        },
+                        "position": {
+                            "x": 37.79253005981445,
+                            "y": -108.92240142822266,
+                            "z": 1.9028512945175171
+                        }
+                    }
+                },
+                "On": {
+                    "type": "bool",
+                    "value": true
+                },
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+            },
+            "postInitProperties": {
+                "m_eidParent": {
+                    "type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+                }
+            },
+            "editorOnly": false,
+            "platformSpecificPropertyValues": []
+        
+		},
+		"a40de273eed3cb19": {
+			"parent": {
+				"ref": "3a2f93d6a7ff0a23",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "entrance lamp 1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+						"rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 125.06987277280093
+                        },
+                        "position": {
+                            "x": 3.150670051574707,
+                            "y": -50.03879165649414,
+                            "z": 3.8870160484313965
+                        }
+                    }
+                },
+                "On": {
+                    "type": "bool",
+                    "value": true
+                },
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+            },
+            "postInitProperties": {
+                "m_eidParent": {
+                    "type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+                }
+            },
+            "editorOnly": false,
+            "platformSpecificPropertyValues": []
+        
+		},
+		"945f12cde7e48a8b": {
+			"parent": {
+				"ref": "3a2f93d6a7ff0a23",
+				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+			},
+			"name": "entrance lamp 2",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+						"rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 59.99998760187227
+                        },
+                        "position": {
+                            "x": -3.0634069442749023,
+                            "y": -50.130889892578125,
+                            "z": 3.8870160484313965
+                        }
+                    }
+                },
+				"On": {
+                    "type": "bool",
+                    "value": true
+                },
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+            },
+            "postInitProperties": {
+                "m_eidParent": {
+                    "type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+                }
+            },
+            "editorOnly": false,
+            "platformSpecificPropertyValues": []
+        
+		},
 		"c9590796a549a004": {
 			"parent": "fbc66003c6026572",
 			"name": "fx_custom_moon",
@@ -180,103 +396,6 @@
 					"value": "fbc66003c6026572"
 				}
 			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"538abf90e53e3b32": {
-			"parent": {
-				"ref": "ad2421de5541b2f7",
-				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-			},
-			"name": "Light_Windows_Key_05",
-			"template": "[modules:/zlightentity.class].pc_entitytype",
-			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0.009225903008930648,
-							"y": -0.9552795102980806,
-							"z": 14.504549095818925
-						},
-						"position": {
-							"x": -34.274539947509766,
-							"y": -1.2041499614715576,
-							"z": 11.4964599609375
-						}
-					}
-				},
-				"m_eLightType": {
-					"type": "ILightEntity.ELightType",
-					"value": "LT_OMNI"
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 2.359999895095825,
-						"y": 17.010000228881836
-					}
-				},
-				"m_vAngularAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": -1.0571810007095337,
-						"y": 0.9053850173950195
-					}
-				},
-				"m_fAspectXByY": {
-					"type": "float32",
-					"value": 5
-				},
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
-				"m_MasterLight": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "c940cd99d9ac65ee",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				},
-				"m_bVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#a2c8f5"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 10
-				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 5
-				},
-				"m_bUseDynamicShadowMap": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "2b4409dc55cf2476",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -490,103 +609,6 @@
 					"value": "fffffffffffffffe"
 				}
 			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"b1e0b4db18c617a6": {
-			"parent": {
-				"ref": "ad2421de5541b2f7",
-				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-			},
-			"name": "Light_Windows_Key_08",
-			"template": "[modules:/zlightentity.class].pc_entitytype",
-			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -0.009225903008930648,
-							"y": -0.9552795102980806,
-							"z": 14.504549095818925
-						},
-						"position": {
-							"x": -26.361379623413086,
-							"y": -2.922544002532959,
-							"z": 10.615030288696289
-						}
-					}
-				},
-				"m_eLightType": {
-					"type": "ILightEntity.ELightType",
-					"value": "LT_OMNI"
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 1.4299999475479126,
-						"y": 17.010000228881836
-					}
-				},
-				"m_vAngularAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": -1.0571810007095337,
-						"y": 0.9053850173950195
-					}
-				},
-				"m_fAspectXByY": {
-					"type": "float32",
-					"value": 5
-				},
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 1
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
-				"m_MasterLight": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "c940cd99d9ac65ee",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				},
-				"m_bVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#a2c8f5"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 10
-				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 5
-				},
-				"m_bUseDynamicShadowMap": {
-					"type": "bool",
-					"value": false
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "2b4409dc55cf2476",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -5878,24 +5900,6 @@
 		}
 	}, {
 		"entities": [{
-			"ref": "945f12cde7e48a8b",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "a40de273eed3cb19",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"ConstantColorRGB_01_Value": {
-				"type": "SColorRGB",
-				"value": "#000000"
-			},
-			"GlowPower": {
-				"type": "float32",
-				"value": 0
-			}
-		}
-	}, {
-		"entities": [{
 			"ref": "d86b11089cb4114",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}],
@@ -6141,13 +6145,7 @@
 		}, {
 			"ref": "b7490136cfcadf25",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "a40de273eed3cb19",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "945f12cde7e48a8b",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
+		},  {
 			"ref": "e1b350ecfebf5a6",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}, {
@@ -7451,12 +7449,6 @@
 			"ref": "b7490136cfcadf25",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}, {
-			"ref": "a40de273eed3cb19",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "945f12cde7e48a8b",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
 			"ref": "e1b350ecfebf5a6",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}, {
@@ -7537,26 +7529,22 @@
 		}, {
 			"ref": "7392f8cc5d35ff42",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "945f12cde7e48a8b",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "a40de273eed3cb19",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}],
 		"properties": {
-			"m_diffuseColor": {
-				"type": "SColorRGB",
-				"value": "#fffa75"
-			},
-			"DiffusePower": {
-				"type": "float32",
-				"value": 50
-			},
-			"GlowPower": {
-				"type": "float32",
-				"value": 10
-			}
+			
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fffa75"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 10
+				}
+			
 		}
 	}],
 	"overrideDeletes": [{
@@ -7598,6 +7586,26 @@
 	}, {
 		"ref": "bb63b1d3d21d4c75",
 		"comment": "Bouce 2",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "a40de273eed3cb19",
+		"comment": "Entrance lamp 1",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	}, 
+	{
+		"ref": "945f12cde7e48a8b",
+		"comment": "Entrance lamp 2",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "7392f8cc5d35ff42",
+		"comment": "Entrance gates 1",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	}, 
+	{
+		"ref": "0e1b350ecfebf5a6",
+		"comment": "Entrance gates 2",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 	}],
 	"pinConnectionOverrides": [],
