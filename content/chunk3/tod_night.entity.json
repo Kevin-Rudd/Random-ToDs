@@ -112,27 +112,27 @@
 			},
 			"name": "entrance lamp 1",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
 						"rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": -23.501180251583364
-                        },
-                        "position": {
-                            "x": 39.58641052246094,
-                            "y": -104.2040023803711,
-                            "z": 1.9028512945175171
-                        }
-                    }
-                },
-                "On": {
-                    "type": "bool",
-                    "value": true
-                },
+							"x": 0,
+							"y": 0,
+							"z": -23.501180251583364
+						},
+						"position": {
+							"x": 39.58641052246094,
+							"y": -104.2040023803711,
+							"z": 1.9028512945175171
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
 				"m_bEnableLightFade": {
 					"type": "bool",
 					"value": true
@@ -145,19 +145,18 @@
 					"type": "float32",
 					"value": 200
 				}
-            },
-            "postInitProperties": {
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
 					"value": {
 						"ref": "aff994cc4a72c41f",
 						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 					}
-                }
-            },
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		},
 		"e1b350ecfebf5a6": {
 			"parent": {
@@ -166,27 +165,27 @@
 			},
 			"name": "entrance lamp 1",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
 						"rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 74.2825255592054
-                        },
-                        "position": {
-                            "x": 37.79253005981445,
-                            "y": -108.92240142822266,
-                            "z": 1.9028512945175171
-                        }
-                    }
-                },
-                "On": {
-                    "type": "bool",
-                    "value": true
-                },
+							"x": 0,
+							"y": 0,
+							"z": 74.2825255592054
+						},
+						"position": {
+							"x": 37.79253005981445,
+							"y": -108.92240142822266,
+							"z": 1.9028512945175171
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
 				"m_bEnableLightFade": {
 					"type": "bool",
 					"value": true
@@ -199,19 +198,18 @@
 					"type": "float32",
 					"value": 200
 				}
-            },
-            "postInitProperties": {
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
 					"value": {
 						"ref": "aff994cc4a72c41f",
 						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 					}
-                }
-            },
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		},
 		"a40de273eed3cb19": {
 			"parent": {
@@ -220,27 +218,27 @@
 			},
 			"name": "entrance lamp 1",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
 						"rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 125.06987277280093
-                        },
-                        "position": {
-                            "x": 3.150670051574707,
-                            "y": -50.03879165649414,
-                            "z": 3.8870160484313965
-                        }
-                    }
-                },
-                "On": {
-                    "type": "bool",
-                    "value": true
-                },
+							"x": 0,
+							"y": 0,
+							"z": 125.06987277280093
+						},
+						"position": {
+							"x": 3.150670051574707,
+							"y": -50.03879165649414,
+							"z": 3.8870160484313965
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
 				"m_bEnableLightFade": {
 					"type": "bool",
 					"value": true
@@ -253,19 +251,18 @@
 					"type": "float32",
 					"value": 200
 				}
-            },
-            "postInitProperties": {
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
 					"value": {
 						"ref": "aff994cc4a72c41f",
 						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 					}
-                }
-            },
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		},
 		"945f12cde7e48a8b": {
 			"parent": {
@@ -274,27 +271,27 @@
 			},
 			"name": "entrance lamp 2",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
 						"rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 59.99998760187227
-                        },
-                        "position": {
-                            "x": -3.0634069442749023,
-                            "y": -50.130889892578125,
-                            "z": 3.8870160484313965
-                        }
-                    }
-                },
+							"x": 0,
+							"y": 0,
+							"z": 59.99998760187227
+						},
+						"position": {
+							"x": -3.0634069442749023,
+							"y": -50.130889892578125,
+							"z": 3.8870160484313965
+						}
+					}
+				},
 				"On": {
-                    "type": "bool",
-                    "value": true
-                },
+					"type": "bool",
+					"value": true
+				},
 				"m_bEnableLightFade": {
 					"type": "bool",
 					"value": true
@@ -307,19 +304,18 @@
 					"type": "float32",
 					"value": 200
 				}
-            },
-            "postInitProperties": {
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
 					"value": {
 						"ref": "aff994cc4a72c41f",
 						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 					}
-                }
-            },
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		},
 		"c9590796a549a004": {
 			"parent": "fbc66003c6026572",
@@ -396,107 +392,6 @@
 					"value": "fbc66003c6026572"
 				}
 			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"813cc9118eac6c04": {
-			"parent": {
-				"ref": "b3eeee1c2a87a0a8",
-				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-			},
-			"name": "Lamp_Wall_Modern_Spot_Italy_B_15",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_fox_a.template?/lamp_wall_modern_spot_fox_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_fox_a.template?/lamp_wall_modern_spot_fox_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 90,
-							"y": -69.99989942532703,
-							"z": -90
-						},
-						"position": {
-							"x": 5.926898002624512,
-							"y": 1.8543299436569214,
-							"z": 6.621409893035889
-						}
-					}
-				},
-				"m_mHeadTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -16.000001884257724,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 0,
-							"y": 0.029089000076055527,
-							"z": 0.23292599618434906
-						}
-					}
-				},
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#50b3fa"
-				},
-				"IgnoreTimeOfDay": {
-					"type": "bool",
-					"value": true
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 11.630000114440918,
-						"y": 19.15999984741211
-					}
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 20
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 400
-				},
-				"m_bLightCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_vAngularAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": -0.05581099912524223,
-						"y": 1.4199999570846558
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "4183b939a4c23fcf",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -612,107 +507,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"5ece92755d267127": {
-			"parent": {
-				"ref": "b3eeee1c2a87a0a8",
-				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-			},
-			"name": "Lamp_Wall_Modern_Spot_Italy_B_14",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_fox_a.template?/lamp_wall_modern_spot_fox_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_fox_a.template?/lamp_wall_modern_spot_fox_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 90,
-							"y": 59.99995040754483,
-							"z": 90
-						},
-						"position": {
-							"x": -9.955144882202148,
-							"y": 0.5739784240722656,
-							"z": 6.621409893035889
-						}
-					}
-				},
-				"m_mHeadTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -16.000001884257724,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 0,
-							"y": 0.029089000076055527,
-							"z": 0.23292599618434906
-						}
-					}
-				},
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#50b3fa"
-				},
-				"IgnoreTimeOfDay": {
-					"type": "bool",
-					"value": true
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 11.630000114440918,
-						"y": 19.15999984741211
-					}
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 20
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 400
-				},
-				"m_bLightCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_vAngularAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": -0.05581099912524223,
-						"y": 1.4199999570846558
-					}
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "4183b939a4c23fcf",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"abcdd8dc88295779": {
 			"parent": "fffffffffffffffe",
 			"name": "Kercyx Additions",
@@ -749,15 +543,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -799,15 +593,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -849,15 +643,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -899,15 +693,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -949,15 +743,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -999,15 +793,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1049,15 +843,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1099,15 +893,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1149,15 +943,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1199,15 +993,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1249,15 +1043,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1299,15 +1093,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1349,15 +1143,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1399,15 +1193,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1449,15 +1243,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1499,15 +1293,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1549,15 +1343,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1599,15 +1393,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1649,15 +1443,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1699,15 +1493,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1728,7 +1522,7 @@
 		},
 		"cf2f85a6eada852c": {
 			"parent": "abcdd8dc88295779",
-			"name": "Lamp_Street_Ornamented_Italy_A_20_cemetary_2",
+			"name": "Lamp_Palace_Street_A_20_cemetary_2",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -1747,19 +1541,7 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#fffa75"
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 50
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 10
-				},
-				"LightOn": {
+				"On": {
 					"type": "bool",
 					"value": true
 				}
@@ -1799,15 +1581,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1849,15 +1631,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1899,15 +1681,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1949,15 +1731,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -1999,15 +1781,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -2049,15 +1831,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -2099,15 +1881,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -2149,15 +1931,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -2199,15 +1981,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -2249,15 +2031,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -2299,15 +2081,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"LightOn": {
 					"type": "bool",
@@ -2353,11 +2135,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -2395,15 +2189,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2445,15 +2239,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2495,15 +2289,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2545,15 +2339,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2595,15 +2389,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2645,15 +2439,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2695,15 +2489,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2745,15 +2539,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2795,15 +2589,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2845,15 +2639,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2895,15 +2689,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2945,15 +2739,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -2995,15 +2789,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -3045,15 +2839,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -3095,15 +2889,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -3145,15 +2939,15 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 15
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 10
+					"value": 50
 				},
 				"On": {
 					"type": "bool",
@@ -3199,11 +2993,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3245,11 +3051,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3291,11 +3109,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3337,11 +3167,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3383,11 +3225,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3429,11 +3283,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3475,11 +3341,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3521,11 +3399,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3567,11 +3457,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3613,11 +3515,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3659,11 +3573,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3705,11 +3631,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3751,11 +3689,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3797,11 +3747,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3843,11 +3805,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3889,11 +3863,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3935,11 +3921,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -3981,11 +3979,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4027,11 +4037,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4073,11 +4095,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4119,11 +4153,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4165,11 +4211,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4211,11 +4269,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4257,11 +4327,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4303,11 +4385,23 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#fffa75"
+					"value": "#FFFBD69A"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 80
 				}
 			},
 			"postInitProperties": {
@@ -4321,80 +4415,272 @@
 			},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcdb4ba2974431c": {
+			"parent": "fffffffffffffffe",
+			"name": "Trigger stuff upon game start",
+			"template": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
+			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eEvent": {
+					"type": "EGameEventType",
+					"value": "GET_GameplayStart"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"events": [{
+				"onEvent": "EventOccurred",
+				"shouldTrigger": "GetIndex",
+				"onEntity": "abcd812edbe58538"
+			}],
+			"platformSpecificPropertyValues": []
+		},
+		"abcd812edbe58538": {
+			"parent": "abcdb4ba2974431c",
+			"name": "zmultiparentspatialentity",
+			"template": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
+			"properties": {
+				"m_aParents": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad"]
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcd4d094a88a9a1": {
+			"parent": "fffffffffffffffe",
+			"name": "Ruddy Additions",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcdb67b3a25bd5d": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_a_Fountain3",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -90
+						},
+						"position": {
+							"x": 0.146078,
+							"y": 95.8223,
+							"z": -1
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 11.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6bee5a864dc0": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_a_Fountain1",
+			"template": "0026B173B9158A05",
+			"blueprint": "00B2127A5DB7957E",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -3.8,
+							"y": 102.112,
+							"z": -0.999989
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 11.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb307e1905a3c": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_a_Fountain4",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90
+						},
+						"position": {
+							"x": 0.146078,
+							"y": 108.1,
+							"z": -1
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 10.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0a3daa21b5a6": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_a_Fountain2",
+			"template": "0026B173B9158A05",
+			"blueprint": "00B2127A5DB7957E",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 180
+						},
+						"position": {
+							"x": 4.0,
+							"y": 102.112,
+							"z": -0.999989
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 10.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{
-		"entities": [{
-			"ref": "8e6d877d374bb20e",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"m_vAngularAttenuation": {
-				"type": "SVector2",
-				"value": {
-					"x": 0.8866549730300903,
-					"y": 1.2641079425811768
-				}
-			},
-			"m_vFarAttenuation": {
-				"type": "SVector2",
-				"value": {
-					"x": 0.3095499873161316,
-					"y": 7.650000095367432
-				}
-			},
-			"m_Color": {
-				"type": "SColorRGB",
-				"value": "#bfdbff"
-			},
-			"m_fColorIntensity": {
-				"type": "float32",
-				"value": 1.5
-			}
-		}
-	}, {
-		"entities": [{
-			"ref": "2ac6d23951c4ccf0",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "ee8fd398f89f6c75",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "7bc9ad3719ffc156",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "2601500d848bbd60",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "ad6ee3b5b92b6844",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"m_Color": {
-				"type": "SColorRGB",
-				"value": "#bfdbff"
-			},
-			"m_fColorIntensity": {
-				"type": "float32",
-				"value": 1.5
-			}
-		}
-	}, {
-		"entities": [{
-			"ref": "1cab4a6238bcde63",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"m_diffuseColor": {
-				"type": "SColorRGB",
-				"value": "#add5ff"
-			},
-			"m_fDiffusePower": {
-				"type": "float32",
-				"value": 0.80000001192092896
-			}
-		}
-	}, {
 		"entities": [{
 			"ref": "2dd6c29ade189fdc",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
@@ -4510,52 +4796,6 @@
 			"m_diffuseColor": {
 				"type": "SColorRGB",
 				"value": "#f08960"
-			}
-		}
-	}, {
-		"entities": [{
-			"ref": "2ba49c36b90bfb44",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"m_diffuseColor": {
-				"type": "SColorRGB",
-				"value": "#f0faff"
-			}
-		}
-	}, {
-		"entities": [{
-			"ref": "39a48862123f9403",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "94498c2d834f2357",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "718731702ec00196",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "8b6668ae2b31159d",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "90a3cddac966d625",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "aa4afc1db4b9c795",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "e7d45e336dffc58f",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "e3beba7c243c37c1",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "195b57bbcbc15af8",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"DiffuseColor": {
-				"type": "SColorRGB",
-				"value": "#a84416"
 			}
 		}
 	}, {
@@ -4809,79 +5049,6 @@
 					"x": 1.3629200458526611,
 					"y": 6.510000228881836
 				}
-			}
-		}
-	}, {
-		"entities": [{
-			"ref": "1196be24e9886b93",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "9166d6c19ef58c",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "274c1cf85b233b8a",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "7ed185d9edbb6833",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "4569707f7df9e3e4",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "a81dade46a3c5819",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "f38a28f530d93c0e",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"On": {
-				"type": "bool",
-				"value": false
-			}
-		}
-	}, {
-		"entities": [{
-			"ref": "35f7b892b5185ed5",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"DiffuseColor": {
-				"type": "SColorRGB",
-				"value": "#ff0800"
-			},
-			"GlowPower": {
-				"type": "float32",
-				"value": 700
-			}
-		}
-	}, {
-		"entities": [{
-			"ref": "8562d33ca455d005",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "8f24fdeff9f7cfea",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "5083edcb63f1468e",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "804258ebce591abd",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "c8bf23c09f9e0f37",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "27c3fec28d693ffa",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "729fd1a915490df3",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			"DiffuseColor": {
-				"type": "SColorRGB",
-				"value": "#ff554f"
 			}
 		}
 	}, {
@@ -6145,7 +6312,7 @@
 		}, {
 			"ref": "b7490136cfcadf25",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		},  {
+		}, {
 			"ref": "e1b350ecfebf5a6",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}, {
@@ -7522,30 +7689,6 @@
 				"value": true
 			}
 		}
-	}, {
-		"entities": [{
-			"ref": "e1b350ecfebf5a6",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
-			"ref": "7392f8cc5d35ff42",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}],
-		"properties": {
-			
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#fffa75"
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 50
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 10
-				}
-			
-		}
 	}],
 	"overrideDeletes": [{
 		"ref": "7a56fa1e4e8f1375",
@@ -7587,23 +7730,19 @@
 		"ref": "bb63b1d3d21d4c75",
 		"comment": "Bouce 2",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "a40de273eed3cb19",
 		"comment": "Entrance lamp 1",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}, 
-	{
+	}, {
 		"ref": "945f12cde7e48a8b",
 		"comment": "Entrance lamp 2",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "7392f8cc5d35ff42",
 		"comment": "Entrance gates 1",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}, 
-	{
+	}, {
 		"ref": "0e1b350ecfebf5a6",
 		"comment": "Entrance gates 2",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
