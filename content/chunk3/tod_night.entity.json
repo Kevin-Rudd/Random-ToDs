@@ -556,6 +556,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -606,6 +610,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -656,6 +664,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -706,6 +718,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -756,6 +772,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -806,6 +826,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -856,6 +880,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -906,6 +934,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -956,6 +988,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -1006,6 +1042,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1056,6 +1096,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1106,6 +1150,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1156,6 +1204,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1206,6 +1258,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1256,6 +1312,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1306,6 +1366,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1356,6 +1420,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1406,6 +1474,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1456,6 +1528,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1506,6 +1582,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1544,6 +1624,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 250
 				}
 			},
 			"postInitProperties": {
@@ -1594,6 +1678,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1644,6 +1732,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1694,6 +1786,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1744,6 +1840,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1794,6 +1894,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1844,6 +1948,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1894,6 +2002,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1944,6 +2056,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -1994,6 +2110,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -2044,6 +2164,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
 				}
 			},
 			"postInitProperties": {
@@ -2094,6 +2218,10 @@
 				"LightOn": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2202,6 +2330,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2252,6 +2384,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2302,6 +2438,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2352,6 +2492,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2402,6 +2546,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2452,6 +2600,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2502,6 +2654,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2552,6 +2708,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2602,6 +2762,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2652,6 +2816,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2702,6 +2870,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2752,6 +2924,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2802,6 +2978,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2852,6 +3032,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2902,6 +3086,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -2952,6 +3140,10 @@
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {
@@ -4444,7 +4636,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad"]
+					"value": ["abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad"]
 				}
 			},
 			"postInitProperties": {},
@@ -4514,6 +4706,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4567,6 +4763,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4620,6 +4820,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4673,6 +4877,622 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd72ccf0e7c339": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 180
+						},
+						"position": {
+							"x": 37.1,
+							"y": 10.0,
+							"z": 10
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdec896f3a34a2": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 90
+						},
+						"position": {
+							"x": 18.075660705566406,
+							"y": -2.7811319828033447,
+							"z": -1.5175069570541382
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0345efb49f1d": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 90
+						},
+						"position": {
+							"x": 18.075660705566406,
+							"y": -2.7811319828033447,
+							"z": -1.5175069570541382
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1d450a475c92": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A00",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 90
+						},
+						"position": {
+							"x": 39.5,
+							"y": 11.6,
+							"z": 10
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 15,
+						"y": 15
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda435e4bcab4c": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 90
+						},
+						"position": {
+							"x": 18.075660705566406,
+							"y": -2.7811319828033447,
+							"z": -1.5175069570541382
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5672bb751d80": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 90
+						},
+						"position": {
+							"x": 18.075660705566406,
+							"y": -2.7811319828033447,
+							"z": -1.5175069570541382
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
 				}
 			},
 			"postInitProperties": {},
@@ -4681,6 +5501,35 @@
 		}
 	},
 	"propertyOverrides": [{
+		"entities": [{
+			"ref": "d8a854960d502243",
+			"comment": "Spot Lights",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "4d76b372dcb3fefc",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "51e9ed3211061432",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "7525703ddca1bfac",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}],
+		"properties": {
+			"DiffusePower": {
+				"type": "float32",
+				"value": 30
+			},
+			"m_fShadowFadeDistance": {
+				"type": "float32",
+				"value": 30
+			},
+			"GlowIntensity": {
+				"type": "float32",
+				"value": 1000
+			}
+		}
+	}, {
 		"entities": [{
 			"ref": "2dd6c29ade189fdc",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
