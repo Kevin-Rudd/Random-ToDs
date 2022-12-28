@@ -8538,7 +8538,42 @@
 				"value": true
 			}
 		}
-	}],
+	},
+
+	{
+		"entities": [{
+			"ref": "49ac490981746b56",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "4b2c8bb79b017a89",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "6e277da93f9ba2bc",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "a5e9437993ed128b",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		},
+		{
+			"ref": "db15f9a0649ccbca",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "f42949c666c983bf",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "47047aff32d2c9c2",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}
+	],
+		"properties": {
+			"DiffusePower": {
+				"type": "float32",
+				"value": 20
+			}
+		}
+	}
+
+],
 	"overrideDeletes": [{
 		"ref": "7a56fa1e4e8f1375",
 		"comment": "BoxCache",
@@ -8595,7 +8630,60 @@
 		"ref": "0e1b350ecfebf5a6",
 		"comment": "Entrance gates 2",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}],
+	},
+
+
+
+	{
+		"ref": "4b85e0f3cbd00f08",
+		"comment": "Light_Windows_03",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "2a56499faeee24d9",
+		"comment": "Light_Windows_04",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "d618298f21d49b0",
+		"comment": "Light_Windows_05",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "463496170121bf4b",
+		"comment": "Light_Windows_06",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "d2b05435c36e1f8d",
+		"comment": "Light_Windows_07",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "768a41b902241fc7",
+		"comment": "Light_Windows_09",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "ce03bb7c8044c973",
+		"comment": "Light_Windows_Bounce_03",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "b5b0042cb15d285e",
+		"comment": "Light_Windows_Bounce_character",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	},
+	{
+		"ref": "e17435dad9ca6c8e",
+		"comment": "Light_Windows_Bounce_character_01",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	}
+
+
+
+
+],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": ["[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype"],
