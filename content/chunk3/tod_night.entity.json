@@ -4636,7 +4636,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad"]
+					"value": ["abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414"]
 				}
 			},
 			"postInitProperties": {},
@@ -4889,7 +4889,7 @@
 		},
 		"abcd72ccf0e7c339": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "Lamp_Wall_Modern_Spot_Italy_A01",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A01_parking_3",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -4904,7 +4904,7 @@
 						"position": {
 							"x": 37.1,
 							"y": 10.0,
-							"z": 10
+							"z": 8.6
 						}
 					}
 				},
@@ -4991,7 +4991,7 @@
 		},
 		"abcdec896f3a34a2": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "Lamp_Wall_Modern_Spot_Italy_A05",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A04_dumpster",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -5000,13 +5000,13 @@
 					"value": {
 						"rotation": {
 							"x": 89.99994270422063,
-							"y": 0,
-							"z": 90
+							"y": 0.0001086678396608276,
+							"z": 90.98601983034604
 						},
 						"position": {
-							"x": 18.075660705566406,
-							"y": -2.7811319828033447,
-							"z": -1.5175069570541382
+							"x": 45.528866,
+							"y": 51.901608,
+							"z": 3.3594588
 						}
 					}
 				},
@@ -5093,7 +5093,7 @@
 		},
 		"abcd0345efb49f1d": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "Lamp_Wall_Modern_Spot_Italy_A02",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A02_entrance_right",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -5103,12 +5103,12 @@
 						"rotation": {
 							"x": 89.99994270422063,
 							"y": 0,
-							"z": 90
+							"z": 180
 						},
 						"position": {
-							"x": 18.075660705566406,
-							"y": -2.7811319828033447,
-							"z": -1.5175069570541382
+							"x": 29.278505,
+							"y": 1,
+							"z": 8.6
 						}
 					}
 				},
@@ -5195,7 +5195,7 @@
 		},
 		"abcd1d450a475c92": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "Lamp_Wall_Modern_Spot_Italy_A00",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A00_parking_1",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -5210,7 +5210,7 @@
 						"position": {
 							"x": 39.5,
 							"y": 11.6,
-							"z": 10
+							"z": 8.6
 						}
 					}
 				},
@@ -5297,7 +5297,109 @@
 		},
 		"abcda435e4bcab4c": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "Lamp_Wall_Modern_Spot_Italy_A04",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90,
+							"y": 0,
+							"z": -90
+						},
+						"position": {
+							"x": -32,
+							"y": 14.814578,
+							"z": 8.6
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7e755299ab578e62": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A06_entrance_right_2",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -5307,12 +5409,318 @@
 						"rotation": {
 							"x": 89.99994270422063,
 							"y": 0,
-							"z": 90
+							"z": 180
 						},
 						"position": {
-							"x": 18.075660705566406,
-							"y": -2.7811319828033447,
-							"z": -1.5175069570541382
+							"x": 12.008789,
+							"y": -1.0938814,
+							"z": 8.5
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8f82d40da118d8b9": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A07_guards_hanging",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 180
+						},
+						"position": {
+							"x": -27.122446,
+							"y": 39,
+							"z": 8.461747
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"64322c5e5f3ea6d8": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A08",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90,
+							"y": 0,
+							"z": -90
+						},
+						"position": {
+							"x": -32,
+							"y": 2.3465068,
+							"z": 8.6
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2e61233abd7a0414": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A09_entrance_left",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 89.99994270422063,
+							"y": 0,
+							"z": 180
+						},
+						"position": {
+							"x": -18.714361,
+							"y": -1.0938814,
+							"z": 8.5
 						}
 					}
 				},
@@ -5399,7 +5807,7 @@
 		},
 		"abcd5672bb751d80": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "Lamp_Wall_Modern_Spot_Italy_A03",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A03_parking_2",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -5412,9 +5820,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 18.075660705566406,
-							"y": -2.7811319828033447,
-							"z": -1.5175069570541382
+							"x": 39.5,
+							"y": 24.137707,
+							"z": 8.6
 						}
 					}
 				},
@@ -8554,7 +8962,7 @@
 		"ref": "4dc1fab9e5fba79d",
 		"comment": "Alexa Office Fake lights",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},  {
+	}, {
 		"ref": "25a1812dd7219a10",
 		"comment": "Zach Fake lights",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
@@ -8606,336 +9014,243 @@
 		"ref": "852d1081b40b131",
 		"comment": "Alexa Closet Fake lights",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	
-	
-	
-	{
+	}, {
 		"ref": "d2b4951bfe873b2f",
 		"comment": "guest room fake lights windows 03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "3a36ea61a1475122",
 		"comment": "guest room fake lights windows 04",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "561aeaf81bb6241c",
 		"comment": "F1_Guest_room_B lights windows bounce 00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "a1c03f3ac5e1cc2d",
 		"comment": "F1_Guest_room_B lights windows bounce 01",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "9e12fa3a0ef82e01",
 		"comment": "F1_Guest_room_B lights windows bounce 02",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "dd5e41b03af4aa14",
 		"comment": "F1 Hallway A fake light windows key",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "e6e41515485afd52",
 		"comment": "F1 Hallway B fake light windows key",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{"ref": "3f6c04f0c5e9f8d",
+	}, {
+		"ref": "3f6c04f0c5e9f8d",
 		"comment": "F1_Hallway_D Light_Windows_05",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "72b199982fccb8d4",
 		"comment": "F1_Hallway_D Light_Windows_06",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "62e7acd579621a7a",
 		"comment": "F1 Hallway E Light_Windows_Bounce_00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "7724a9de63cdbae2",
 		"comment": "Alexa Office Light_Windows_Bounce_03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-	{
+	}, {
 		"ref": "510ce943f564080a",
 		"comment": "Alexa Office Light_Windows",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "76eef4d6e5ab7b1e",
 		"comment": "Alexa Office Light_Windows_01",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "bdcd3e8762a537e4",
 		"comment": "Alexa Office Light_Windows_02",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "de96e02cd783b732",
 		"comment": "Alexa Office Light_Windows_03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "5614c3ffefbfb615",
 		"comment": "Alexa Office Light_Windows_04",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "7fd997629fe3f9bd",
 		"comment": "Alexa Office Light_Windows_05",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "bf49fa42d70726d8",
 		"comment": "Alexa Office Light_Windows_06",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "4dc1fab9e5fba79d",
 		"comment": "Alexa Office Light_Windows_08",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "3b4d6498a58b41bd",
 		"comment": "Alexa Bedroom Light_Windows_Bounce_00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "753f6467cc00fb53",
 		"comment": "Alexa Bedroom Light_Spot_Window_00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "e8647e41150d4c14",
 		"comment": "Alexa Bathroom Light_Spot_Window_00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-
-
-	{
+	}, {
 		"ref": "2db5999ff8bac9fb",
 		"comment": "F2 Hallway Light_Windows_Bounce_00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "9c595835d4a96af5",
 		"comment": "F2 Hallway Light_Windows_Bounce_01",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "4bab876238c8988e",
 		"comment": "F2 Hallway Light_Windows_Key",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-
-	{
+	}, {
 		"ref": "2414597e9299b4a5",
 		"comment": "F0 Dining room Light_Windows_03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "4e1bd654e1f8699d",
 		"comment": "F0 Dining room Light_Windows_04",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "319e8aecb1dd4c4e",
 		"comment": "F0 Dining room Light_Windows_05",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "9da584727bcac33a",
 		"comment": "F0 Dining room Light_Windows_Bounce_",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "da9daf045c11787b",
 		"comment": "F0 Dining room Light_Windows_Bounce_01",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "56df4709bc15cdcb",
 		"comment": "F0 Dining room Light_Windows_Bounce_02",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "b446138ee1850482",
 		"comment": "F0 Dining room Light_Windows_Bounce_03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-
-	{
+	}, {
 		"ref": "69d755437097ce79",
 		"comment": "F0 Living room Light_Windows_07",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "55420381edbd7bc7",
 		"comment": "F0 Living room Light_Windows_08",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "6968a1b5888b2b3f",
 		"comment": "F0 Living room Light_Windows_09",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "1f3fb69ecce15247",
 		"comment": "F0 Living room Light_Windows_10",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-	{
+	}, {
 		"ref": "7eeeb9e4b915f93d",
 		"comment": "F0 Hallway F Light_Windows_07",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "5f8d660984d9670f",
 		"comment": "F0 Hallway F Light_Windows_Bounce",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-	{
+	}, {
 		"ref": "204835738035d29",
 		"comment": "F0 Hallway B Light_Windows_05",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-
-	{
+	}, {
 		"ref": "168949a994254324",
 		"comment": "F0 Library Light_Windows_Bounce_00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "143e82d58965ffe",
 		"comment": "F0 Library Light_Windows_Bounce_01",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "f63a6c1f439846a2",
 		"comment": "F0 Library Light_Windows_Bounce_02",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "60cd0b0bf282d299",
 		"comment": "F0 Library Light_Windows_Bounce_03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "949775c64536a8d",
 		"comment": "F0 Library Light_Windows_Bounce_04",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "856baf7e67f2450f",
 		"comment": "F0 Library Light_Windows_Bounce_05",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-
-
-
-
-
-	{
+	}, {
 		"ref": "67f8f0d6c9f91f10",
 		"comment": "F0 Library Light_Windows_Key",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}
-	,
-	{
+	}, {
 		"ref": "a08f358d7d7bbfd6",
-		"comment":  "F0 Library Light_Windows_Key_01",
+		"comment": "F0 Library Light_Windows_Key_01",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}
-	,
-	{
+	}, {
 		"ref": "ea58677519cbe7fa",
 		"comment": "F0 Library Light_Windows_Key_02",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}
-	,
-	{
+	}, {
 		"ref": "745e206d8c2a45ba",
 		"comment": "F0 Library Light_Windows_Key_03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}
-	,
-	{
+	}, {
 		"ref": "a837841451f4e75a",
-		"comment":  "F0 Library Light_Windows_Key_04",
+		"comment": "F0 Library Light_Windows_Key_04",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-	{
+	}, {
 		"ref": "5fbabd4663865dc7",
-		"comment":  "F0 Hallway D Light_Windows_05",
+		"comment": "F0 Hallway D Light_Windows_05",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-
-
-	{
+	}, {
 		"ref": "98cede8fb2972626",
 		"comment": "Bedroom B Light_Windows",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "f4762961b0a6d0be",
 		"comment": "Bedroom B Light_Windows_02",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "e47857036c46bb47",
 		"comment": "Bedroom B Light_Windows_03",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "561aeaf81bb6241c",
 		"comment": "Bedroom B Light_Windows_Bounce_00",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "a1c03f3ac5e1cc2d",
 		"comment": "Bedroom B Light_Windows_Bounce_01",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "9e12fa3a0ef82e01",
 		"comment": "Bedroom B Light_Windows_Bounce_02",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "4bc68eda42d4298e",
 		"comment": "F1 archive room Light_Windows_05",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "38d788dbb4f5b634",
 		"comment": "F1 archive room Light_Windows_06",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}
-	
-
-
-
-
-],
+	}],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": ["[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype"],
