@@ -4718,7 +4718,7 @@
 		},
 		"abcd6bee5a864dc0": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "pier_light_a_Fountain1",
+			"name": "pier_light_b_Fountain1",
 			"template": "0026B173B9158A05",
 			"blueprint": "00B2127A5DB7957E",
 			"properties": {
@@ -4832,7 +4832,7 @@
 		},
 		"abcd0a3daa21b5a6": {
 			"parent": "abcd4d094a88a9a1",
-			"name": "pier_light_a_Fountain2",
+			"name": "pier_light_b_Fountain2",
 			"template": "0026B173B9158A05",
 			"blueprint": "00B2127A5DB7957E",
 			"properties": {
@@ -7992,9 +7992,6 @@
 			"ref": "36069cb8df483d8e",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}, {
-			"ref": "a2e566413af7fc14",
-			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-		}, {
 			"ref": "52caeb97eb15536d",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}, {
@@ -8453,6 +8450,10 @@
 		}, {
 			"ref": "9a698a0331aff56c",
 			"comment": "F0 Foyer",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "85ac4668fc8867f6",
+			"comment": "Piano Lamp",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}],
 		"properties": {
