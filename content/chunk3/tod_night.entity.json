@@ -34,34 +34,31 @@
 			]
 		},
 		"fbc66003c6026572": {
-			"parent": {
-				"ref": "aff994cc4a72c41f",
-				"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-			},
+			"parent": null,
 			"name": "fx_plane_500m",
-			"template": "00A47BD7D49620A3",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_500m.prim].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entitytype",
 			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -60.26558782793956,
-							"y": 14.942211813245038,
-							"z": 111.38994500358008
+							"x": -40.882719993591309,
+							"y": 50.31887817382813,
+							"z": 76.09740447998047
 						},
 						"position": {
-							"x": -66.9210205078125,
-							"y": -68.6192398071289,
-							"z": 4.715171813964844
+							"x": -111.298095703125,
+							"y": 4753.53076171875,
+							"z": 2276.614990234375
 						}
 					}
 				},
 				"m_PrimitiveScale": {
 					"type": "SVector3",
 					"value": {
-						"x": 45,
-						"y": 45,
+						"x": 55,
+						"y": 55,
 						"z": 1
 					}
 				},
@@ -71,7 +68,7 @@
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
+					"value": "ROOM_STATIC"
 				},
 				"m_bForceVisible": {
 					"type": "bool",
@@ -92,7 +89,9 @@
 				"m_bDisableNavmeshExport": {
 					"type": "bool",
 					"value": true
-				},
+				}
+			},
+			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -101,7 +100,6 @@
 					}
 				}
 			},
-			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -320,8 +318,8 @@
 		"c9590796a549a004": {
 			"parent": "fbc66003c6026572",
 			"name": "fx_custom_moon",
-			"template": "00EA33BD94BD2577",
-			"blueprint": "00EB6A723D166A7C",
+			"template": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entityblueprint",
 			"properties": {
 				"142001717": {
 					"type": "IRenderMaterialEntity.EModifierOperation",
@@ -333,7 +331,7 @@
 				},
 				"748147322": {
 					"type": "float32",
-					"value": 90
+					"value": 200
 				},
 				"974143070": {
 					"type": "float32",
@@ -345,20 +343,20 @@
 				},
 				"4004151359": {
 					"type": "SColorRGB",
-					"value": "#f5f9ff"
+					"value": "#e6f7ff"
 				},
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -121.9581910454518,
-							"y": 42.373904821010825,
-							"z": 22.069167007303243
+							"x": -121.95818328857422,
+							"y": 42.373905181884769,
+							"z": 22.06916618347168
 						},
 						"position": {
 							"x": 42.9256591796875,
 							"y": 536.087890625,
-							"z": 1784.7469482421875
+							"z": 1784.7469482421876
 						}
 					}
 				},
@@ -369,17 +367,13 @@
 				"Texture2D_01": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/_pro/environment/textures/backdrop/sky/moon_a.texture?/diffuse_e.tex](ascolormap).pc_tex",
+						"resource": "[assembly:/_pro/environment/textures/backdrop/sky/moon_a.texture?/diffuse_d.tex](ascolormap).pc_tex",
 						"flag": "5F"
 					}
 				},
 				"Texture2D_01_enab": {
 					"type": "bool",
 					"value": true
-				},
-				"Active": {
-					"type": "bool",
-					"value": false
 				}
 			},
 			"postInitProperties": {
@@ -4636,7 +4630,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414"]
+					"value": ["fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414"]
 				}
 			},
 			"postInitProperties": {},
@@ -6502,7 +6496,7 @@
 			},
 			"m_fSunIntensityScale": {
 				"type": "float32",
-				"value": 200
+				"value": 0
 			},
 			"m_fSunRadiusScale": {
 				"type": "float32",
@@ -6524,6 +6518,7 @@
 	}, {
 		"entities": [{
 			"ref": "c46e2b98a293b829",
+			"comment": "Light_CSM",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}],
 		"properties": {
