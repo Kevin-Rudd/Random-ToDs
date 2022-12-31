@@ -48,7 +48,7 @@
 							"z": 76.09740447998047
 						},
 						"position": {
-							"x": -111.298095703125,
+							"x": -2111.298095703125,
 							"y": 4753.53076171875,
 							"z": 2276.614990234375
 						}
@@ -331,7 +331,7 @@
 				},
 				"748147322": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"974143070": {
 					"type": "float32",
@@ -354,9 +354,9 @@
 							"z": 22.06916618347168
 						},
 						"position": {
-							"x": 42.9256591796875,
-							"y": 536.087890625,
-							"z": 1784.7469482421876
+							"x": -35.43621826171875,
+							"y": -8.46634292602539,
+							"z": 4.354286193847656
 						}
 					}
 				},
@@ -8823,6 +8823,10 @@
 		}
 	}],
 	"overrideDeletes": [{
+		"ref": "99459555ea73156e",
+		"comment": "Fog",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+	}, {
 		"ref": "7a56fa1e4e8f1375",
 		"comment": "BoxCache",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
@@ -8841,10 +8845,6 @@
 	}, {
 		"ref": "604688ded4d952c4",
 		"comment": "Light_Windows_Bounce_00",
-		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	}, {
-		"ref": "99459555ea73156e",
-		"comment": "Fog",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 	}, {
 		"ref": "e3cdcd26caaf1988",
