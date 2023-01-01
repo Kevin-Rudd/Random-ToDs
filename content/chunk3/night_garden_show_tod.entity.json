@@ -535,10 +535,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -588,10 +584,6 @@
 							"z": -1.712257
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -643,10 +635,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -696,10 +684,6 @@
 							"z": -0.535895
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -751,10 +735,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -804,10 +784,6 @@
 							"z": 0.00881178
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -859,10 +835,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -912,10 +884,6 @@
 							"z": -0.270322
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -967,10 +935,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1020,10 +984,6 @@
 							"z": -1.59815
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1075,10 +1035,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1128,10 +1084,6 @@
 							"z": -1.59815
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1183,10 +1135,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1236,10 +1184,6 @@
 							"z": 0.796479
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1291,10 +1235,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1344,10 +1284,6 @@
 							"z": 1.20437
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1399,10 +1335,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1452,10 +1384,6 @@
 							"z": -1.712257
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1507,10 +1435,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1560,10 +1484,6 @@
 							"z": -1.712257
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1657,10 +1577,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1710,10 +1626,6 @@
 							"z": 0.34947
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1765,10 +1677,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1818,10 +1726,6 @@
 							"z": 0.56607
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1873,10 +1777,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -1926,10 +1826,6 @@
 							"z": 0.956119
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -1981,10 +1877,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2034,10 +1926,6 @@
 							"z": -0.4028
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2089,10 +1977,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2142,10 +2026,6 @@
 							"z": -0.4028
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2197,10 +2077,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2232,7 +2108,7 @@
 		},
 		"792e2dc047e960fa": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_29",
+			"name": "Haven_Lamps_29_center",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -2245,9 +2121,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 0,
-							"y": 0,
-							"z": 0
+							"x": 4.73887,
+							"y": 90.4239,
+							"z": -1
 						}
 					}
 				},
@@ -2261,7 +2137,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -2308,10 +2184,6 @@
 							"z": 2.002
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2363,10 +2235,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2416,10 +2284,6 @@
 							"z": 2.042897937
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2471,10 +2335,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2524,10 +2384,6 @@
 							"z": 2.056897937
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2579,10 +2435,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2632,10 +2484,6 @@
 							"z": 2.052
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2687,10 +2535,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2740,10 +2584,6 @@
 							"z": 2.052
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2795,10 +2635,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2848,10 +2684,6 @@
 							"z": 2.052
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -2903,10 +2735,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -2956,10 +2784,6 @@
 							"z": 2.052
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -3011,10 +2835,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -3064,10 +2884,6 @@
 							"z": 2.052
 						}
 					}
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -3119,10 +2935,6 @@
 						}
 					}
 				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffd59e"
-				},
 				"DiffusePower": {
 					"type": "float32",
 					"value": 15
@@ -3167,9 +2979,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -26.4859,
-							"y": 82.3396,
-							"z": 0
+							"x": -21.067,
+							"y": 82.6535,
+							"z": -4.84288e-08
 						}
 					}
 				},
@@ -3179,11 +2991,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#5957e2"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3225,9 +3037,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -31.4759,
-							"y": 86.5639,
-							"z": 0
+							"x": -17.1238,
+							"y": 88.8338,
+							"z": 1.11759e-08
 						}
 					}
 				},
@@ -3237,11 +3049,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#5957e2"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3283,9 +3095,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -24.9967,
-							"y": 93.4848,
-							"z": 0
+							"x": -32.3941,
+							"y": 95.8756,
+							"z": 1.55084e-05
 						}
 					}
 				},
@@ -3295,11 +3107,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#5957e2"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3341,9 +3153,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -20.3168,
-							"y": 88.8325,
-							"z": 0
+							"x": -32.284,
+							"y": 86.7673,
+							"z": 0.00260956
 						}
 					}
 				},
@@ -3353,11 +3165,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#5957e2"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3399,9 +3211,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -31.2439,
-							"y": 115.393,
-							"z": 0
+							"x": -34.4955,
+							"y": 117.946,
+							"z": 4.28408e-07
 						}
 					}
 				},
@@ -3415,7 +3227,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3457,9 +3269,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -24.9154,
-							"y": 121.807,
-							"z": 0
+							"x": -25.4603,
+							"y": 122.427,
+							"z": 1.03014
 						}
 					}
 				},
@@ -3473,7 +3285,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3515,9 +3327,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -20.0538,
-							"y": 117.218,
-							"z": 0
+							"x": -16.9122,
+							"y": 118.076,
+							"z": 4.28408e-07
 						}
 					}
 				},
@@ -3531,7 +3343,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3573,9 +3385,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 26.7549,
-							"y": 110.739,
-							"z": 0
+							"x": 20.5246,
+							"y": 121.959,
+							"z": 1.11759e-08
 						}
 					}
 				},
@@ -3585,11 +3397,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#d9e919"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3631,9 +3443,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 29.4984,
-							"y": 118.986,
-							"z": 0
+							"x": 18.7566,
+							"y": 111.241,
+							"z": 1.11759e-08
 						}
 					}
 				},
@@ -3643,11 +3455,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#d9e919"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3689,9 +3501,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 25.1693,
-							"y": 121.958,
-							"z": 0
+							"x": 33.2292,
+							"y": 117.657,
+							"z": -4.84288e-08
 						}
 					}
 				},
@@ -3701,11 +3513,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#d9e919"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3747,9 +3559,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 20.3228,
-							"y": 117.498,
-							"z": 0
+							"x": 31.1858,
+							"y": 109.819,
+							"z": -1.65775e-06
 						}
 					}
 				},
@@ -3759,11 +3571,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#d9e919"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3805,9 +3617,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 20.7814,
-							"y": 88.9671,
-							"z": 0
+							"x": 33.1384,
+							"y": 87.821,
+							"z": 1.11759e-08
 						}
 					}
 				},
@@ -3817,11 +3629,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#18e8e8"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3863,9 +3675,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 24.7284,
-							"y": 93.032,
-							"z": 0
+							"x": 26.0671,
+							"y": 97.1001,
+							"z": -4.84288e-08
 						}
 					}
 				},
@@ -3875,11 +3687,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#18e8e8"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3921,9 +3733,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 30.7772,
-							"y": 86.6281,
-							"z": 0
+							"x": 19.4667,
+							"y": 93.7503,
+							"z": -4.84288e-08
 						}
 					}
 				},
@@ -3933,11 +3745,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#18e8e8"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -3979,9 +3791,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 26.8822,
-							"y": 82.65,
-							"z": 0
+							"x": 18.1202,
+							"y": 79.8371,
+							"z": 1.11759e-08
 						}
 					}
 				},
@@ -3991,11 +3803,11 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#FFFBD69A"
+					"value": "#18e8e8"
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4024,7 +3836,7 @@
 		},
 		"cc6a7295a8c3200e": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_17_third_square",
+			"name": "Haven_Lamps_30_center",
 			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
 			"properties": {
@@ -4037,9 +3849,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 31.5451,
-							"y": 115.105,
-							"z": 0
+							"x": 8.39257,
+							"y": 94.2356,
+							"z": -1
 						}
 					}
 				},
@@ -4053,7 +3865,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4095,8 +3907,8 @@
 							"z": 90
 						},
 						"position": {
-							"x": 9.12667,
-							"y": 95.2948,
+							"x": -5.22802,
+							"y": 90.7424,
 							"z": -1
 						}
 					}
@@ -4111,7 +3923,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4153,8 +3965,8 @@
 							"z": 90
 						},
 						"position": {
-							"x": 9.04384,
-							"y": 108.554,
+							"x": -8.44087,
+							"y": 94.221,
 							"z": -1
 						}
 					}
@@ -4169,7 +3981,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4211,8 +4023,8 @@
 							"z": 90
 						},
 						"position": {
-							"x": 4.60696,
-							"y": 113.274,
+							"x": -8.17863,
+							"y": 109.571,
 							"z": -1
 						}
 					}
@@ -4227,7 +4039,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4269,8 +4081,8 @@
 							"z": 90
 						},
 						"position": {
-							"x": -4.50102,
-							"y": 113.139,
+							"x": -5.05557,
+							"y": 112.813,
 							"z": -1
 						}
 					}
@@ -4285,7 +4097,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4327,8 +4139,8 @@
 							"z": 90
 						},
 						"position": {
-							"x": -8.48497,
-							"y": 108.845,
+							"x": 5.11972,
+							"y": 112.958,
 							"z": -1
 						}
 					}
@@ -4343,7 +4155,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4385,8 +4197,8 @@
 							"z": 90
 						},
 						"position": {
-							"x": -8.92733,
-							"y": 95.5918,
+							"x": 8.77504,
+							"y": 109.395,
 							"z": -1
 						}
 					}
@@ -4401,7 +4213,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4443,9 +4255,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": 13.3018,
-							"y": 78.5041,
-							"z": -1.65775e-06
+							"x": 12.8578,
+							"y": 79.6284,
+							"z": -1.59815e-06
 						}
 					}
 				},
@@ -4459,7 +4271,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4501,8 +4313,8 @@
 							"z": 90
 						},
 						"position": {
-							"x": -11.0357,
-							"y": 79.6733,
+							"x": -13.1827,
+							"y": 79.7666,
 							"z": -1.59815e-06
 						}
 					}
@@ -4517,7 +4329,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4559,9 +4371,9 @@
 							"z": 90
 						},
 						"position": {
-							"x": -26.3077,
-							"y": 110.496,
-							"z": 0
+							"x": -22.314,
+							"y": 110.044,
+							"z": 4.88013e-07
 						}
 					}
 				},
@@ -4575,7 +4387,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 15
+					"value": 30
 				},
 				"GlowPower": {
 					"type": "float32",
@@ -4630,7 +4442,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414", "668dafc1d5c78dbb", "ffc3c03586d79c9f", "eaaa1c648b37fb94"]
+					"value": ["fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414", "668dafc1d5c78dbb", "ffc3c03586d79c9f", "eaaa1c648b37fb94"]
 				}
 			},
 			"postInitProperties": {},
@@ -4652,234 +4464,6 @@
 			"events": [],
 			"inputCopying": [],
 			"outputCopying": []
-		},
-		"abcdb67b3a25bd5d": {
-			"parent": "abcd4d094a88a9a1",
-			"name": "pier_light_a_Fountain3",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -90
-						},
-						"position": {
-							"x": 0.146078,
-							"y": 95.8223,
-							"z": -1
-						}
-					}
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 11.600000023841858,
-						"y": 5.5
-					}
-				},
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#fff6df"
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd6bee5a864dc0": {
-			"parent": "abcd4d094a88a9a1",
-			"name": "pier_light_b_Fountain1",
-			"template": "0026B173B9158A05",
-			"blueprint": "00B2127A5DB7957E",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -3.8,
-							"y": 102.112,
-							"z": -0.999989
-						}
-					}
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 11.600000023841858,
-						"y": 5.5
-					}
-				},
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#fff6df"
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcdb307e1905a3c": {
-			"parent": "abcd4d094a88a9a1",
-			"name": "pier_light_a_Fountain4",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 0.146078,
-							"y": 108.1,
-							"z": -1
-						}
-					}
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 10.600000023841858,
-						"y": 5.5
-					}
-				},
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#fff6df"
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd0a3daa21b5a6": {
-			"parent": "abcd4d094a88a9a1",
-			"name": "pier_light_b_Fountain2",
-			"template": "0026B173B9158A05",
-			"blueprint": "00B2127A5DB7957E",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
-						"position": {
-							"x": 4.0,
-							"y": 102.112,
-							"z": -0.999989
-						}
-					}
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_vFarAttenuation": {
-					"type": "SVector2",
-					"value": {
-						"x": 10.600000023841858,
-						"y": 5.5
-					}
-				},
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#fff6df"
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
 		},
 		"abcd72ccf0e7c339": {
 			"parent": "abcd4d094a88a9a1",
@@ -6204,6 +5788,144 @@
 				}
 			},
 			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+
+
+		"f9cefd7df63df69e": {
+			"parent": "abcdd8dc88295779",
+			"name": "Setpiece_Skunk_Trap_Electric_GardenLamp_01_third_square",
+			"template": "00903D0DCC3CE86D",
+			"blueprint": "00C5B50FD17F7834",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 5.341800660458153
+                        },
+                        "position": {
+                            "x": 23.158559799194336,
+                            "y": 115.2042007446289,
+                            "z": 0.010234000161290169
+                        }
+                    }
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3c8d665d47be1527": {
+			"parent": "abcdd8dc88295779",
+			"name": "Setpiece_Skunk_Trap_Electric_GardenLamp_02_third_square",
+			"template": "00903D0DCC3CE86D",
+			"blueprint": "00C5B50FD17F7834",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 5.341800660458153
+                        },
+                        "position": {
+                            "x": 28.61815071105957,
+                            "y": 117.48159790039063,
+                            "z": 0.010235000401735306
+                        }
+                    }
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f171501bf3363f9c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Setpiece_Skunk_Trap_Electric_GardenLamp_03_third_square",
+			"template": "00903D0DCC3CE86D",
+			"blueprint": "00C5B50FD17F7834",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 5.341800660458153
+                        },
+                        "position": {
+                            "x": 26.99570083618164,
+                            "y": 113.54830169677734,
+                            "z": 0.010234000161290169
+                        }
+                    }
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"277d1042c23e7af8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Setpiece_Skunk_Trap_Electric_GardenLamp_04_third_square",
+			"template": "00903D0DCC3CE86D",
+			"blueprint": "00C5B50FD17F7834",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 5.341800660458153
+                        },
+                        "position": {
+                            "x": 24.66374969482422,
+                            "y": 119.02279663085938,
+                            "z": 0.010234000161290169
+                        }
+                    }
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		}
@@ -9552,69 +9274,84 @@
 		"ref": "38d788dbb4f5b634",
 		"comment": "F1 archive room Light_Windows_06",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-	},
-
-
-	{
+	}, {
 		"ref": "16fcb95438b8b724",
 		"comment": "BounceLighting",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "c8c235d5757b199b",
 		"comment": "BounceLighting 2",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "ba23fbd4855a8fd8",
 		"comment": "BounceLighting 3",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "d9f4d38473f6c4c0",
 		"comment": "BounceLightingGarden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "49f6fb7614c01e55",
 		"comment": "BounceLightingGarden 2",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "5520c90fcd7b4ed9",
 		"comment": "BounceLightingGarden 3",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "1c9214237797712e",
 		"comment": "BounceLightingGarden 4",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "bb9bdd9991f77b46",
 		"comment": "BounceLightingGarden 5",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "9ff9b4dae0630d3c",
 		"comment": "BounceLightingGarden 6",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "9d48e3661688edb8",
 		"comment": "ExtraBounce",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "8d0b10abe92b0ad4",
 		"comment": "Sky",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+
+
+
+	{
+		"ref": "cc709d270233ece2",
+		"comment": "Setpiece_Skunk_Trap_Electric_GardenLamp",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "b85138c7bef4f905",
+		"comment": "Setpiece_Skunk_Trap_Electric_GardenLamp",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "9b74c14c3c26df95",
+		"comment": "Setpiece_Skunk_Trap_Electric_GardenLamp",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "70d89c802c8c7ed0",
+		"comment": "Setpiece_Skunk_Trap_Electric_GardenLamp",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
 	}
+
+
+
+
+
 
 ],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
-	"externalScenes": ["[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype","[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"],
+	"externalScenes": ["[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"],
 	"subType": 1,
 	"quickEntityVersion": 2.1
 }
