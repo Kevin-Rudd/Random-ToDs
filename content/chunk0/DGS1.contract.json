@@ -2,10 +2,13 @@
   "Data": {
     "EnableSaving": true,
     "Bricks": [
-      "assembly:/_pro/scenes/missions/ancestral/mission_smoothsnake.brick",
-      "assembly:/_pro/scenes/missions/ancestral/tod_night_garden_show.brick"
+      "assembly:/_pro/scenes/missions/ancestral/mission_smoothsnake.brick"
     ],
-    
+    "RandomBricks": {
+      "TimeOfDay": [
+      "assembly:/_pro/scenes/missions/ancestral/tod_night_garden_show.brick"
+      ]
+  },
     "VR": [
       {
         "Quality": "base",
