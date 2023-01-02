@@ -4442,7 +4442,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414", "668dafc1d5c78dbb", "ffc3c03586d79c9f", "eaaa1c648b37fb94", "abcd3c5d9712d685", "cab72d5f150fef22", "f41f1a07026a1702", "1439a92e29ad085a", "252fe7c71a960192", "824ec2dce0fab528", "b12c0304a3bc3ef9", "aa09bd27963c73d1","932734f09cd6d2b6"]
+					"value": ["fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414", "668dafc1d5c78dbb", "ffc3c03586d79c9f", "eaaa1c648b37fb94", "abcd3c5d9712d685", "cab72d5f150fef22", "f41f1a07026a1702", "1439a92e29ad085a", "252fe7c71a960192", "824ec2dce0fab528", "b12c0304a3bc3ef9", "aa09bd27963c73d1", "932734f09cd6d2b6", "6f0d0f54ac0c1509", "7d41ff02eefccaa9", "33dad9360dce4020", "15bbed37a3b9760f", "93632068a8cada91", "3bc58bba760542b2", "4bc15ba788b1ecc5", "8b54c97f224c3f96", "127716c6f2b9afc8", "fb402f47e4290788", "f5723d8f550ba6c", "6b8ed80e4d57547d", "2d8d1e44098bd0e3"]
 				}
 			},
 			"postInitProperties": {},
@@ -5092,9 +5092,9 @@
 							"z": 180
 						},
 						"position": {
-							"x": -27.122446,
-							"y": 39,
-							"z": 8.461747
+							"x": 0,
+							"y": 0,
+							"z": 0
 						}
 					}
 				},
@@ -5950,7 +5950,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -5976,7 +5976,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6018,7 +6018,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6044,7 +6044,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6078,15 +6078,15 @@
 							"z": 90.00000250447816
 						},
 						"position": {
-							"x": -0.04935015,
-							"y": 103.63648,
-							"z": 1.6772755
+							"x": 6.00412,
+							"y": 103.63644,
+							"z": 1.6723287
 						}
 					}
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6112,7 +6112,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6154,7 +6154,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6180,7 +6180,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6222,7 +6222,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6248,7 +6248,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6290,7 +6290,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6316,7 +6316,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6350,7 +6350,7 @@
 							"z": 90.00000250447816
 						},
 						"position": {
-							"x": -6.068626,
+							"x": -6.098626,
 							"y": 103.53821,
 							"z": 1.6772755
 						}
@@ -6358,7 +6358,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6384,7 +6384,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6426,7 +6426,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6452,7 +6452,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
@@ -6481,20 +6481,20 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
+							"x": 90,
 							"y": 0,
-							"z": 0.00000250447816
+							"z": -135
 						},
 						"position": {
-							"x": -2.8490782,
-							"y": 106.72069,
-							"z": 1.6709098
+							"x": -32.441013,
+							"y": -27.505386,
+							"z": 6.0364886
 						}
 					}
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 150
+					"value": 100
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6520,7 +6520,891 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 200
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6f0d0f54ac0c1509": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_entrance_stand_light_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90,
+							"y": 0,
+							"z": 44
+						},
+						"position": {
+							"x": -27.555,
+							"y": -22.931557,
+							"z": 6.0364886
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7d41ff02eefccaa9": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_entrance_stand_light_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -90.00000250447816,
+							"y": 0,
+							"z": -43
+						},
+						"position": {
+							"x": -27.215158,
+							"y": -27.879862,
+							"z": 6.0364886
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"33dad9360dce4020": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_entrance_stand_light_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 180,
+							"z": -45
+						},
+						"position": {
+							"x": -32.58692,
+							"y": -23.143711,
+							"z": 6.0364886
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"15bbed37a3b9760f": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_juice_stand_light_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": -91.00000250447816
+						},
+						"position": {
+							"x": -54.810302,
+							"y": 29.015392,
+							"z": 5.686896
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"93632068a8cada91": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_juice_stand_light_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": 88.00000250447816
+						},
+						"position": {
+							"x": -50.9521464,
+							"y": 29.015392,
+							"z": 5.686896
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3bc58bba760542b2": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_guard_stand_light_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": 0.00000250447816
+						},
+						"position": {
+							"x": -25.13721,
+							"y": 38.663609,
+							"z": 6.8677227
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4bc15ba788b1ecc5": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_guard_stand_light_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": 180.00000250447816
+						},
+						"position": {
+							"x": -25.216026,
+							"y": 31.832616,
+							"z": 6.8677227
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8b54c97f224c3f96": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_guard_stand_light_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": 90.00000250447816
+						},
+						"position": {
+							"x": -22.2286894,
+							"y": 35.56305,
+							"z": 6.8677227
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"127716c6f2b9afc8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_guard_stand_light_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": -90.00000250447816
+						},
+						"position": {
+							"x": -28.3612095,
+							"y": 35.56305,
+							"z": 6.8677227
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fb402f47e4290788": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_stand_light_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -90.00000250447816,
+							"y": 0,
+							"z": -1
+						},
+						"position": {
+							"x": -39.84392,
+							"y": 9.776702,
+							"z": 5.710845
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f5723d8f550ba6c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_stand_light_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": -0.5
+						},
+						"position": {
+							"x": -39.84392,
+							"y": 16.620662,
+							"z": 5.710845
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6b8ed80e4d57547d": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_stand_light_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": -90.00000250447816
+						},
+						"position": {
+							"x": -42.92013,
+							"y": 13.121234,
+							"z": 5.710845
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2d8d1e44098bd0e3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_stand_light_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.00000250447816,
+							"y": 0,
+							"z": 90.00000250447816
+						},
+						"position": {
+							"x": -36.753462,
+							"y": 13.180728,
+							"z": 5.710845
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#79fff8"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
 				},
 				"On": {
 					"type": "bool",
