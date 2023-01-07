@@ -133,7 +133,51 @@
 		"runtimeID": "0079AFAB0FCE6F29",
 		"comment": "haven_lamps",
 		"toChunk": 1
-	}],
+	},
+
+
+	{
+		"runtimeID": "00408BD9834EB7CD",
+		"comment": "hokkaido_cubes_lamps",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "0017C85DFCEEC538",
+		"comment": "hokkaido_statues Snow_sculpture_japan_b",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00CF6BF298B7FB47",
+		"comment": "hokkaido_statues Snow_Sculpture_Gargoyle_B",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00A1D2E3735955A4",
+		"comment": "hokkaido_statues Snow_sculpture_modern_japan_b",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "000C1EACDE56EB7D",
+		"comment": "hokkaido_statues Snow_sculpture_modern_japan_a",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00C0A125F639D090",
+		"comment": "hokkaido_statues Snow_sculpture_buddha_big_gold_a",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "0017C6ADA24252CA",
+		"comment": "hokkaido_statues Snow_Sculpture_Palace_Frog_A_00",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "009CED3B136C1392",
+		"comment": "hokkaido_statues Snow_Sculpture_Brass_Lion_Outdoor_A",
+		"toChunk": 1
+	}
+
+],
 	"packagedefinition": [
 		{
 			"type": "entity",
