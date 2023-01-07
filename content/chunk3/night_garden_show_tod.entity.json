@@ -1314,206 +1314,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		"540658cf8687c65a": {
-			"parent": "abcdd8dc88295779",
-			"name": "Lamp_Street_Ornamented_Italy_A_15_maze_corner_first_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -18.6085,
-							"y": 97.3322,
-							"z": -1.712257
-						}
-					}
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 200
-				}
-			},
-			"postInitProperties": {
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "aff994cc4a72c41f",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"6b091c366d9fe0e1": {
-			"parent": "abcdd8dc88295779",
-			"name": "Lamp_Street_Ornamented_Italy_A_16_maze_second_square_corner",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": -18.4645,
-							"y": 106.822,
-							"z": -1.712257
-						}
-					}
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 200
-				}
-			},
-			"postInitProperties": {
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "aff994cc4a72c41f",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"321110fa757682bd": {
-			"parent": "abcdd8dc88295779",
-			"name": "Lamp_Street_Ornamented_Italy_A_17_maze_third_square_corner",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 18.4569,
-							"y": 106.897,
-							"z": -1.712257
-						}
-					}
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 200
-				}
-			},
-			"postInitProperties": {
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "aff994cc4a72c41f",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"baa5014735ce5752": {
-			"parent": "abcdd8dc88295779",
-			"name": "Lamp_Street_Ornamented_Italy_A_18_maze_forth_square_corner",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_street_ornamented_italy_a.entitytemplate].pc_entityblueprint",
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 18.4008,
-							"y": 97.2473,
-							"z": -1.712257
-						}
-					}
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 200
-				}
-			},
-			"postInitProperties": {
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": {
-						"ref": "aff994cc4a72c41f",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-					}
-				}
-			},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
 		"cf2f85a6eada852c": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_Palace_Street_A_20_cemetary_2",
@@ -2966,17 +2766,17 @@
 		},
 		"500d879a3b821f38": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_01_first_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_10",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -21.067,
@@ -2985,32 +2785,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#5957e2"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3019,22 +2816,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"c5be1f1c3da9f7a4": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_02_first_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_11",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -17.1238,
@@ -3043,32 +2841,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#5957e2"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3077,22 +2872,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"9e458076a675c333": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_03_first_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_12",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -32.3941,
@@ -3101,32 +2897,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#5957e2"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3135,22 +2928,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"d39572a20bac806e": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_04_first_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_12",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -32.284,
@@ -3159,32 +2953,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#5957e2"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3193,22 +2984,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"8f58686cb8721b94": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_06_second_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_second_square_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -34.4955,
@@ -3217,32 +3009,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#FFFBD69A"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3251,22 +3040,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"bc9695ee7b0f0757": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_07_second_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_second_square_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -25.63522,
@@ -3275,32 +3065,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#FFFBD69A"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3309,22 +3096,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"5b79798d8fe6ba25": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_08_second_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_second_square_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -16.9122,
@@ -3333,32 +3121,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#FFFBD69A"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3367,22 +3152,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"aae5f0fd068ab117": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_09_third_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_06",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 20.5246,
@@ -3391,32 +3177,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#d9e919"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3425,22 +3208,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"8c06a0391398fc9e": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_10_third_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_07",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 18.7566,
@@ -3449,32 +3233,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#d9e919"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3483,22 +3264,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"57369093ee2cd411": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_11_third_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_08",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 33.84397,
@@ -3507,32 +3289,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#d9e919"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3541,22 +3320,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"8dcdbabed53f92f4": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_12_third_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_09",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 31.1858,
@@ -3565,32 +3345,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#d9e919"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3599,22 +3376,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"af5e268afe3631c6": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_13_forth_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 33.1384,
@@ -3623,32 +3401,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#18e8e8"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3657,22 +3432,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"273f152c2c9c535c": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_14_forth_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 26.0671,
@@ -3681,32 +3457,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#18e8e8"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3715,22 +3488,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"b9becbc682f0993b": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_15_forth_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 19.4667,
@@ -3739,32 +3513,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#18e8e8"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3773,22 +3544,23 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
 		"36fc0073b65d6de9": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_16_forth_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": 18.1202,
@@ -3797,32 +3569,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#18e8e8"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -3831,6 +3600,7 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -4358,17 +4128,17 @@
 		},
 		"24aa774b46caf1b3": {
 			"parent": "abcdd8dc88295779",
-			"name": "Haven_Lamps_05_second_square",
-			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entitytype",
-			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_floor_standing_stingray_a_00.entitytemplate].pc_entityblueprint",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_second_square_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
 						},
 						"position": {
 							"x": -22.314,
@@ -4377,32 +4147,29 @@
 						}
 					}
 				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
 				"On": {
 					"type": "bool",
 					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#FFFBD69A"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"m_eRoomBehaviour": {
-					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_DYNAMIC"
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				}
-			},
-			"postInitProperties": {
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -4411,6 +4178,7 @@
 					}
 				}
 			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -6770,7 +6538,7 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#79fff8"
+					"value": "#eb0e1c"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -6838,7 +6606,7 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#79fff8"
+					"value": "#eb0e1c"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -7441,6 +7209,2022 @@
 							"x": -27.0111,
 							"y": 84.9804,
 							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"708a91fb52ded936": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -23.2904,
+							"y": 83.2754,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"54eb47874ad37b0f": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -15.8155,
+							"y": 84.0522,
+							"z": -4.84288e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#5957e2"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5417b1bc2040bf0": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -20.5276,
+							"y": 87.3622,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ff7a951909522932": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -29.626,
+							"y": 87.7596,
+							"z": -4.84288e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6dbd4fd6b41ec743": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_06",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -35.0146,
+							"y": 89.8387,
+							"z": 0.0171917
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6b3e73cf38a68672": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_07",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -23.2364,
+							"y": 90.6059,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#5957e2"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1bce72104e3a200d": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_first_square_08",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -27.5535,
+							"y": 91.4636,
+							"z": -4.84288e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f60be9ad133b4d97": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 21.595,
+							"y": 112.263,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#d9e919"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"be2e17adff6b4cb1": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 19.0608,
+							"y": 118.213,
+							"z": -4.84288e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"449fd5c760f8cbe3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 34.4453,
+							"y": 113.413,
+							"z": -4.84288e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#6eff00"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e1c0fed23626f70b": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 24.7767,
+							"y": 107.618,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#d9e919"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3acb59e2429df8b0": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_third_square_05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 26.2627,
+							"y": 125.616,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"33596e3e14212057": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_09",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 17.386,
+							"y": 86.3379,
+							"z": -4.84288e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3cf2b43a980744f9": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 34.3279,
+							"y": 95.9948,
+							"z": 7.07805e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e8d28bbf7b278680": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_11",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 24.9578,
+							"y": 82.3833,
+							"z": -0.583101
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5fd78cf1b127f684": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_06",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 28.0271,
+							"y": 77.6224,
+							"z": 0.0745641
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"dfb7f24115417167": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_10",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 26.9488,
+							"y": 91.2295,
+							"z": -0.583101
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9e9757faba9d94d2": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_08",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 24.7409,
+							"y": 79.3797,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d51c458f2406b8f5": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_09",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 20.4487,
+							"y": 87.469,
+							"z": -0.583101
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f8d2c6781e4c6e18": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_12",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 29.3479,
+							"y": 87.156,
+							"z": -0.583101
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8d29ea86e5850970": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_fourth_square_07",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 34.2251,
+							"y": 84.0828,
+							"z": 1.11759e-08
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7cb29e4790fcafc4": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 8.415978,
+							"y": 138.45592,
+							"z": 1.4027531
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"be6892680acdb460": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 8.393391,
+							"y": 135.94095,
+							"z": 1.4027531
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"96044f83af55b861": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 4.7731476,
+							"y": 136.26741,
+							"z": 1.1301312
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4799b419f71e667c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 2.5620246,
+							"y": 137.90187,
+							"z": 1.1301312
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2867f57f0315e8f4": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -0.12006206,
+							"y": 136.12611,
+							"z": 1.1301312
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ac8d40fd43925768": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_06",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -2.564056,
+							"y": 137.96732,
+							"z": 1.1241332
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#6eff00"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bc71299dd51d16f": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_07",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -4.800837,
+							"y": 136.48637,
+							"z": 1.1301312
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"75f157e4a4a583ec": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_08",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -6.6894717,
+							"y": 141.22055,
+							"z": 1.4027531
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"aff8626c1ff5ed79": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_09",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -7.9089746,
+							"y": 139.41765,
+							"z": 1.4027531
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f4af2a492583cda0": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_10",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -5.8118587,
+							"y": 133.70511,
+							"z": 1.4027531
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1b6e8ca5ca83fb07": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_11",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1f062fdcb76e5621": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_12",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2a8f6ad0dd334530": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_13",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e68bf5d81195bc89": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_14",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 3
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#0033ff"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bc8d8cb5822cf110": {
+			"parent": "abcdd8dc88295779",
+			"name": "Hokkaido_Lamp_Garden_Ground_B_greenhouse_15",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
 						}
 					}
 				},
