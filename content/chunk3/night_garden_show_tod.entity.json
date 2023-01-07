@@ -7422,70 +7422,7 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
-		},
-
-
-
-
-		"3c1ba28ca58a30c6": {
-			"parent": "abcdd8dc88295779",
-            "name": "Hokkaido Lamp_Garden_Ground_1",
-            "template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/lamp_garden_ground_c_00.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": -180.0
-                        },
-                        "position": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        }
-                    }
-                },
-                "m_bVisible": {
-                    "type": "bool",
-                    "value": true
-                },
-                "On": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_vFarAttenuation": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 1,
-                        "y": 3
-                    }
-                },
-                "m_fLightFadeDistance": {
-                    "type": "float32",
-                    "value": 50
-                },
-                "DiffuseColor": {
-                    "type": "SColorRGB",
-                    "value": "#001eff"   
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": {
-						"ref": "aff994cc4a72c41f",
-						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-                    }
-                }
-            },
-            "postInitProperties": {},
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        }
-
-
-
+		}
 	},
 	"propertyOverrides": [{
 		"entities": [{
