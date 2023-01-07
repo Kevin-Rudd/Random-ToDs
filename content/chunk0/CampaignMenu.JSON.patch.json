@@ -1,0 +1,22 @@
+{ "file": "0093B70B9E704CE0",
+    "patch": [
+  {
+    "op": "add",
+    "path": "/4/Subgroups/-",
+    "value": {
+      "Name": "UI_MENU_PAGE_HITS_ELEMENT_CATEGORY_MODDED",
+      "Image": "",
+      "Type": "campaign",
+      "BackgroundImage": "images/ui/boot/bg_welcome.jpg",
+      "StoryData": [
+       
+        {
+          "Type": "Mission",
+          "Id": "bdd43a59-b74f-4159-8e7d-7209e5a13f84",
+          "_comment": "DGS"
+        }
+      ]
+    }
+  }
+]
+}

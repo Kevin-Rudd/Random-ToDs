@@ -307,6 +307,11 @@
 			  "type": "entity",
 			  "partition": "dugong",
 			  "path": "[assembly:/_PRO/Scenes/Missions/Rocky/tod_sunset.brick].entitytype"
-		  }
+		  },
+		  {
+			"type": "entity",
+			"partition": "elegant",
+			"path": "[assembly:/_pro/scenes/missions/elegant/tod_menzdoza_night.brick].entitytype"
+		}
 	  ]
 }
