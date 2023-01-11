@@ -33,6 +33,5714 @@
 				}]
 			]
 		},
+		"28762c1ab85c4bbc": {
+			"parent": "1b985aa5c943619c",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff00a6"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["989f748ed52c92a8"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"466a194f351c4dee": {
+			"parent": "1b985aa5c943619c",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 129.26662,
+							"z": 5.571405
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"647e9a186a9a83f0": {
+			"parent": "1b985aa5c943619c",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 129.26662,
+							"z": 5.571405
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"989f748ed52c92a8": {
+			"parent": "1b985aa5c943619c",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 129.26662,
+							"z": 5.571405
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["466a194f351c4dee"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1b985aa5c943619c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_01",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"766a1d149909db9c": {
+			"parent": "3646631ba8a7d3bd",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["4c176f63bed55184"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a2335051d64005d1": {
+			"parent": "3646631ba8a7d3bd",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 130.25189,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"db06dbf9b3922475": {
+			"parent": "3646631ba8a7d3bd",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 130.25189,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4c176f63bed55184": {
+			"parent": "3646631ba8a7d3bd",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 130.25189,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["a2335051d64005d1"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3646631ba8a7d3bd": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_02",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"af10d4a196dcb17f": {
+			"parent": "90c0f8106bad2776",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["f2732c01ce4dca5d"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d69ac6963a125f24": {
+			"parent": "90c0f8106bad2776",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 131.25136,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b3380e5e83f0db0d": {
+			"parent": "90c0f8106bad2776",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 131.25136,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f2732c01ce4dca5d": {
+			"parent": "90c0f8106bad2776",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -1.8941287,
+							"y": 131.25136,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d69ac6963a125f24"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"90c0f8106bad2776": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_03",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"75af4473b037d6cb": {
+			"parent": "50d435d0ca1bce23",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff00a6"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["9b3a83d7f70e9893"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2e45d41d1a6c528f": {
+			"parent": "50d435d0ca1bce23",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 129.26662,
+							"z": 5.571405
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b0dc47c48b94c9a4": {
+			"parent": "50d435d0ca1bce23",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 129.26662,
+							"z": 5.571405
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9b3a83d7f70e9893": {
+			"parent": "50d435d0ca1bce23",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 129.26662,
+							"z": 5.571405
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["2e45d41d1a6c528f"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"50d435d0ca1bce23": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_04",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7d398c3048472c1d": {
+			"parent": "e11a5ddccf3cf278",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["cbc9e933cb3f2f34"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e30ade3e4e6a6501": {
+			"parent": "e11a5ddccf3cf278",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 130.25189,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"21768e945a201ca0": {
+			"parent": "e11a5ddccf3cf278",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 130.25189,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cbc9e933cb3f2f34": {
+			"parent": "e11a5ddccf3cf278",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 130.25189,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["e30ade3e4e6a6501"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e11a5ddccf3cf278": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_05",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"19d18370750e286b": {
+			"parent": "984cb15e102482e3",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["5c5bf0683ebe24bc"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a3c97c22fed313b3": {
+			"parent": "984cb15e102482e3",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 131.25136,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2ec92dc1129223e8": {
+			"parent": "984cb15e102482e3",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 131.25136,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5c5bf0683ebe24bc": {
+			"parent": "984cb15e102482e3",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 1.9010687,
+							"y": 131.25136,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["a3c97c22fed313b3"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"984cb15e102482e3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_06",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"839dbf7a1fa6e47": {
+			"parent": "79a0fd2334197b63",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["5cd14f7a6e051625"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b442e7f6f1acf546": {
+			"parent": "79a0fd2334197b63",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -4.7077217,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2681d1aa84aa4491": {
+			"parent": "79a0fd2334197b63",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -4.7077217,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5cd14f7a6e051625": {
+			"parent": "79a0fd2334197b63",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -4.7077217,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["b442e7f6f1acf546"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"79a0fd2334197b63": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_07",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d3db0e839a6475eb": {
+			"parent": "e9e26cee80b1f2b4",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["fcc178ae8fa1db16"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9417c6e476cffb18": {
+			"parent": "e9e26cee80b1f2b4",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -3.841094,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"dd0bbadb0081d6af": {
+			"parent": "e9e26cee80b1f2b4",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.841094,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fcc178ae8fa1db16": {
+			"parent": "e9e26cee80b1f2b4",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.841094,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["9417c6e476cffb18"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e9e26cee80b1f2b4": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_08",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7205a2d4c2b1972e": {
+			"parent": "55a17cc4bcfeb80",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d4d538d36c242d7c"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"aaf0a2a887620036": {
+			"parent": "55a17cc4bcfeb80",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -3.018217,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"af55dab9d4643d77": {
+			"parent": "55a17cc4bcfeb80",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.018217,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d4d538d36c242d7c": {
+			"parent": "55a17cc4bcfeb80",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.018217,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["aaf0a2a887620036"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"55a17cc4bcfeb80": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_09",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1b9f845290c848bc": {
+			"parent": "75274af9d862903a",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d67236a658b38fc5"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"161bd6ba475ef37": {
+			"parent": "75274af9d862903a",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 3.001940627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f3c65551c2b82ded": {
+			"parent": "75274af9d862903a",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.001940627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d67236a658b38fc5": {
+			"parent": "75274af9d862903a",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.001940627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["161bd6ba475ef37"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"75274af9d862903a": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_10",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9c98aa289cb8c253": {
+			"parent": "8097faf5047f0337",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["b163b329fc258774"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cf5ecd5b5c2f682b": {
+			"parent": "8097faf5047f0337",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 3.8540627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"34717ce23a4c4f7b": {
+			"parent": "8097faf5047f0337",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.8540627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b163b329fc258774": {
+			"parent": "8097faf5047f0337",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.8540627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["cf5ecd5b5c2f682b"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8097faf5047f0337": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_11",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5da21befb32819be": {
+			"parent": "23c7f055743fd6b6",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d23497c627424524"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bd25ebb3bcf12fd8": {
+			"parent": "23c7f055743fd6b6",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 4.700940627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fa0915173a87a90e": {
+			"parent": "23c7f055743fd6b6",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 4.700940627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d23497c627424524": {
+			"parent": "23c7f055743fd6b6",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 4.700940627,
+							"y": 132.50551,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["bd25ebb3bcf12fd8"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"23c7f055743fd6b6": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_12",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"aabd64853e2535a5": {
+			"parent": "b191cb7865e40885",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d568e8dc85cd6eed"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7e4f79d1821826b3": {
+			"parent": "b191cb7865e40885",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -4.7077217,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a8a3a29db13749d8": {
+			"parent": "b191cb7865e40885",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -4.7077217,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d568e8dc85cd6eed": {
+			"parent": "b191cb7865e40885",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -4.7077217,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["7e4f79d1821826b3"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b191cb7865e40885": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_13",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cc12c89902417fa0": {
+			"parent": "f99f0c3b2765ccd7",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["2136b6be5eaa389f"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fc6969639a7b0b0a": {
+			"parent": "f99f0c3b2765ccd7",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -3.841094,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"11391bd4fe246f94": {
+			"parent": "f99f0c3b2765ccd7",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.841094,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2136b6be5eaa389f": {
+			"parent": "f99f0c3b2765ccd7",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.841094,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["fc6969639a7b0b0a"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f99f0c3b2765ccd7": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_14",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5b060bd59e68dbd2": {
+			"parent": "3fedb2d809ccf00c",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["c6d5400b2e375e58"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1d623263988a5c72": {
+			"parent": "3fedb2d809ccf00c",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": -3.018217,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"49ba64480c3462ae": {
+			"parent": "3fedb2d809ccf00c",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.018217,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c6d5400b2e375e58": {
+			"parent": "3fedb2d809ccf00c",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.018217,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["1d623263988a5c72"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3fedb2d809ccf00c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_15",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2439574dfbb89803": {
+			"parent": "e73eafbbc724430c",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["908446bf913d2a4e"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e8e2a5c5891ca29e": {
+			"parent": "e73eafbbc724430c",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 3.001940627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bb7d16170e571215": {
+			"parent": "e73eafbbc724430c",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.001940627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"908446bf913d2a4e": {
+			"parent": "e73eafbbc724430c",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.001940627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["e8e2a5c5891ca29e"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e73eafbbc724430c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_16",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ad3301b9361cacdd": {
+			"parent": "991294c8d19f7783",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d87d85a5bf9504ee"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d47147e64a7b7afb": {
+			"parent": "991294c8d19f7783",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 3.8540627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2a2536f27d4aaa97": {
+			"parent": "991294c8d19f7783",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.8540627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff00ee"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d87d85a5bf9504ee": {
+			"parent": "991294c8d19f7783",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.8540627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["d47147e64a7b7afb"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"991294c8d19f7783": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_17",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f5bab2285b8d4799": {
+			"parent": "cb7ff5844b2f7dcd",
+			"name": "light_string_c",
+			"template": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/materials/props/wires/light_string_c.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"ConstantVector1D_07_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantVector1D_07_Value": {
+					"type": "float32",
+					"value": 500
+				},
+				"Texture2D_04_enab": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["cbaf066d31d039c1"]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6f86788e0b820bae": {
+			"parent": "cb7ff5844b2f7dcd",
+			"name": "ClothColliderPlane_fixed",
+			"template": "[modules:/zclothplane.class].pc_entitytype",
+			"blueprint": "[modules:/zclothplane.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.0,
+							"y": 90.0,
+							"z": 90.0
+						},
+						"position": {
+							"x": 4.700940627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_vGlobalSize": {
+					"type": "SVector2",
+					"value": {
+						"x": 7,
+						"y": 5
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cf26463f3e867e97": {
+			"parent": "cb7ff5844b2f7dcd",
+			"name": "Light",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 4.700940627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_CAPSULE"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.285230040550232,
+						"y": 2.6182100772857668
+					}
+				},
+				"m_fCapsuleHeight": {
+					"type": "float32",
+					"value": 5.691658020019531
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cbaf066d31d039c1": {
+			"parent": "cb7ff5844b2f7dcd",
+			"name": "Wire00",
+			"template": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([modules:/zprimitivecontainerentity.class].entitytype,[modules:/zclothwireentity.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 4.700940627,
+							"y": 142.22586,
+							"z": 5.5471034
+						}
+					}
+				},
+				"m_Material": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/materials/props/wires/electric_wires_c.mi].pc_mi",
+						"flag": "5F"
+					}
+				},
+				"m_nNumWires": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_fWireWidth": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_bStraightRestPose": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bSimulationEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseTransformYAsTangents": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWireMaterialLength": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_fRestLengthScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_bLimitTranslation": {
+					"type": "bool",
+					"value": false
+				},
+				"m_nIterations": {
+					"type": "uint32",
+					"value": 4
+				},
+				"m_bCalculateRestPose": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWindConstant": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_nNumRenderSegments": {
+					"type": "uint32",
+					"value": 6
+				},
+				"m_bTexCoordsFromPivot": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bAnchorEnd": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fMaterialOffsetInterval": {
+					"type": "float32",
+					"value": 0.20999999344348908
+				},
+				"m_bUseWireMaterialLength": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDynamicRestLength": {
+					"type": "bool",
+					"value": false
+				},
+				"m_VertexColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fWireLength": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_fWireSpacing": {
+					"type": "float32",
+					"value": 0.23999999463558198
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fWireLengthRandomFactor": {
+					"type": "float32",
+					"value": 0.029999999329447744
+				},
+				"m_LocalColliders": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["6f86788e0b820bae"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cb7ff5844b2f7dcd": {
+			"parent": "abcdd8dc88295779",
+			"name": "Cloth_Wire_Curtain_18",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb4ba2974431c": {
+			"parent": "fffffffffffffffe",
+			"name": "Trigger stuff upon game start",
+			"template": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
+			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eEvent": {
+					"type": "EGameEventType",
+					"value": "GET_GameplayStart"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"events": [{
+				"onEvent": "EventOccurred",
+				"shouldTrigger": "GetIndex",
+				"onEntity": "abcd812edbe58538"
+			}],
+			"platformSpecificPropertyValues": []
+		},
+		"abcd812edbe58538": {
+			"parent": "abcdb4ba2974431c",
+			"name": "zmultiparentspatialentity",
+			"template": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
+			"properties": {
+				"m_aParents": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
 		"fbc66003c6026572": {
 			"parent": null,
 			"name": "fx_plane_500m",
@@ -4181,44 +9889,6 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
-		},
-		"abcdb4ba2974431c": {
-			"parent": "fffffffffffffffe",
-			"name": "Trigger stuff upon game start",
-			"template": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_eEvent": {
-					"type": "EGameEventType",
-					"value": "GET_GameplayStart"
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"events": [{
-				"onEvent": "EventOccurred",
-				"shouldTrigger": "GetIndex",
-				"onEntity": "abcd812edbe58538"
-			}],
-			"platformSpecificPropertyValues": []
-		},
-		"abcd812edbe58538": {
-			"parent": "abcdb4ba2974431c",
-			"name": "zmultiparentspatialentity",
-			"template": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
-			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
-			"properties": {
-				"m_aParents": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": ["fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414", "668dafc1d5c78dbb", "ffc3c03586d79c9f", "eaaa1c648b37fb94", "abcd3c5d9712d685", "cab72d5f150fef22", "f41f1a07026a1702", "1439a92e29ad085a", "252fe7c71a960192", "824ec2dce0fab528", "b12c0304a3bc3ef9", "aa09bd27963c73d1", "932734f09cd6d2b6", "6f0d0f54ac0c1509", "7d41ff02eefccaa9", "33dad9360dce4020", "15bbed37a3b9760f", "93632068a8cada91", "3bc58bba760542b2", "4bc15ba788b1ecc5", "8b54c97f224c3f96", "127716c6f2b9afc8", "fb402f47e4290788", "f5723d8f550ba6c", "6b8ed80e4d57547d", "2d8d1e44098bd0e3"]
-				}
-			},
-			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": [],
-			"events": [],
-			"inputCopying": [],
-			"outputCopying": []
 		},
 		"abcd4d094a88a9a1": {
 			"parent": "fffffffffffffffe",
@@ -9262,6 +14932,468 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"27c4a75957a27cb2": {
+			"parent": "abcdd8dc88295779",
+			"name": "globe_lamp_tree_french_garden_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 169.5592342513491
+						},
+						"position": {
+							"x": -29.808883,
+							"y": 91.0258,
+							"z": 4.7901876
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 150
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.7999999523162842,
+						"y": 4
+					}
+				},
+				"HeavyWindBool": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#ff7e5e"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5fb259f9ee596944": {
+			"parent": "abcdd8dc88295779",
+			"name": "globe_lamp_tree_french_garden_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 169.5592342513491
+						},
+						"position": {
+							"x": -17.220459,
+							"y": 88.6640315,
+							"z": 2.974494
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#5957e2"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 150
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.7999999523162842,
+						"y": 4
+					}
+				},
+				"HeavyWindBool": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#ff7e5e"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"42ef43ea00377f30": {
+			"parent": "abcdd8dc88295779",
+			"name": "globe_lamp_tree_french_garden_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 169.5592342513491
+						},
+						"position": {
+							"x": -30.87426,
+							"y": 94.9857,
+							"z": 3.4552484
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 150
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.7999999523162842,
+						"y": 4
+					}
+				},
+				"HeavyWindBool": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#ff7e5e"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1894d936fa9827ed": {
+			"parent": "abcdd8dc88295779",
+			"name": "globe_lamp_tree_french_garden_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 169.5592342513491
+						},
+						"position": {
+							"x": -25.813,
+							"y": 88.13003,
+							"z": 4.19374886
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 150
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.7999999523162842,
+						"y": 4
+					}
+				},
+				"HeavyWindBool": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#ff7e5e"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"df56afb1a1172cf6": {
+			"parent": "abcdd8dc88295779",
+			"name": "globe_lamp_tree_french_garden_05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 169.5592342513491
+						},
+						"position": {
+							"x": -28.42587848,
+							"y": 88.35202,
+							"z": 4.0571
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#5957e2"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 150
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.7999999523162842,
+						"y": 4
+					}
+				},
+				"HeavyWindBool": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#ff7e5e"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ef5c71e8c265ea13": {
+			"parent": "abcdd8dc88295779",
+			"name": "globe_lamp_tree_french_garden_06",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/stingray_rope_globe_lamp_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 90,
+							"z": 169.5592342513491
+						},
+						"position": {
+							"x": -24.060188,
+							"y": 90.101487,
+							"z": 4.0948993854
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff0066"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 150
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.7999999523162842,
+						"y": 4
+					}
+				},
+				"HeavyWindBool": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#ff7e5e"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{
@@ -12667,6 +18799,30 @@
 	}, {
 		"ref": "70d89c802c8c7ed0",
 		"comment": "Setpiece_Skunk_Trap_Electric_GardenLamp",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}, {
+		"ref": "3ba55b3f040db001",
+		"comment": "Hanging ball in tree french garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}, {
+		"ref": "5fb259f9ee596944",
+		"comment": "Hanging ball in tree french garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}, {
+		"ref": "42ef43ea00377f30",
+		"comment": "Hanging ball in tree french garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}, {
+		"ref": "1894d936fa9827ed",
+		"comment": "Hanging ball in tree french garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}, {
+		"ref": "df56afb1a1172cf6",
+		"comment": "Hanging ball in tree french garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}, {
+		"ref": "ef5c71e8c265ea13",
+		"comment": "Hanging ball in tree french garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
 	}],
 	"pinConnectionOverrides": [],
