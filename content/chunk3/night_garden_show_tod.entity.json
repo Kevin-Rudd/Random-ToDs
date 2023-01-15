@@ -32,7 +32,478 @@
 					"entities": []
 				}]
 			]
-		},
+		}, 
+		
+		"b7490136cfcadf25": {
+            "parent": "abcdd8dc88295779",
+            "name": "Lamp_Basement_Hanging_A_03",
+            "template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": -5.096047878265381,
+                            "y": 137.3708038330078,
+                            "z": 8.113750457763672
+                        }
+                    }
+                },
+				"SlaveLightVisible": {
+                    "type": "bool",
+                    "value": false
+                },
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+                "SlaveLightVisible": {
+                    "type": "bool",
+                    "value": false
+                },
+                "m_vFarAttenuation": {
+                    "type": "SVector2",
+                    "value": {
+                        "x": 2.1700000762939453,
+                        "y": 9.920000076293945
+                    }
+                },
+                "m_diffuseColor": {
+                    "type": "SColorRGB",
+                    "value": "#ffaf75"
+                },
+                "m_fLightFadeDistance": {
+                    "type": "float32",
+                    "value": 6
+                },
+                "m_fLightFadeLength": {
+                    "type": "float32",
+                    "value": 3
+                },
+                "DiffusePower": {
+                    "type": "float32",
+                    "value": 70
+                },
+                "SlaveLightTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": -180,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0,
+                            "z": -4.770327091217041
+                        }
+                    }
+                },
+                "Lamp_m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": -0.00034570691059343517,
+                            "y": -0.0001101493980968371,
+                            "z": -4.67445707321167
+                        }
+                    }
+                },
+                "m_vAngularAttenuation": {
+                    "type": "SVector2",
+                    "value": {
+                        "x": 0.5,
+                        "y": 0.8299999833106995
+                    }
+                },
+                "SlaveDiffusePower": {
+                    "type": "float32",
+                    "value": 0.40000000596046448
+                },
+                "On": {
+                    "type": "bool",
+                    "value": true
+                },
+                "GlowPower": {
+                    "type": "float32",
+                    "value": 12000
+                },
+                "m_fWrappedDiffuse": {
+                    "type": "float32",
+                    "value": 0
+                },
+                "ConstantVector1D_01_Value": {
+                    "type": "float32",
+                    "value": 25
+                },
+                "ConstantColorRGB_02_Value": {
+                    "type": "SColorRGB",
+                    "value": "#691000"
+                },
+                "m_bVisible": {
+                    "type": "bool",
+                    "value": true
+                },
+                "m_bUseDynamicShadowMap": {
+                    "type": "bool",
+                    "value": false
+                }
+            },
+            "postInitProperties": {
+                "m_eidParent": {
+                    "type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+                }
+            },
+            "editorOnly": false,
+            "platformSpecificPropertyValues": []
+        },
+		"49786daee1cf2ab2": {
+			"parent": "abcdd8dc88295779",
+            "name": "Lamp_Basement_Hanging_A_01",
+            "template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": 5.03367805480957,
+                            "y": 135.6916961669922,
+                            "z": 7.776360988616943
+                        }
+                    }
+                },
+				"SlaveLightVisible": {
+                    "type": "bool",
+                    "value": false
+                },
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+                "SlaveLightVisible": {
+                    "type": "bool",
+                    "value": false
+                },
+                "m_vFarAttenuation": {
+                    "type": "SVector2",
+                    "value": {
+                        "x": 2.1700000762939453,
+                        "y": 9.920000076293945
+                    }
+                },
+                "m_diffuseColor": {
+                    "type": "SColorRGB",
+                    "value": "#ffaf75"
+                },
+                "m_fLightFadeDistance": {
+                    "type": "float32",
+                    "value": 6
+                },
+                "m_fLightFadeLength": {
+                    "type": "float32",
+                    "value": 3
+                },
+                "DiffusePower": {
+                    "type": "float32",
+                    "value": 70
+                },
+                "SlaveLightTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": -180,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0,
+                            "z": -4.770327091217041
+                        }
+                    }
+                },
+                "Lamp_m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": -0.00034570691059343517,
+                            "y": -0.0001101493980968371,
+                            "z": -4.054457187652588
+                        }
+                    }
+                },
+                "m_vAngularAttenuation": {
+                    "type": "SVector2",
+                    "value": {
+                        "x": 0.5,
+                        "y": 0.8299999833106995
+                    }
+                },
+                "SlaveDiffusePower": {
+                    "type": "float32",
+                    "value": 0.40000000596046448
+                },
+                "On": {
+                    "type": "bool",
+                    "value": true
+                },
+                "GlowPower": {
+                    "type": "float32",
+                    "value": 12000
+                },
+                "m_fWrappedDiffuse": {
+                    "type": "float32",
+                    "value": 0
+                },
+                "ConstantVector1D_01_Value": {
+                    "type": "float32",
+                    "value": 25
+                },
+                "ConstantColorRGB_02_Value": {
+                    "type": "SColorRGB",
+                    "value": "#691000"
+                },
+                "m_bVisible": {
+                    "type": "bool",
+                    "value": true
+                },
+                "m_bUseDynamicShadowMap": {
+                    "type": "bool",
+                    "value": false
+                }
+            },
+            "postInitProperties": {
+                "m_eidParent": {
+                    "type": "SEntityTemplateReference",
+                    "value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+                }
+            },
+            "editorOnly": false,
+            "platformSpecificPropertyValues": []
+        },
+			"a3004a1ec4bd5490": {
+				"parent": "abcdd8dc88295779",
+            "name": "Lamp_Basement_Hanging_A_02",
+            "template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
+            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
+            "properties": {
+                "m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": 5.03367805480957,
+                            "y": 139.0469970703125,
+                            "z": 7.776360988616943
+                        }
+                    }
+                },
+                "SlaveLightVisible": {
+                    "type": "bool",
+                    "value": false
+                },
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+                "m_vFarAttenuation": {
+                    "type": "SVector2",
+                    "value": {
+                        "x": 2.1700000762939453,
+                        "y": 9.920000076293945
+                    }
+                },
+                "m_diffuseColor": {
+                    "type": "SColorRGB",
+                    "value": "#ffaf75"
+                },
+                "m_fLightFadeDistance": {
+                    "type": "float32",
+                    "value": 6
+                },
+                "m_fLightFadeLength": {
+                    "type": "float32",
+                    "value": 3
+                },
+                "DiffusePower": {
+                    "type": "float32",
+                    "value": 70
+                },
+                "SlaveLightTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": -180,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": 0,
+                            "y": 0,
+                            "z": -4.770327091217041
+                        }
+                    }
+                },
+                "Lamp_m_mTransform": {
+                    "type": "SMatrix43",
+                    "value": {
+                        "rotation": {
+                            "x": 0,
+                            "y": 0,
+                            "z": 0
+                        },
+                        "position": {
+                            "x": -0.00034570691059343517,
+                            "y": -0.0001101493980968371,
+                            "z": -4.054457187652588
+                        }
+                    }
+                },
+                "m_vAngularAttenuation": {
+                    "type": "SVector2",
+                    "value": {
+                        "x": 0.5,
+                        "y": 0.8299999833106995
+                    }
+                },
+                "SlaveDiffusePower": {
+                    "type": "float32",
+                    "value": 0.40000000596046448
+                },
+                "On": {
+                    "type": "bool",
+                    "value": true
+                },
+                "GlowPower": {
+                    "type": "float32",
+                    "value": 12000
+                },
+                "m_fWrappedDiffuse": {
+                    "type": "float32",
+                    "value": 0
+                },
+                "ConstantVector1D_01_Value": {
+                    "type": "float32",
+                    "value": 25
+                },
+                "ConstantColorRGB_02_Value": {
+                    "type": "SColorRGB",
+                    "value": "#691000"
+                },
+                "m_bVisible": {
+                    "type": "bool",
+                    "value": true
+                },
+                "m_bUseDynamicShadowMap": {
+                    "type": "bool",
+                    "value": false
+                }
+            },
+            "postInitProperties": {
+                "m_eidParent": {
+                    "type": "SEntityTemplateReference",
+                    "value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+                }
+            },
+            "editorOnly": false,
+            "platformSpecificPropertyValues": []
+        },
 		"756f80fc8e13c82f": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_wall_painting_greenhouse",
@@ -45,13 +516,111 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": -180
+							"z": -90
 						},
 						"position": {
 							"x": -3.5808861,
-							"y": 141.80386,
+							"y": 141.94386,
 							"z": 4.471758
 						}
+					}
+				},
+				"m_mTransform_Head": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.28999999165534973,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.319999933242798,
+						"y": 5.230000019073486
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"m_fAspectXByY": {
+					"type": "float32",
+					"value": 2.7409999370574951
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.26242780685424805,
+						"y": 0.9517599940299988
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9b4f"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 170
+				},
+				"LightMove": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 22.426051112458282,
+							"z": 0
+						},
+						"position": {
+							"x": -0.1262499988079071,
+							"y": -0.0055320002138614655,
+							"z": 0.06633300334215164
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6d99c4d37e19c099": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_wall_painting_bar",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_wall_painting_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_wall_painting_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -90
+						},
+						"position":{"x":-0.101128645,"y":100.2836,"z":1.5457218}
 					}
 				},
 				"m_mTransform_Head": {
@@ -7321,7 +7890,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
+					"value": ["6d99c4d37e19c099","756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
 				}
 			},
 			"postInitProperties": {},
@@ -12903,6 +13472,14 @@
 							"z": 0.010234000161290169
 						}
 					}
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 30
 				}
 			},
 			"postInitProperties": {
@@ -12936,6 +13513,14 @@
 							"y": 117.48159790039063,
 							"z": 0.010235000401735306
 						}
+					},
+					"GlowPower": {
+						"type": "float32",
+						"value": 30
+					},
+					"m_fDiffusePower": {
+						"type": "float32",
+						"value": 30
 					}
 				}
 			},
@@ -12971,6 +13556,14 @@
 							"z": 0.010234000161290169
 						}
 					}
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 30
 				}
 			},
 			"postInitProperties": {
@@ -13005,6 +13598,14 @@
 							"z": 0.010234000161290169
 						}
 					}
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 30
 				}
 			},
 			"postInitProperties": {
@@ -19840,7 +20441,43 @@
 				"value": true
 			}
 		}
-	}],
+	},
+
+
+	{
+		"entities": [{
+			"ref": "be59161391c5c5df",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}, {
+			"ref": "3f7c6f51fe87f494",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}, {
+			"ref": "52d7e7fd0ad0cdda",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}, {
+			"ref": "b56760915871eb50",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}, {
+			"ref": "fd48bccf2c6fe489",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_fDiffusePower": {
+				"type": "float32",
+				"value": 30
+			}
+		}
+	}
+
+
+
+
+
+
+
+
+
+],
 	"overrideDeletes": [{
 		"ref": "99459555ea73156e",
 		"comment": "Fog",
@@ -20349,7 +20986,53 @@
 		"ref": "ef5c71e8c265ea13",
 		"comment": "Hanging ball in tree french garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	}],
+	},
+
+
+	{
+		"ref": "260b0c1589c12176",
+		"comment": "fake lights bounce center garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "6c2e3c012b71a118",
+		"comment": "fake lights bounce center garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "a6de04f5edfd701e",
+		"comment": "fake lights bounce center garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "4dee28924c92aad1",
+		"comment": "fake lights bounce center garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "14bb1fbe918dde91",
+		"comment": "fake lights bounce center garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "48c4fe3210e9d540",
+		"comment": "fake lights bounce center garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "6efd416856daa1bb",
+		"comment": "fake lights bounce center garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	},
+	{
+		"ref": "41fdbf503209752a",
+		"comment": "birdcage greenhouse",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}
+
+
+
+],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": ["[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"],
