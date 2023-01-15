@@ -32,191 +32,526 @@
 					"entities": []
 				}]
 			]
-		}, 
-		
-		"b7490136cfcadf25": {
-            "parent": "abcdd8dc88295779",
-            "name": "Lamp_Basement_Hanging_A_03",
-            "template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": -5.096047878265381,
-                            "y": 137.3708038330078,
-                            "z": 8.113750457763672
-                        }
-                    }
-                },
-				"SlaveLightVisible": {
-                    "type": "bool",
-                    "value": false
-                },
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 500
-				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
+		},
+		"f6bdacb085fcbf24": {
+			"parent": "abcdd8dc88295779",
+			"name": "lamp_bangkok_wooden_japanese_garden_bridge",
+			"template": "00941C48686BE0E2",
+			"blueprint": "005D6FD560279CBD",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -178.73480605446176
+						},
+						"position": {
+							"x": -30.207460403442383,
+							"y": 112.43579864501953,
+							"z": 5.209850788116455
+						}
+					}
 				},
 				"On": {
 					"type": "bool",
 					"value": true
-				},
-				"m_bUseDynamicShadowMap": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-                "SlaveLightVisible": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_vFarAttenuation": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 2.1700000762939453,
-                        "y": 9.920000076293945
-                    }
-                },
-                "m_diffuseColor": {
-                    "type": "SColorRGB",
-                    "value": "#ffaf75"
-                },
-                "m_fLightFadeDistance": {
-                    "type": "float32",
-                    "value": 6
-                },
-                "m_fLightFadeLength": {
-                    "type": "float32",
-                    "value": 3
-                },
-                "DiffusePower": {
-                    "type": "float32",
-                    "value": 70
-                },
-                "SlaveLightTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -180,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": 0,
-                            "y": 0,
-                            "z": -4.770327091217041
-                        }
-                    }
-                },
-                "Lamp_m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": -0.00034570691059343517,
-                            "y": -0.0001101493980968371,
-                            "z": -4.67445707321167
-                        }
-                    }
-                },
-                "m_vAngularAttenuation": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 0.5,
-                        "y": 0.8299999833106995
-                    }
-                },
-                "SlaveDiffusePower": {
-                    "type": "float32",
-                    "value": 0.40000000596046448
-                },
-                "On": {
-                    "type": "bool",
-                    "value": true
-                },
-                "GlowPower": {
-                    "type": "float32",
-                    "value": 12000
-                },
-                "m_fWrappedDiffuse": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "ConstantVector1D_01_Value": {
-                    "type": "float32",
-                    "value": 25
-                },
-                "ConstantColorRGB_02_Value": {
-                    "type": "SColorRGB",
-                    "value": "#691000"
-                },
-                "m_bVisible": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_bUseDynamicShadowMap": {
-                    "type": "bool",
-                    "value": false
-                }
-            },
-            "postInitProperties": {
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
 					"value": {
 						"ref": "aff994cc4a72c41f",
 						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 					}
-                }
-            },
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        },
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b7647bff1bdbe0c7": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_A_00_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -44.356476,
+							"y": 20.274464,
+							"z": 4.168238
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#00eeff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 15
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.30000001192092898,
+						"y": 2.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"126414a31e95fdd3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_A_00_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -53.02124,
+							"y": 23.622824,
+							"z": 4.1510806
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#00eeff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 15
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.30000001192092898,
+						"y": 2.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"436a60d96ef435a8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_A_00_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -3.8187728,
+							"y": 91.951706,
+							"z": 0.2170771
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#00eeff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 15
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.30000001192092898,
+						"y": 2.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"42e9ed221eb9f0b3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_A_00_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -7.260451,
+							"y": 96.471214,
+							"z": 0.16191658
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#00eeff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 15
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.30000001192092898,
+						"y": 2.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"253d9471a5196198": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_A_00_05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 3.9439132,
+							"y": 91.73636,
+							"z": 0.21503492
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#00eeff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 15
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.30000001192092898,
+						"y": 2.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"994432d6eaa6ce60": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_A_00_06",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_hokkaido_a.template?/lamp_table_square_japanese_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 7.6918344,
+							"y": 96.29359,
+							"z": 0.21668684
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#00eeff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 15
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.30000001192092898,
+						"y": 2.5
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b7490136cfcadf25": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Basement_Hanging_A_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -5.096047878265381,
+							"y": 137.3708038330078,
+							"z": 8.113750457763672
+						}
+					}
+				},
+				"SlaveLightVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1700000762939453,
+						"y": 9.920000076293945
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf75"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 70
+				},
+				"SlaveLightTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -4.770327091217041
+						}
+					}
+				},
+				"Lamp_m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.00034570691059343517,
+							"y": -0.0001101493980968371,
+							"z": -4.67445707321167
+						}
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.5,
+						"y": 0.8299999833106995
+					}
+				},
+				"SlaveDiffusePower": {
+					"type": "float32",
+					"value": 0.40000000596046448
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 12000
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 25
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#691000"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"49786daee1cf2ab2": {
 			"parent": "abcdd8dc88295779",
-            "name": "Lamp_Basement_Hanging_A_01",
-            "template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": 5.03367805480957,
-                            "y": 135.6916961669922,
-                            "z": 7.776360988616943
-                        }
-                    }
-                },
+			"name": "Lamp_Basement_Hanging_A_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 5.03367805480957,
+							"y": 135.6916961669922,
+							"z": 7.776360988616943
+						}
+					}
+				},
 				"SlaveLightVisible": {
-                    "type": "bool",
-                    "value": false
-                },
+					"type": "bool",
+					"value": false
+				},
 				"m_bEnableLightFade": {
 					"type": "bool",
 					"value": true
@@ -241,140 +576,120 @@
 					"type": "bool",
 					"value": true
 				},
-                "SlaveLightVisible": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_vFarAttenuation": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 2.1700000762939453,
-                        "y": 9.920000076293945
-                    }
-                },
-                "m_diffuseColor": {
-                    "type": "SColorRGB",
-                    "value": "#ffaf75"
-                },
-                "m_fLightFadeDistance": {
-                    "type": "float32",
-                    "value": 6
-                },
-                "m_fLightFadeLength": {
-                    "type": "float32",
-                    "value": 3
-                },
-                "DiffusePower": {
-                    "type": "float32",
-                    "value": 70
-                },
-                "SlaveLightTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -180,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": 0,
-                            "y": 0,
-                            "z": -4.770327091217041
-                        }
-                    }
-                },
-                "Lamp_m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": -0.00034570691059343517,
-                            "y": -0.0001101493980968371,
-                            "z": -4.054457187652588
-                        }
-                    }
-                },
-                "m_vAngularAttenuation": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 0.5,
-                        "y": 0.8299999833106995
-                    }
-                },
-                "SlaveDiffusePower": {
-                    "type": "float32",
-                    "value": 0.40000000596046448
-                },
-                "On": {
-                    "type": "bool",
-                    "value": true
-                },
-                "GlowPower": {
-                    "type": "float32",
-                    "value": 12000
-                },
-                "m_fWrappedDiffuse": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "ConstantVector1D_01_Value": {
-                    "type": "float32",
-                    "value": 25
-                },
-                "ConstantColorRGB_02_Value": {
-                    "type": "SColorRGB",
-                    "value": "#691000"
-                },
-                "m_bVisible": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_bUseDynamicShadowMap": {
-                    "type": "bool",
-                    "value": false
-                }
-            },
-            "postInitProperties": {
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": {
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1700000762939453,
+						"y": 9.920000076293945
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf75"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 70
+				},
+				"SlaveLightTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -4.770327091217041
+						}
+					}
+				},
+				"Lamp_m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.00034570691059343517,
+							"y": -0.0001101493980968371,
+							"z": -4.67445707321167
+						}
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.5,
+						"y": 0.8299999833106995
+					}
+				},
+				"SlaveDiffusePower": {
+					"type": "float32",
+					"value": 0.40000000596046448
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 12000
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 25
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#691000"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
 						"ref": "aff994cc4a72c41f",
 						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 					}
-                }
-            },
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        },
-			"a3004a1ec4bd5490": {
-				"parent": "abcdd8dc88295779",
-            "name": "Lamp_Basement_Hanging_A_02",
-            "template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": 5.03367805480957,
-                            "y": 139.0469970703125,
-                            "z": 7.776360988616943
-                        }
-                    }
-                },
-                "SlaveLightVisible": {
-                    "type": "bool",
-                    "value": false
-                },
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a3004a1ec4bd5490": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Basement_Hanging_A_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_italy_a.template?/lamp_basement_hanging_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 5.03367805480957,
+							"y": 139.0469970703125,
+							"z": 7.776360988616943
+						}
+					}
+				},
+				"SlaveLightVisible": {
+					"type": "bool",
+					"value": false
+				},
 				"m_bEnableLightFade": {
 					"type": "bool",
 					"value": true
@@ -399,111 +714,95 @@
 					"type": "bool",
 					"value": true
 				},
-                "m_vFarAttenuation": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 2.1700000762939453,
-                        "y": 9.920000076293945
-                    }
-                },
-                "m_diffuseColor": {
-                    "type": "SColorRGB",
-                    "value": "#ffaf75"
-                },
-                "m_fLightFadeDistance": {
-                    "type": "float32",
-                    "value": 6
-                },
-                "m_fLightFadeLength": {
-                    "type": "float32",
-                    "value": 3
-                },
-                "DiffusePower": {
-                    "type": "float32",
-                    "value": 70
-                },
-                "SlaveLightTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -180,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": 0,
-                            "y": 0,
-                            "z": -4.770327091217041
-                        }
-                    }
-                },
-                "Lamp_m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        },
-                        "position": {
-                            "x": -0.00034570691059343517,
-                            "y": -0.0001101493980968371,
-                            "z": -4.054457187652588
-                        }
-                    }
-                },
-                "m_vAngularAttenuation": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 0.5,
-                        "y": 0.8299999833106995
-                    }
-                },
-                "SlaveDiffusePower": {
-                    "type": "float32",
-                    "value": 0.40000000596046448
-                },
-                "On": {
-                    "type": "bool",
-                    "value": true
-                },
-                "GlowPower": {
-                    "type": "float32",
-                    "value": 12000
-                },
-                "m_fWrappedDiffuse": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "ConstantVector1D_01_Value": {
-                    "type": "float32",
-                    "value": 25
-                },
-                "ConstantColorRGB_02_Value": {
-                    "type": "SColorRGB",
-                    "value": "#691000"
-                },
-                "m_bVisible": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_bUseDynamicShadowMap": {
-                    "type": "bool",
-                    "value": false
-                }
-            },
-            "postInitProperties": {
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": {
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1700000762939453,
+						"y": 9.920000076293945
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf75"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 70
+				},
+				"SlaveLightTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -4.770327091217041
+						}
+					}
+				},
+				"Lamp_m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -0.00034570691059343517,
+							"y": -0.0001101493980968371,
+							"z": -4.67445707321167
+						}
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.5,
+						"y": 0.8299999833106995
+					}
+				},
+				"SlaveDiffusePower": {
+					"type": "float32",
+					"value": 0.40000000596046448
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 12000
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 25
+				},
+				"ConstantColorRGB_02_Value": {
+					"type": "SColorRGB",
+					"value": "#691000"
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
 						"ref": "aff994cc4a72c41f",
 						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 					}
-                }
-            },
-            "editorOnly": false,
-            "platformSpecificPropertyValues": []
-        },
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"756f80fc8e13c82f": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_wall_painting_greenhouse",
@@ -620,7 +919,11 @@
 							"y": 0,
 							"z": -90
 						},
-						"position":{"x":-0.101128645,"y":100.2836,"z":1.5457218}
+						"position": {
+							"x": -0.101128645,
+							"y": 100.2836,
+							"z": 1.5457218
+						}
 					}
 				},
 				"m_mTransform_Head": {
@@ -701,6 +1004,234 @@
 					}
 				}
 			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"89bd731a1b8c4514": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_a_entrance_Fountain3",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 180
+						},
+						"position": {
+							"x": 1.889564,
+							"y": -33.110165,
+							"z": 3.266294
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 11.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"887e8c5c5cb34c3e": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_b_entrance_Fountain1",
+			"template": "0026B173B9158A05",
+			"blueprint": "00B2127A5DB7957E",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90
+						},
+						"position": {
+							"x": 0.064052954,
+							"y": -31.280617,
+							"z": 3.193441
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 11.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2d1f0c3afa76d397": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_a_entrance_Fountain4",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_magpie_a.template?/pier_light_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -1.8890842,
+							"y": -33.195904,
+							"z": 3.1856322
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 10.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"127fae6b34c6d395": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "pier_light_b_entrance_Fountain2",
+			"template": "0026B173B9158A05",
+			"blueprint": "00B2127A5DB7957E",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -90
+						},
+						"position": {
+							"x": 0.04937078,
+							"y": -35.066673,
+							"z": 3.3069289
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 10.600000023841858,
+						"y": 5.5
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff6df"
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
+				}
+			},
+			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -7882,6 +8413,656 @@
 			}],
 			"platformSpecificPropertyValues": []
 		},
+		"54b4e3fbb4a57329": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_01",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -28.8838,
+							"y": 108.66,
+							"z": 5.47618e-07
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cb2cc697c015ca8a": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_02",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -25.927488,
+							"y": 106.90189,
+							"z": 0.057783507
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d09870c88ee2eca8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_03",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -34.301167,
+							"y": 115.66403,
+							"z": -0.018301718
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"10536447ba0396f6": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_04",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -32.5508,
+							"y": 120.972,
+							"z": 4.88013e-07
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ccb3968f87a43888": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_05",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -30.2991,
+							"y": 115.484,
+							"z": 4.28408e-07
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a81e4dd400e8baa6": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_06",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -12.8299,
+							"y": 117.476,
+							"z": 4.88013e-07
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"218a64c6d49ab5c3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_07",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -16.4457,
+							"y": 114.34,
+							"z": 0.0331977
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ff611959085deeb4": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_08",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -18.6639,
+							"y": 110.202,
+							"z": 0.0331977
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"dd6db1c5f2d390f5": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_09",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -21.3562,
+							"y": 106.531,
+							"z": 4.28408e-07
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3ab1bb7798feab37": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Table_Square_Japanese_Cheap_10",
+			"template": "00DD3B02533AD71E",
+			"blueprint": "009E3FE66E32E8DE",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 90.98610890237995
+						},
+						"position": {
+							"x": -21.56969,
+							"y": 126.74086,
+							"z": 0.99360085
+						}
+					}
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 25
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ffaf87"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 40
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLODScale": {
+					"type": "float32",
+					"value": 1.5
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"abcd812edbe58538": {
 			"parent": "abcdb4ba2974431c",
 			"name": "zmultiparentspatialentity",
@@ -7890,7 +9071,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["6d99c4d37e19c099","756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
+					"value": ["3ab1bb7798feab37", "f5f2d4d4b31bc67c", "89bd731a1b8c4514", "887e8c5c5cb34c3e", "2d1f0c3afa76d397", "127fae6b34c6d395", "2f4dacaa7b2f7259", "22e2b6c38d51c30e", "126414a31e95fdd3", "436a60d96ef435a8", "42e9ed221eb9f0b3", "253d9471a5196198", "994432d6eaa6ce60", "b7647bff1bdbe0c7", "6d99c4d37e19c099", "756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
 				}
 			},
 			"postInitProperties": {},
@@ -12636,6 +13817,108 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
+		"f5f2d4d4b31bc67c": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "Lamp_Wall_Modern_Spot_Italy_A05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_italy_a.template?/lamp_wall_modern_spot_italy_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90,
+							"y": 0,
+							"z": 180
+						},
+						"position": {
+							"x": -31.776752,
+							"y": 39.975052,
+							"z": 9.282893
+						}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"Lamp_Neck_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -87.99992432830152,
+							"z": 0
+						},
+						"position": {
+							"x": 0.41095098853111267,
+							"y": 0.002530901925638318,
+							"z": 0.028281960636377335
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6fdff"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 5,
+						"y": 12
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.15000000596046448,
+						"y": 0.6800000071525574
+					}
+				},
+				"GlowIntensity": {
+					"type": "float32",
+					"value": 1000
+				},
+				"Lamp_Head_Transform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 36.00000363315671,
+							"z": 0
+						},
+						"position": {
+							"x": -4.999999873689376e-05,
+							"y": 0.001576000009663403,
+							"z": 0.23860199749469757
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 75
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"7e755299ab578e62": {
 			"parent": "abcd4d094a88a9a1",
 			"name": "Lamp_Wall_Modern_Spot_Italy_A06_entrance_right_2",
@@ -13824,6 +15107,142 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
+		"22e2b6c38d51c30e": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_bar_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.00000250447816,
+							"y": -180,
+							"z": 180.00000250447816
+						},
+						"position": {
+							"x": 1.6046602,
+							"y": 95.872025,
+							"z": 0.020104192
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 70
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9b4f"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 30
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2f4dacaa7b2f7259": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Strip_Light_Single_A_bar_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_single_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 180.00000250447816,
+							"y": -180,
+							"z": 180.00000250447816
+						},
+						"position": {
+							"x": -1.5314026,
+							"y": 95.87218,
+							"z": 0.026956774
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 70
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9b4f"
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.1399999856948853,
+						"y": 7.5
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.20000000298023224,
+						"y": 0.8199999928474426
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 30
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.6000000238418579
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"824ec2dce0fab528": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_Strip_Light_Single_A_center_left_02",
@@ -14255,11 +15674,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 100
+					"value": 70
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#eb0e1c"
+					"value": "#00eeff"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -14323,11 +15742,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 100
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#eb0e1c"
+					"value": "#00eeff"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -20439,12 +21858,17 @@
 			"LampOn": {
 				"type": "bool",
 				"value": true
+			},
+			"DiffusePower": {
+				"type": "float32",
+				"value": 70
+			},
+			"GlowPower": {
+				"type": "float32",
+				"value": 30
 			}
 		}
-	},
-
-
-	{
+	}, {
 		"entities": [{
 			"ref": "be59161391c5c5df",
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
@@ -20467,17 +21891,7 @@
 				"value": 30
 			}
 		}
-	}
-
-
-
-
-
-
-
-
-
-],
+	}],
 	"overrideDeletes": [{
 		"ref": "99459555ea73156e",
 		"comment": "Fog",
@@ -20986,53 +22400,43 @@
 		"ref": "ef5c71e8c265ea13",
 		"comment": "Hanging ball in tree french garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-
-
-	{
+	}, {
 		"ref": "260b0c1589c12176",
 		"comment": "fake lights bounce center garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "6c2e3c012b71a118",
 		"comment": "fake lights bounce center garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "a6de04f5edfd701e",
 		"comment": "fake lights bounce center garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "4dee28924c92aad1",
 		"comment": "fake lights bounce center garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "14bb1fbe918dde91",
 		"comment": "fake lights bounce center garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "48c4fe3210e9d540",
 		"comment": "fake lights bounce center garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "6efd416856daa1bb",
 		"comment": "fake lights bounce center garden",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	},
-	{
+	}, {
 		"ref": "41fdbf503209752a",
 		"comment": "birdcage greenhouse",
 		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
-	}
-
-
-
-],
+	}, {
+		"ref": "924efcfd31417e5d",
+		"comment": "birdcage japanese garden",
+		"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+	}],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": ["[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"],

@@ -143,6 +143,11 @@
 		"runtimeID": "00FC761F5BC4EF8A",
 		"comment": "hokkaido_wires_lamps",
 		"toChunk": 1
+	},
+	{
+		"runtimeID": "00DD3B02533AD71E",
+		"comment": "hokkaido_little_lamps",
+		"toChunk": 1
 	}],
 	"packagedefinition": [
 		{
