@@ -950,7 +950,7 @@
 				},
 				"m_bCastShadows": {
 					"type": "bool",
-					"value": false
+					"value": true
 				},
 				"DiffusePower": {
 					"type": "float32",
@@ -14913,7 +14913,7 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
+							"x": 50.00000250447816,
 							"y": 0,
 							"z": 180.00000250447816
 						},
@@ -14926,11 +14926,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 70
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#79fff8"
+					"value": "#f5ffb9"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -14955,6 +14955,10 @@
 					"value": 30
 				},
 				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
 					"type": "bool",
 					"value": true
 				},
@@ -14981,7 +14985,7 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
+							"x": 50.00000250447816,
 							"y": 0,
 							"z": 0.00000250447816
 						},
@@ -14994,11 +14998,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 70
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#79fff8"
+					"value": "#f5ffb9"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -15023,6 +15027,10 @@
 					"value": 30
 				},
 				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bUseDynamicShadowMap": {
 					"type": "bool",
 					"value": true
 				},
@@ -15066,7 +15074,7 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#79fff8"
+					"value": "#ebf3b9"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -15253,9 +15261,9 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": 180.00000250447816
+							"x": 64.87148383100197,
+							"y": -0.028072284262057358,
+							"z": 179.95582734540469
 						},
 						"position": {
 							"x": -2.8490782,
@@ -15266,11 +15274,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 70
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#79fff8"
+					"value": "#f5ffb9"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -15321,7 +15329,7 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
+							"x": 65.00000250447816,
 							"y": 0,
 							"z": 0.00000250447816
 						},
@@ -15334,11 +15342,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 70
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#79fff8"
+					"value": "#f5ffb9"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -15606,7 +15614,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 70
+					"value": 50
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -15661,12 +15669,12 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": -91.00000250447816
+							"x": 38.83480954510253,
+							"y": 0.77898318156166,
+							"z": -90.62704119104201
 						},
 						"position": {
-							"x": -54.810302,
+							"x": -54.810303,
 							"y": 29.015392,
 							"z": 5.686896
 						}
@@ -15674,11 +15682,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 70
+					"value": 40
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#00eeff"
+					"value": "#f9f5bf"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -15729,7 +15737,7 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
+							"x": 70.00000250447816,
 							"y": 0,
 							"z": 88.00000250447816
 						},
@@ -15742,11 +15750,11 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 50
+					"value": 40
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#00eeff"
+					"value": "#f9f5bf"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
