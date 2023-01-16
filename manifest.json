@@ -148,6 +148,11 @@
 		"runtimeID": "00DD3B02533AD71E",
 		"comment": "hokkaido_little_lamps",
 		"toChunk": 1
+	},
+	{
+		"runtimeID": "0011BF67AC6B2AB1",
+		"comment": "ambrose_hanging_lamps",
+		"toChunk": 1
 	}],
 	"packagedefinition": [
 		{
