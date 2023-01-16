@@ -9,7 +9,7 @@
         "musicalmushr00m.LightingUltimate"
     ],
 	"frameworkVersion": "2.0.0",
-	"dependencies": ["005415E5BE265EFD",{
+	"dependencies": ["005415E5BE265EFD","00E656CB0E9ED0ED","00032972CFAF8528",{
 		"runtimeID": "003D96EAECB00C82",
 		"comment": "adonis_sky",
 		"toChunk": 1

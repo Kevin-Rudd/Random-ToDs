@@ -18896,9 +18896,131 @@
 			},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcdfbf7766ef02a": {
+			"parent": "abcda7aeb3a9f17e",
+			"name": "hollyhock Soundbank",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "004C20CB4AEB0573",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda7aeb3a9f17e": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "TUTORIAL_SOUND_BANK",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/tutorial.wwisesoundbank].pc_wwisebank",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd8ea8be31d43": {
+			"parent": "abcda7aeb3a9f17e",
+			"name": "rockydugong",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rockydugong.wwisesoundbank].pc_wwisebank",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{
+		"entities": [{
+			"ref": "8c0ceab4311470a1",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}, {
+			"ref": "f5c7b5d6ab800a15",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00E656CB0E9ED0ED",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "a1fac2a978359a4",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00856C0B95E7430D",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "eaefed46ce29c705",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "2bd7d0c9174d8678",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "2aaf500388846a00",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "0061EF503C4C562E",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "3822005a0dd5ad89",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "292d84019a1a2ff7",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00CC056F2AA1499C",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
 		"entities": [{
 			"ref": "21fc87f25b65b874",
 			"comment": "Lamps to turn off - Chandeliers",
