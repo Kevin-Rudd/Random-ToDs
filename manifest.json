@@ -153,7 +153,15 @@
 		"runtimeID": "0011BF67AC6B2AB1",
 		"comment": "ambrose_hanging_lamps",
 		"toChunk": 1
-	}],
+	},
+	{
+		"runtimeID": "0029222E19CDE0BF",
+		"comment": "WC_wire_lamps",
+		"toChunk": 1
+	}
+
+
+],
 	"packagedefinition": [
 		{
 			"type": "entity",
