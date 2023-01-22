@@ -33,6 +33,4806 @@
 				}]
 			]
 		},
+		"6ab08e24df84e8b7": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -18.5382,
+							"y": 69.5389,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f1f55bcc1f0a952a": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_2",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -24.925964,
+							"y": 69.46132,
+							"z": -1.6188146e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abebb06d8b1c65c0": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_3",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -30.4345,
+							"y": 69.5437,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c5306378022b2322": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_4",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -33.7046,
+							"y": 71.3337,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a7eaf9c802829717": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_5",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -40.8666,
+							"y": 78.66,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8dc682482d39438d": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_6",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180.0,
+							"y": 0.0,
+							"z": -180.0
+						},
+						"position": {
+							"x": -42.4022,
+							"y": 82.1701,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bcf48986d57bb2c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_7",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -42.4552,
+							"y": 86.4874,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4f065cef4108afa7": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_8",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -42.52608,
+							"y": 92.79422,
+							"z": -1.6766762e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2a7b90e5556653a3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_9",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -42.395,
+							"y": 107.35,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1ae9c587543aec7d": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_10",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -42.4026,
+							"y": 114.646,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6715774267589146": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_11",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -42.3701,
+							"y": 121.139,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3f7785602cb2bf99": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_12",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -41.0548,
+							"y": 125.253,
+							"z": -1.12131e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ed193b312a2a3226": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_13",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -34.6573,
+							"y": 131.67,
+							"z": -4.06057e-07
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"761f9849d45838cd": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_14",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -30.3296,
+							"y": 135.934,
+							"z": 1.8999e-07
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"189799beafaef240": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_15",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 30.3177,
+							"y": 135.736,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"faa2f9c863a5ceba": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_16",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 34.9489,
+							"y": 131.307,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4e33be4a15faef34": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_17",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 41.028,
+							"y": 125.065,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f0be72f21eab5f64": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_18",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 42.3537,
+							"y": 120.027,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7b4c749e82d9bc16": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_19",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 42.4007,
+							"y": 110.838,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9c276a3107625ad1": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_20",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 42.4838,
+							"y": 95.0623,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9c4b50ed8c21c01": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_21",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 42.4516,
+							"y": 84.8157,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9746d35dd37208fd": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_22",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 40.8493,
+							"y": 78.888,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1d24b7792909b406": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_23",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 34.2723,
+							"y": 72.4152,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8434d99fa7bed917": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_24",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 30.5307,
+							"y": 69.5748,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"526f90be0539084b": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_25",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 24.9318,
+							"y": 69.6599,
+							"z": -1.53854e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ba56b030b6735dc9": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_26",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 16.0261,
+							"y": 69.5717,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"52ff0436e16c1a68": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_27",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 23.0068,
+							"y": 73.7534,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3d890c1effc233e5": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_28",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 29.7739,
+							"y": 75.7386,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4efe274f36ffc9db": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_29",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 36.1154,
+							"y": 82.0785,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"65c96b095957d737": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_30",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 38.3884,
+							"y": 96.977,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1a4dc9a4d9f314ed": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_31",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 38.2715,
+							"y": 110.059,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5c3ff68f6860f083": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_32",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 38.330635,
+							"y": 115.94747,
+							"z": -1.5736125e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a289848731c8a9d2": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_33",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 35.8121,
+							"y": 121.208,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c4edccc68bb88e8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_34",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 29.8224,
+							"y": 127.36,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"14fc5d394114e07e": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_35",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 35.5715,
+							"y": 99.9027,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1ec9ccb9f50d550b": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_36",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 35.812225,
+							"y": 104.20448,
+							"z": -1.648706e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7169c67f3a8adeca": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_37",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 35.79598,
+							"y": 104.26442,
+							"z": -1.6491297e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"be46af2565a8d0fe": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_38",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 26.8361,
+							"y": 99.7323,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"54f7e467fe43024c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_39",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 18.973957,
+							"y": 99.76778,
+							"z": -1.6583917e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d4ba484794773cc3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_40",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 18.2274,
+							"y": 104.193,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1f2c7e2706cec6cd": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_41",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -20.0351,
+							"y": 73.8525,
+							"z": -1.53854e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a8fc671d833d77f4": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_42",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -26.1758,
+							"y": 73.8534,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"867f13b2c8bab0ae": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_43",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -30.1121,
+							"y": 76.081,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7a1bc61f67f17145": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_44",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -36.8196,
+							"y": 83.0423,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b94be10b950d5a05": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_45",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -38.0865,
+							"y": 86.8531,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2f819037fef7b26b": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_46",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -38.078903,
+							"y": 91.38162,
+							"z": -1.658981e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"45675a130ea5734": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_47",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -38.0902,
+							"y": 95.8124,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"be57b9ba9cdd7294": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_48",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -38.4279,
+							"y": 105.454,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"42a3f767a3790093": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_49",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -38.4181,
+							"y": 112.281,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7cab9acb3d18b96e": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_50",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -38.4195,
+							"y": 117.99,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"94cfc985a96057e3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_51",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -36.8494,
+							"y": 120.784,
+							"z": 6.32927e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"410caecd71c7dd52": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_52",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -32.7049,
+							"y": 125.095,
+							"z": 5.31599e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f352ff2b56ab329e": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_53",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -28.6447,
+							"y": 129.228,
+							"z": -1.53854e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"df3f239acf626ef3": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_54",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -35.8541,
+							"y": 104.339,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"acf2a2f0b489ba58": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_55",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -34.9279,
+							"y": 99.7323,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9b246ce487d18455": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_56",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -26.4181,
+							"y": 104.316,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7e7d7ea8cf6aff20": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_57",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -18.536,
+							"y": 104.305,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d52dca258c8a1644": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_58",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -18.4448,
+							"y": 99.81,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8dce5fbd6de00dc5": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_59",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -15.7983,
+							"y": 94.433,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ff4d0f5c55312b09": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_60",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -14.1409,
+							"y": 91.0731,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d5df17e7502fd5a6": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_61",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 9.30306,
+							"y": 86.6695,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"be54e5e02d7511c5": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_62",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 15.8302,
+							"y": 93.5552,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4e7ba6dedfaf2b9e": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_63",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 15.6491,
+							"y": 98.4311,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4c81792f4f220559": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_64",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 15.9466,
+							"y": 105.717,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"392cc5b139a2f8b8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_65",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 15.872,
+							"y": 110.618,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d36c5b11af642011": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_66",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 8.40543,
+							"y": 118.563,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8ce9a54b7a599c77": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_67",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -42.483273,
+							"y": 98.42356,
+							"z": -1.6487614e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f0b259c0b8f63d8b": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_68",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -31.0875,
+							"y": 104.303,
+							"z": 1.55084e-05
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b01f16c4219ebf0a": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_69",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -25.076,
+							"y": 99.8163,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"3ab8283f6adc80b9": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_70",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -15.8365,
+							"y": 107.061,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e3e97aa80bdef980": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_71",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -15.21,
+							"y": 111.71,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ebf439121d788721": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_72",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -9.09401,
+							"y": 117.645,
+							"z": -1.35973e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2e1bda19f7629199": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_73",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -15.6581,
+							"y": 98.1098,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"552549765d30e878": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_74",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -9.32715,
+							"y": 86.4054,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d6f2e2e18fa47dc8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_75",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 25.1948,
+							"y": 131.46,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"109a70f0ddac830c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_76",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 20.486,
+							"y": 130.883,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"57c96833f3ef6b78": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_77",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 16.4294,
+							"y": 128.288,
+							"z": -1.65775e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f25cff21b824e37f": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_78",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 10.6427,
+							"y": 122.92,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fcaecc245d070773": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_79",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -10.5155,
+							"y": 122.664,
+							"z": 3.17022e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"12896e28493bda4c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_80",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -16.5975,
+							"y": 128.293,
+							"z": -1.0021e-06
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"b0abfe772c0ec9b9": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_Hanging_Restaurant_Hokkaido_1",
@@ -47,7 +4847,11 @@
 							"y": 0.0,
 							"z": -89.99993896484375
 						},
-						"position":{"x":-30.403036,"y":118.248795,"z":3.1526654}
+						"position": {
+							"x": -30.403036,
+							"y": 118.248795,
+							"z": 3.1526654
+						}
 					}
 				},
 				"m_bCastShadows": {
@@ -71,7 +4875,7 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#e61e10"
+					"value": "#f55b47"
 				},
 				"On": {
 					"type": "bool",
@@ -104,7 +4908,11 @@
 							"y": 0.0,
 							"z": -89.99993896484375
 						},
-						"position":{"x":-21.3177,"y":126.70824,"z":3.1188138}
+						"position": {
+							"x": -21.63314,
+							"y": 126.51256,
+							"z": 3.3707974
+						}
 					}
 				},
 				"m_bCastShadows": {
@@ -112,17 +4920,17 @@
 					"value": false
 				},
 				"GlowPower": {
-                    "type": "float32",
-                    "value": 200
-                },
-                "DiffusePower": {
-                    "type": "float32",
-                    "value": 40
-                },
-                "DiffuseColor": {
-                    "type": "SColorRGB",
-                    "value": "#ffe1ba"
-                },
+					"type": "float32",
+					"value": 200
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#f55b47"
+				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -161,7 +4969,11 @@
 							"y": 0.0,
 							"z": -89.99993896484375
 						},
-						"position":{"x":-12.3032,"y":119.01628,"z":3.1237223}
+						"position": {
+							"x": -12.3032,
+							"y": 119.01628,
+							"z": 3.1237223
+						}
 					}
 				},
 				"m_bCastShadows": {
@@ -185,7 +4997,7 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#e61e10"
+					"value": "#f55b47"
 				},
 				"On": {
 					"type": "bool",
@@ -218,7 +5030,11 @@
 							"y": 0.0,
 							"z": -89.99993896484375
 						},
-						"position":{"x":-29.49597,"y":108.14442,"z":3.4088373}
+						"position": {
+							"x": -29.49597,
+							"y": 108.14442,
+							"z": 3.4088373
+						}
 					}
 				},
 				"m_bCastShadows": {
@@ -226,17 +5042,17 @@
 					"value": false
 				},
 				"GlowPower": {
-                    "type": "float32",
-                    "value": 200
-                },
-                "DiffusePower": {
-                    "type": "float32",
-                    "value": 40
-                },
-                "DiffuseColor": {
-                    "type": "SColorRGB",
-                    "value": "#ffe1ba"
-                },
+					"type": "float32",
+					"value": 200
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#f55b47"
+				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -275,7 +5091,11 @@
 							"y": 0.0,
 							"z": -89.99993896484375
 						},
-						"position":{"x":-35.043144,"y":113.059814,"z":2.694766}
+						"position": {
+							"x": -35.043144,
+							"y": 113.059814,
+							"z": 2.694766
+						}
 					}
 				},
 				"m_bCastShadows": {
@@ -299,7 +5119,251 @@
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
-					"value": "#e61e10"
+					"value": "#f55b47"
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fd2e97fe8bfad82c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Hanging_Restaurant_Hokkaido_6",
+			"template": "002B0C4EA6CA0629",
+			"blueprint": "004FE9A8A4E8F0D8",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.99993896484375
+						},
+						"position": {
+							"x": -27.138577,
+							"y": 122.33662,
+							"z": 3.6793633
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 140
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 7.349999904632568
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#f55b47"
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6f47417094de1514": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Hanging_Restaurant_Hokkaido_7",
+			"template": "002B0C4EA6CA0629",
+			"blueprint": "004FE9A8A4E8F0D8",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.99993896484375
+						},
+						"position": {
+							"x": -19.816345,
+							"y": 111.42642,
+							"z": 3.3119152
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 140
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 7.349999904632568
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#f55b47"
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1301adb4652a3b7c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Hanging_Restaurant_Hokkaido_8",
+			"template": "002B0C4EA6CA0629",
+			"blueprint": "004FE9A8A4E8F0D8",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.99993896484375
+						},
+						"position": {
+							"x": -19.544703,
+							"y": 107.5225,
+							"z": 3.1564932
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 140
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 7.349999904632568
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#f55b47"
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"e50469266cbaeeab": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Hanging_Restaurant_Hokkaido_9",
+			"template": "002B0C4EA6CA0629",
+			"blueprint": "004FE9A8A4E8F0D8",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -89.99993896484375
+						},
+						"position": {
+							"x": -25.098495,
+							"y": 126.4967,
+							"z": 3.2136765
+						}
+					}
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 140
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1,
+						"y": 7.349999904632568
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#f55b47"
 				},
 				"On": {
 					"type": "bool",
@@ -13519,7 +18583,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-		
 		"4afcb4d9811153ea": {
 			"parent": "abcdd8dc88295779",
 			"name": "Bunker_Hanging_Light_A_Swinging_B_01",
@@ -23087,7 +28150,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["e40d6e164f514e5d","641abdf8266c2d3b","f33102010999b967","860bbfc230a44579","7de2506a58268849", "9dd0604d1806273b", "bf9193a312c0043e", "8f82d40da118d8b9", "18b3c601127e750b", "1ce6adad59bc5b1c", "7b2f5513adee2b6d", "a039c7527c4b679d", "3ab1bb7798feab37", "f5f2d4d4b31bc67c", "89bd731a1b8c4514", "887e8c5c5cb34c3e", "2d1f0c3afa76d397", "127fae6b34c6d395", "2f4dacaa7b2f7259", "22e2b6c38d51c30e", "126414a31e95fdd3", "436a60d96ef435a8", "42e9ed221eb9f0b3", "253d9471a5196198", "994432d6eaa6ce60", "b7647bff1bdbe0c7", "6d99c4d37e19c099", "756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
+					"value": ["1f2c7e2706cec6cd", "a8fc671d833d77f4", "867f13b2c8bab0ae", "7a1bc61f67f17145", "b94be10b950d5a05", "2f819037fef7b26b", "45675a130ea5734", "be57b9ba9cdd7294", "42a3f767a3790093", "7cab9acb3d18b96e", "94cfc985a96057e3", "410caecd71c7dd52", "f352ff2b56ab329e", "df3f239acf626ef3", "acf2a2f0b489ba58", "9b246ce487d18455", "7e7d7ea8cf6aff20", "d52dca258c8a1644", "8dce5fbd6de00dc5", "ff4d0f5c55312b09", "d5df17e7502fd5a6", "be54e5e02d7511c5", "4e7ba6dedfaf2b9e", "4c81792f4f220559", "392cc5b139a2f8b8", "d36c5b11af642011", "8ce9a54b7a599c77", "f0b259c0b8f63d8b", "b01f16c4219ebf0a", "3ab8283f6adc80b9", "e3e97aa80bdef980", "ebf439121d788721", "2e1bda19f7629199", "552549765d30e878", "d6f2e2e18fa47dc8", "109a70f0ddac830c", "57c96833f3ef6b78", "f25cff21b824e37f", "fcaecc245d070773", "12896e28493bda4c", "f1f55bcc1f0a952a", "abebb06d8b1c65c0", "c5306378022b2322", "a7eaf9c802829717", "8dc682482d39438d", "bcf48986d57bb2c", "4f065cef4108afa7", "2a7b90e5556653a3", "1ae9c587543aec7d", "6715774267589146", "3f7785602cb2bf99", "ed193b312a2a3226", "761f9849d45838cd", "189799beafaef240", "faa2f9c863a5ceba", "4e33be4a15faef34", "f0be72f21eab5f64", "7b4c749e82d9bc16", "9c276a3107625ad1", "9c4b50ed8c21c01", "9746d35dd37208fd", "1d24b7792909b406", "8434d99fa7bed917", "526f90be0539084b", "ba56b030b6735dc9", "52ff0436e16c1a68", "3d890c1effc233e5", "4efe274f36ffc9db", "65c96b095957d737", "1a4dc9a4d9f314ed", "5c3ff68f6860f083", "a289848731c8a9d2", "c4edccc68bb88e8", "14fc5d394114e07e", "1ec9ccb9f50d550b", "7169c67f3a8adeca", "be46af2565a8d0fe", "54f7e467fe43024c", "d4ba484794773cc3", "fd2e97fe8bfad82c", "6f47417094de1514", "1301adb4652a3b7c", "e50469266cbaeeab", "e40d6e164f514e5d", "641abdf8266c2d3b", "f33102010999b967", "860bbfc230a44579", "7de2506a58268849", "9dd0604d1806273b", "bf9193a312c0043e", "8f82d40da118d8b9", "18b3c601127e750b", "1ce6adad59bc5b1c", "7b2f5513adee2b6d", "a039c7527c4b679d", "3ab1bb7798feab37", "f5f2d4d4b31bc67c", "89bd731a1b8c4514", "887e8c5c5cb34c3e", "2d1f0c3afa76d397", "127fae6b34c6d395", "2f4dacaa7b2f7259", "22e2b6c38d51c30e", "126414a31e95fdd3", "436a60d96ef435a8", "42e9ed221eb9f0b3", "253d9471a5196198", "994432d6eaa6ce60", "b7647bff1bdbe0c7", "6d99c4d37e19c099", "756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
 				}
 			},
 			"postInitProperties": {},
