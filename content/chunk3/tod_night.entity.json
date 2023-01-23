@@ -33,6 +33,306 @@
 				}]
 			]
 		},
+		"b0aab72b2697be2a": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Street_Ornamented_Italy_A_21_outside_9",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 55.3707,
+							"y": 29.6416,
+							"z": 3
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"LightOn": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2602ad1f073e45e8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Street_Ornamented_Italy_A_21_outside_10",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 61.1224,
+							"y": 19.1041,
+							"z": 0.78536
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"LightOn": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6a81399d237c5e2a": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":54.40487,"y":40.307686,"z":3.2115707}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b9d5ea6f8c5e447": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_2",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":50.308136,"y":40.304134,"z":3.1985626}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cb900bbabdddb778": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_3",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":54.398426,"y":54.22004,"z":1.2144886}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"315e68911711f5c5": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_4",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":50.30766,"y":54.18986,"z":1.2053905}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"fbc66003c6026572": {
 			"parent": null,
 			"name": "fx_plane_500m",
@@ -1651,9 +1951,9 @@
 							"z": 0
 						},
 						"position": {
-							"x": 62.9529,
-							"y": 41.9895,
-							"z": 0.344044
+							"x": 67.528885,
+							"y": 41.186558,
+							"z": -0.19522771
 						}
 					}
 				},

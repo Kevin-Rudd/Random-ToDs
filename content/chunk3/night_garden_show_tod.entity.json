@@ -33,6 +33,206 @@
 				}]
 			]
 		},
+		"6a81399d237c5e2a": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":54.40487,"y":40.307686,"z":3.2115707}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b9d5ea6f8c5e447": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_2",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":50.308136,"y":40.304134,"z":3.1985626}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cb900bbabdddb778": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_3",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":54.398426,"y":54.22004,"z":1.2144886}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"315e68911711f5c5": {
+			"parent": "abcdd8dc88295779",
+			"name": "HILDE_Lamp_Palace_Street_A_4",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position":{"x":50.30766,"y":54.18986,"z":1.2053905}
+					}
+				},
+				"On": {
+					"type": "bool",
+					"value": true
+				},
+				"LightVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bEnableLightFade": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_fLightFadeLength": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"6ab08e24df84e8b7": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_Marrakesh_Spot_Light_A_1",
@@ -28150,7 +28350,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["1f2c7e2706cec6cd", "a8fc671d833d77f4", "867f13b2c8bab0ae", "7a1bc61f67f17145", "b94be10b950d5a05", "2f819037fef7b26b", "45675a130ea5734", "be57b9ba9cdd7294", "42a3f767a3790093", "7cab9acb3d18b96e", "94cfc985a96057e3", "410caecd71c7dd52", "f352ff2b56ab329e", "df3f239acf626ef3", "acf2a2f0b489ba58", "9b246ce487d18455", "7e7d7ea8cf6aff20", "d52dca258c8a1644", "8dce5fbd6de00dc5", "ff4d0f5c55312b09", "d5df17e7502fd5a6", "be54e5e02d7511c5", "4e7ba6dedfaf2b9e", "4c81792f4f220559", "392cc5b139a2f8b8", "d36c5b11af642011", "8ce9a54b7a599c77", "f0b259c0b8f63d8b", "b01f16c4219ebf0a", "3ab8283f6adc80b9", "e3e97aa80bdef980", "ebf439121d788721", "2e1bda19f7629199", "552549765d30e878", "d6f2e2e18fa47dc8", "109a70f0ddac830c", "57c96833f3ef6b78", "f25cff21b824e37f", "fcaecc245d070773", "12896e28493bda4c", "f1f55bcc1f0a952a", "abebb06d8b1c65c0", "c5306378022b2322", "a7eaf9c802829717", "8dc682482d39438d", "bcf48986d57bb2c", "4f065cef4108afa7", "2a7b90e5556653a3", "1ae9c587543aec7d", "6715774267589146", "3f7785602cb2bf99", "ed193b312a2a3226", "761f9849d45838cd", "189799beafaef240", "faa2f9c863a5ceba", "4e33be4a15faef34", "f0be72f21eab5f64", "7b4c749e82d9bc16", "9c276a3107625ad1", "9c4b50ed8c21c01", "9746d35dd37208fd", "1d24b7792909b406", "8434d99fa7bed917", "526f90be0539084b", "ba56b030b6735dc9", "52ff0436e16c1a68", "3d890c1effc233e5", "4efe274f36ffc9db", "65c96b095957d737", "1a4dc9a4d9f314ed", "5c3ff68f6860f083", "a289848731c8a9d2", "c4edccc68bb88e8", "14fc5d394114e07e", "1ec9ccb9f50d550b", "7169c67f3a8adeca", "be46af2565a8d0fe", "54f7e467fe43024c", "d4ba484794773cc3", "fd2e97fe8bfad82c", "6f47417094de1514", "1301adb4652a3b7c", "e50469266cbaeeab", "e40d6e164f514e5d", "641abdf8266c2d3b", "f33102010999b967", "860bbfc230a44579", "7de2506a58268849", "9dd0604d1806273b", "bf9193a312c0043e", "8f82d40da118d8b9", "18b3c601127e750b", "1ce6adad59bc5b1c", "7b2f5513adee2b6d", "a039c7527c4b679d", "3ab1bb7798feab37", "f5f2d4d4b31bc67c", "89bd731a1b8c4514", "887e8c5c5cb34c3e", "2d1f0c3afa76d397", "127fae6b34c6d395", "2f4dacaa7b2f7259", "22e2b6c38d51c30e", "126414a31e95fdd3", "436a60d96ef435a8", "42e9ed221eb9f0b3", "253d9471a5196198", "994432d6eaa6ce60", "b7647bff1bdbe0c7", "6d99c4d37e19c099", "756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
+					"value": ["6a81399d237c5e2a", "b9d5ea6f8c5e447", "cb900bbabdddb778", "315e68911711f5c5", "1f2c7e2706cec6cd", "a8fc671d833d77f4", "867f13b2c8bab0ae", "7a1bc61f67f17145", "b94be10b950d5a05", "2f819037fef7b26b", "45675a130ea5734", "be57b9ba9cdd7294", "42a3f767a3790093", "7cab9acb3d18b96e", "94cfc985a96057e3", "410caecd71c7dd52", "f352ff2b56ab329e", "df3f239acf626ef3", "acf2a2f0b489ba58", "9b246ce487d18455", "7e7d7ea8cf6aff20", "d52dca258c8a1644", "8dce5fbd6de00dc5", "ff4d0f5c55312b09", "d5df17e7502fd5a6", "be54e5e02d7511c5", "4e7ba6dedfaf2b9e", "4c81792f4f220559", "392cc5b139a2f8b8", "d36c5b11af642011", "8ce9a54b7a599c77", "f0b259c0b8f63d8b", "b01f16c4219ebf0a", "3ab8283f6adc80b9", "e3e97aa80bdef980", "ebf439121d788721", "2e1bda19f7629199", "552549765d30e878", "d6f2e2e18fa47dc8", "109a70f0ddac830c", "57c96833f3ef6b78", "f25cff21b824e37f", "fcaecc245d070773", "12896e28493bda4c", "f1f55bcc1f0a952a", "abebb06d8b1c65c0", "c5306378022b2322", "a7eaf9c802829717", "8dc682482d39438d", "bcf48986d57bb2c", "4f065cef4108afa7", "2a7b90e5556653a3", "1ae9c587543aec7d", "6715774267589146", "3f7785602cb2bf99", "ed193b312a2a3226", "761f9849d45838cd", "189799beafaef240", "faa2f9c863a5ceba", "4e33be4a15faef34", "f0be72f21eab5f64", "7b4c749e82d9bc16", "9c276a3107625ad1", "9c4b50ed8c21c01", "9746d35dd37208fd", "1d24b7792909b406", "8434d99fa7bed917", "526f90be0539084b", "ba56b030b6735dc9", "52ff0436e16c1a68", "3d890c1effc233e5", "4efe274f36ffc9db", "65c96b095957d737", "1a4dc9a4d9f314ed", "5c3ff68f6860f083", "a289848731c8a9d2", "c4edccc68bb88e8", "14fc5d394114e07e", "1ec9ccb9f50d550b", "7169c67f3a8adeca", "be46af2565a8d0fe", "54f7e467fe43024c", "d4ba484794773cc3", "fd2e97fe8bfad82c", "6f47417094de1514", "1301adb4652a3b7c", "e50469266cbaeeab", "e40d6e164f514e5d", "641abdf8266c2d3b", "f33102010999b967", "860bbfc230a44579", "7de2506a58268849", "9dd0604d1806273b", "bf9193a312c0043e", "8f82d40da118d8b9", "18b3c601127e750b", "1ce6adad59bc5b1c", "7b2f5513adee2b6d", "a039c7527c4b679d", "3ab1bb7798feab37", "f5f2d4d4b31bc67c", "89bd731a1b8c4514", "887e8c5c5cb34c3e", "2d1f0c3afa76d397", "127fae6b34c6d395", "2f4dacaa7b2f7259", "22e2b6c38d51c30e", "126414a31e95fdd3", "436a60d96ef435a8", "42e9ed221eb9f0b3", "253d9471a5196198", "994432d6eaa6ce60", "b7647bff1bdbe0c7", "6d99c4d37e19c099", "756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
 				}
 			},
 			"postInitProperties": {},
@@ -29498,9 +29698,9 @@
 							"z": 0
 						},
 						"position": {
-							"x": 62.9529,
-							"y": 41.9895,
-							"z": 0.344044
+							"x": 67.528885,
+							"y": 41.186558,
+							"z": -0.19522771
 						}
 					}
 				},
@@ -29801,6 +30001,106 @@
 							"x": -3.41103,
 							"y": -57.1497,
 							"z": 1.46208
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"LightOn": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"b0aab72b2697be2a": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Street_Ornamented_Italy_A_21_outside_9",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 55.3707,
+							"y": 29.6416,
+							"z": 3
+						}
+					}
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 15
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 50
+				},
+				"LightOn": {
+					"type": "bool",
+					"value": true
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 200
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2602ad1f073e45e8": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Street_Ornamented_Italy_A_21_outside_10",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/lamp_palace_street_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 61.1224,
+							"y": 19.1041,
+							"z": 0.78536
 						}
 					}
 				},
