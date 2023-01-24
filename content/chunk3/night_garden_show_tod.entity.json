@@ -33,6 +33,1684 @@
 				}]
 			]
 		},
+		"1235e6a01c967414": {
+			"parent": "abcdd8dc88295779",
+			"name": "Collision Boxes",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"d048ab52efa55adc": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 1 for entrance big lamp",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 83.1402,
+							"y": -112.518,
+							"z": 1.24052
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"1f085f760c24cd95": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 2 for big lamp cc19b93ea70f7f27",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 52.1269,
+							"y": -110.481,
+							"z": -0.178378
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"748458c8d5015796": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 3 for big lamp e0c5f43071d4130c",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -117.186,
+							"y": 36.6192,
+							"z": 0.00881178
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f19568fde2a14230": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 4 for big lamp eb2f6576b99e9259",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -111.825,
+							"y": 19.2084,
+							"z": 0.000575911
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"a6d6b5baa43bcf79": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 5 for big lamp 721ecd136184f396",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -127.243,
+							"y": 31.6126,
+							"z": 0.796479
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c5b48d683e94b2d4": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 6 for big lamp 119dfd7ceb7bc27a",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -19.5908,
+							"y": 153.699,
+							"z": -0.270322
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"2c7f67b8c1150ed5": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 7 for big lamp 22a94883c3d2799f",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -0.46531,
+							"y": 159.183,
+							"z": -0.092829
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"7c3a4c515889968": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 8 for big lamp cd5b978fb8863daa",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 19.3857,
+							"y": 155.02,
+							"z": 0.00263513
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"989e807d5d19ead2": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 9 for big lamp dbee07a8df4b3e34",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 78.4485,
+							"y": 12.5863,
+							"z": -0.535895
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"176991f0077e858d": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 10 for greenhouse medium lamp abcd0d2ea1f8c038",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -2.83965,
+							"y": 82.7484,
+							"z": -1.712257
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"c40931558b578f24": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 11 for greenhouse medium lamp abcdcc87f377bc80",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 2.89988,
+							"y": 82.7711,
+							"z": -1.712257
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4d6cf7086d609039": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 12 for greenhouse medium lamp 1aa53f86c5a105d",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -4.65964,
+							"y": 120.578,
+							"z": -1.5
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8378b9e326ab6b88": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 13 for greenhouse medium lamp 82159bc7c60ecfca",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 5.16375,
+							"y": 120.843,
+							"z": -1.59815
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 6.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f3783da6bd99c1f8": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 14 for little lamp b0fa574e6025e61",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -3.41103,
+							"y": -57.1497,
+							"z": 1.46208
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"715c9abeed092ce1": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 15 for little lamp f0ee8c288ff5bff7",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 15.2052,
+							"y": -94.7607,
+							"z": -0.4028
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"5ecf2bded82ab67c": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 16 for little lamp 2ea56bb8c9af2c8c",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 9.5994,
+							"y": -70.7963,
+							"z": -0.4028
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"39a5513f93adffe4": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 17 for little lamp b85f2451c034dc4b",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 4.1288,
+							"y": -73.7853,
+							"z": -0.4028
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"9bdf62384b3b960b": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 18 for little lamp b0fa574e6025e61",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -3.41103,
+							"y": -57.1497,
+							"z": 1.46208
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d20876f5458fd19d": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 19 for little lamp dd5261accce3675c",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -32.7294,
+							"y": -39.2652,
+							"z": 0.956119
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"58eb6b9a7c3d8b": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 20 for little lamp b1648888eb639ca8",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -63.2264,
+							"y": -15.0565,
+							"z": -0.108917
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f81890707a8eccc2": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 21 for little lamp 6918fd5e784ae15a",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -66.5168,
+							"y": 17.0383,
+							"z": 0.56607
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"4b9f954bf97d0fda": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 22 for little lamp 6b5ecab5bded4c10",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -70.9014,
+							"y": 48.7975,
+							"z": 0.380992
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"40bacb0feb33bec0": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 23 for little lamp cf2f85a6eada852c",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -129.998,
+							"y": 41.9694,
+							"z": 0.793948
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"951b8022050a171d": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 24 for little lamp d1c4f959082f8fec",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 67.528885,
+							"y": 41.186558,
+							"z": -0.19522771
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"aff04f2dfbc53cf5": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 25 for little lamp 2602ad1f073e45e8",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 61.1224,
+							"y": 19.1041,
+							"z": 0.78536
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d9e90648099ec6d7": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 26 for little lamp bb3c68cdc521e225",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 64.2765,
+							"y": -5.94899,
+							"z": 0.34947
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"761629de6bcb8dec": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 27 for little lamp b0aab72b2697be2a",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 55.3707,
+							"y": 29.6416,
+							"z": 3
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d5042b1f40f36ed9": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 28 for haven lamp 792e2dc047e960fa",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 4.73887,
+							"y": 90.4239,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"edf3cc1de59faca4": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 29 for haven lamp cc6a7295a8c3200e",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 8.39257,
+							"y": 94.2356,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"8e1050da9a757f2": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 30 for haven lamp 9b31bd9ad9e96d93",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -5.22802,
+							"y": 90.7424,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fb1993b290551d23": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 31 for haven lamp 4ce9101aa21d4de5",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -8.44087,
+							"y": 94.221,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ce33b7a42a4ce617": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 32 for haven lamp 1d3df4909e5fbada",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -8.17863,
+							"y": 109.571,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"cfb0158fd96b6961": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 33 for haven lamp db3ae9ca2cb047d0",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -5.05557,
+							"y": 112.813,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"18e47bed6ac83ac4": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 34 for haven lamp f8f763261ce80ec4",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 5.11972,
+							"y": 112.958,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"f0c7ca64a546d4f2": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 35 for haven lamp a37ca75326f453db",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 8.77504,
+							"y": 109.395,
+							"z": -1
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"6e56150224c60160": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 36 for haven lamp fb50a1aeb0dc6073",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": 12.8578,
+							"y": 79.6284,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"d05ce4c8ae0bf000": {
+			"parent": "1235e6a01c967414",
+			"name": "Collision box 37 for haven lamp 8be77df25aa97731",
+			"template": "[modules:/zpfboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpfboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -86.11520385742188
+						},
+						"position": {
+							"x": -13.1827,
+							"y": 79.7666,
+							"z": -1.59815e-06
+						}
+					}
+				},
+				"m_eType": {
+					"type": "EPathFinderBoxType",
+					"value": "PFBT_EXCLUDE_MESH_COLLISION"
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.2966700553894044,
+						"y": 0.2853669762611389,
+						"z": 3.0747599601745604
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"6a81399d237c5e2a": {
 			"parent": "abcdd8dc88295779",
 			"name": "HILDE_Lamp_Palace_Street_A_1",
@@ -47,7 +1725,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":54.40487,"y":40.307686,"z":3.2115707}
+						"position": {
+							"x": 54.40487,
+							"y": 40.307686,
+							"z": 3.2115707
+						}
 					}
 				},
 				"On": {
@@ -97,7 +1779,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":50.308136,"y":40.304134,"z":3.1985626}
+						"position": {
+							"x": 50.308136,
+							"y": 40.304134,
+							"z": 3.1985626
+						}
 					}
 				},
 				"On": {
@@ -147,7 +1833,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":54.398426,"y":54.22004,"z":1.2144886}
+						"position": {
+							"x": 54.398426,
+							"y": 54.22004,
+							"z": 1.2144886
+						}
 					}
 				},
 				"On": {
@@ -197,7 +1887,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":50.30766,"y":54.18986,"z":1.2053905}
+						"position": {
+							"x": 50.30766,
+							"y": 54.18986,
+							"z": 1.2053905
+						}
 					}
 				},
 				"On": {
@@ -5033,6 +6727,246 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
+		"90c4e0b4d68781bc": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_81_entrance_fountain_1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 0.14182496,
+							"y": -37.148808,
+							"z": 2.9523351
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"bf9b4964f712ec39": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_82_entrance_fountain_2",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 0.14475864,
+							"y": -29.021826,
+							"z": 2.9523351
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"ce64cbdbf0fc29c": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_83_entrance_fountain_3",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": 4.007752,
+							"y": -33.131996,
+							"z": 2.9523351
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"75e9ea370d9a1fa2": {
+			"parent": "abcdd8dc88295779",
+			"name": "Lamp_Marrakesh_Spot_Light_A_84_entrance_fountain_4",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -180,
+							"y": 0,
+							"z": -180
+						},
+						"position": {
+							"x": -4.1432123,
+							"y": -33.209095,
+							"z": 2.9523351
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#ff9736"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 20
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 100
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 50
+				},
+				"IgnoreTimeOfDay": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.7090700268745422,
+						"y": 1.3065229654312134
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"b0abfe772c0ec9b9": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_Hanging_Restaurant_Hokkaido_1",
@@ -5182,11 +7116,11 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 100
+					"value": 50
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 140
+					"value": 40
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -5304,11 +7238,11 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 100
+					"value": 50
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 140
+					"value": 40
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -5426,11 +7360,11 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 100
+					"value": 50
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 140
+					"value": 40
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -5487,11 +7421,11 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 100
+					"value": 50
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 140
+					"value": 40
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -5548,11 +7482,11 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 100
+					"value": 50
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 140
+					"value": 40
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -20303,7 +22237,7 @@
 						"position": {
 							"x": 1.889564,
 							"y": -33.110165,
-							"z": 3.266294
+							"z": 3.1959503
 						}
 					}
 				},
@@ -20474,7 +22408,7 @@
 						"position": {
 							"x": 0.04937078,
 							"y": -35.066673,
-							"z": 3.3069289
+							"z": 3.1852798
 						}
 					}
 				},
@@ -27689,6 +29623,10 @@
 				"onEvent": "EventOccurred",
 				"shouldTrigger": "GetIndex",
 				"onEntity": "abcd812edbe58538"
+			}, {
+				"onEvent": "EventOccurred",
+				"shouldTrigger": "In",
+				"onEntity": "abcd2b3baa42ac24"
 			}],
 			"platformSpecificPropertyValues": []
 		},
@@ -28350,7 +30288,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["6a81399d237c5e2a", "b9d5ea6f8c5e447", "cb900bbabdddb778", "315e68911711f5c5", "1f2c7e2706cec6cd", "a8fc671d833d77f4", "867f13b2c8bab0ae", "7a1bc61f67f17145", "b94be10b950d5a05", "2f819037fef7b26b", "45675a130ea5734", "be57b9ba9cdd7294", "42a3f767a3790093", "7cab9acb3d18b96e", "94cfc985a96057e3", "410caecd71c7dd52", "f352ff2b56ab329e", "df3f239acf626ef3", "acf2a2f0b489ba58", "9b246ce487d18455", "7e7d7ea8cf6aff20", "d52dca258c8a1644", "8dce5fbd6de00dc5", "ff4d0f5c55312b09", "d5df17e7502fd5a6", "be54e5e02d7511c5", "4e7ba6dedfaf2b9e", "4c81792f4f220559", "392cc5b139a2f8b8", "d36c5b11af642011", "8ce9a54b7a599c77", "f0b259c0b8f63d8b", "b01f16c4219ebf0a", "3ab8283f6adc80b9", "e3e97aa80bdef980", "ebf439121d788721", "2e1bda19f7629199", "552549765d30e878", "d6f2e2e18fa47dc8", "109a70f0ddac830c", "57c96833f3ef6b78", "f25cff21b824e37f", "fcaecc245d070773", "12896e28493bda4c", "f1f55bcc1f0a952a", "abebb06d8b1c65c0", "c5306378022b2322", "a7eaf9c802829717", "8dc682482d39438d", "bcf48986d57bb2c", "4f065cef4108afa7", "2a7b90e5556653a3", "1ae9c587543aec7d", "6715774267589146", "3f7785602cb2bf99", "ed193b312a2a3226", "761f9849d45838cd", "189799beafaef240", "faa2f9c863a5ceba", "4e33be4a15faef34", "f0be72f21eab5f64", "7b4c749e82d9bc16", "9c276a3107625ad1", "9c4b50ed8c21c01", "9746d35dd37208fd", "1d24b7792909b406", "8434d99fa7bed917", "526f90be0539084b", "ba56b030b6735dc9", "52ff0436e16c1a68", "3d890c1effc233e5", "4efe274f36ffc9db", "65c96b095957d737", "1a4dc9a4d9f314ed", "5c3ff68f6860f083", "a289848731c8a9d2", "c4edccc68bb88e8", "14fc5d394114e07e", "1ec9ccb9f50d550b", "7169c67f3a8adeca", "be46af2565a8d0fe", "54f7e467fe43024c", "d4ba484794773cc3", "fd2e97fe8bfad82c", "6f47417094de1514", "1301adb4652a3b7c", "e50469266cbaeeab", "e40d6e164f514e5d", "641abdf8266c2d3b", "f33102010999b967", "860bbfc230a44579", "7de2506a58268849", "9dd0604d1806273b", "bf9193a312c0043e", "8f82d40da118d8b9", "18b3c601127e750b", "1ce6adad59bc5b1c", "7b2f5513adee2b6d", "a039c7527c4b679d", "3ab1bb7798feab37", "f5f2d4d4b31bc67c", "89bd731a1b8c4514", "887e8c5c5cb34c3e", "2d1f0c3afa76d397", "127fae6b34c6d395", "2f4dacaa7b2f7259", "22e2b6c38d51c30e", "126414a31e95fdd3", "436a60d96ef435a8", "42e9ed221eb9f0b3", "253d9471a5196198", "994432d6eaa6ce60", "b7647bff1bdbe0c7", "6d99c4d37e19c099", "756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
+					"value": ["90c4e0b4d68781bc", "bf9b4964f712ec39", "ce64cbdbf0fc29c", "75e9ea370d9a1fa2", "d048ab52efa55adc", "6a81399d237c5e2a", "b9d5ea6f8c5e447", "cb900bbabdddb778", "315e68911711f5c5", "1f2c7e2706cec6cd", "a8fc671d833d77f4", "867f13b2c8bab0ae", "7a1bc61f67f17145", "b94be10b950d5a05", "2f819037fef7b26b", "45675a130ea5734", "be57b9ba9cdd7294", "42a3f767a3790093", "7cab9acb3d18b96e", "94cfc985a96057e3", "410caecd71c7dd52", "f352ff2b56ab329e", "df3f239acf626ef3", "acf2a2f0b489ba58", "9b246ce487d18455", "7e7d7ea8cf6aff20", "d52dca258c8a1644", "8dce5fbd6de00dc5", "ff4d0f5c55312b09", "d5df17e7502fd5a6", "be54e5e02d7511c5", "4e7ba6dedfaf2b9e", "4c81792f4f220559", "392cc5b139a2f8b8", "d36c5b11af642011", "8ce9a54b7a599c77", "f0b259c0b8f63d8b", "b01f16c4219ebf0a", "3ab8283f6adc80b9", "e3e97aa80bdef980", "ebf439121d788721", "2e1bda19f7629199", "552549765d30e878", "d6f2e2e18fa47dc8", "109a70f0ddac830c", "57c96833f3ef6b78", "f25cff21b824e37f", "fcaecc245d070773", "12896e28493bda4c", "f1f55bcc1f0a952a", "abebb06d8b1c65c0", "c5306378022b2322", "a7eaf9c802829717", "8dc682482d39438d", "bcf48986d57bb2c", "4f065cef4108afa7", "2a7b90e5556653a3", "1ae9c587543aec7d", "6715774267589146", "3f7785602cb2bf99", "ed193b312a2a3226", "761f9849d45838cd", "189799beafaef240", "faa2f9c863a5ceba", "4e33be4a15faef34", "f0be72f21eab5f64", "7b4c749e82d9bc16", "9c276a3107625ad1", "9c4b50ed8c21c01", "9746d35dd37208fd", "1d24b7792909b406", "8434d99fa7bed917", "526f90be0539084b", "ba56b030b6735dc9", "52ff0436e16c1a68", "3d890c1effc233e5", "4efe274f36ffc9db", "65c96b095957d737", "1a4dc9a4d9f314ed", "5c3ff68f6860f083", "a289848731c8a9d2", "c4edccc68bb88e8", "14fc5d394114e07e", "1ec9ccb9f50d550b", "7169c67f3a8adeca", "be46af2565a8d0fe", "54f7e467fe43024c", "d4ba484794773cc3", "fd2e97fe8bfad82c", "6f47417094de1514", "1301adb4652a3b7c", "e50469266cbaeeab", "e40d6e164f514e5d", "641abdf8266c2d3b", "f33102010999b967", "860bbfc230a44579", "7de2506a58268849", "9dd0604d1806273b", "bf9193a312c0043e", "8f82d40da118d8b9", "18b3c601127e750b", "1ce6adad59bc5b1c", "7b2f5513adee2b6d", "a039c7527c4b679d", "3ab1bb7798feab37", "f5f2d4d4b31bc67c", "89bd731a1b8c4514", "887e8c5c5cb34c3e", "2d1f0c3afa76d397", "127fae6b34c6d395", "2f4dacaa7b2f7259", "22e2b6c38d51c30e", "126414a31e95fdd3", "436a60d96ef435a8", "42e9ed221eb9f0b3", "253d9471a5196198", "994432d6eaa6ce60", "b7647bff1bdbe0c7", "6d99c4d37e19c099", "756f80fc8e13c82f", "8f8636753c67bf0d", "37f806a9835e4903", "c2d0b92c571f0a", "abcdb67b3a25bd5d", "abcd6bee5a864dc0", "abcdb307e1905a3c", "abcd0a3daa21b5a6", "27b99f7ac1686a75", "4265dc3a0d5d11d3", "950b91a4af550f95", "b442e7f6f1acf546", "5cd14f7a6e051625", "2681d1aa84aa4491", "839dbf7a1fa6e47"]
 				}
 			},
 			"postInitProperties": {},
@@ -34912,14 +36850,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90,
-							"y": 0,
-							"z": -135
+							"x": 58.74864271181408,
+							"y": -0.23293911933164205,
+							"z": -137.98487497118828
 						},
 						"position": {
 							"x": -32.441013,
 							"y": -27.505386,
-							"z": 6.0364886
+							"z": 6.0364885
 						}
 					}
 				},
@@ -34980,14 +36918,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90,
-							"y": 0,
-							"z": 44
+							"x": 60.82925493678336,
+							"y": -0.37246990559551196,
+							"z": 45.43136184927124
 						},
 						"position": {
-							"x": -27.555,
-							"y": -22.931557,
-							"z": 6.0364886
+							"x": -27.555006,
+							"y": -22.931559,
+							"z": 6.0364885
 						}
 					}
 				},
@@ -35048,14 +36986,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -90.00000250447816,
-							"y": 0,
-							"z": -43
+							"x": -60.06723805184172,
+							"y": 0.1871133658178299,
+							"z": -46.735340584475054
 						},
 						"position": {
-							"x": -27.215158,
-							"y": -27.879862,
-							"z": 6.0364886
+							"x": -27.160265,
+							"y": -27.879827,
+							"z": 6.0199065
 						}
 					}
 				},
@@ -35116,14 +37054,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 180,
-							"z": -45
+							"x": 62.56300966513189,
+							"y": 0.0024161794188920106,
+							"z": -45.506531496181815
 						},
 						"position": {
-							"x": -32.58692,
-							"y": -23.143711,
-							"z": 6.0364886
+							"x": -32.586926,
+							"y": -23.15575,
+							"z": 6.017742
 						}
 					}
 				},
@@ -35252,12 +37190,12 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 70.00000250447816,
-							"y": 0,
-							"z": 88.00000250447816
+							"x": 55.90504713013559,
+							"y": 0.5049214142280752,
+							"z": 88.37126876480775
 						},
 						"position": {
-							"x": -50.9521464,
+							"x": -50.952145,
 							"y": 29.015392,
 							"z": 5.686896
 						}
@@ -35320,14 +37258,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": 0.00000250447816
+							"x": 62.56981936373439,
+							"y": 0.4777413701170971,
+							"z": -0.8921590425828011
 						},
 						"position": {
 							"x": -25.13721,
-							"y": 38.663609,
-							"z": 6.8677227
+							"y": 38.66361,
+							"z": 6.8677225
 						}
 					}
 				},
@@ -35388,14 +37326,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": 180.00000250447816
+							"x": 60.236435497961274,
+							"y": 0.08169149039215903,
+							"z": 179.76680869031375
 						},
 						"position": {
 							"x": -25.216026,
-							"y": 31.832616,
-							"z": 6.8677227
+							"y": 31.832617,
+							"z": 6.8677225
 						}
 					}
 				},
@@ -35456,14 +37394,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": 90.00000250447816
+							"x": 60.6452769612999,
+							"y": 0.6078077553471508,
+							"z": 89.95759385992156
 						},
 						"position": {
-							"x": -22.2286894,
+							"x": -22.22869,
 							"y": 35.56305,
-							"z": 6.8677227
+							"z": 6.8677225
 						}
 					}
 				},
@@ -35524,14 +37462,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": -90.00000250447816
+							"x": 65.49098198872213,
+							"y": -0.4039714584191248,
+							"z": -91.35440852632418
 						},
 						"position": {
-							"x": -28.3612095,
+							"x": -28.36121,
 							"y": 35.56305,
-							"z": 6.8677227
+							"z": 6.8677225
 						}
 					}
 				},
@@ -35592,9 +37530,9 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -90.00000250447816,
-							"y": 0,
-							"z": -1
+							"x": -63.95558961424911,
+							"y": -0.5606470066755053,
+							"z": -0.7806898217196641
 						},
 						"position": {
 							"x": -39.84392,
@@ -35660,13 +37598,13 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": -0.5
+							"x": 58.014363225091856,
+							"y": -0.07179464633640972,
+							"z": 0.4938985561247325
 						},
 						"position": {
 							"x": -39.84392,
-							"y": 16.620662,
+							"y": 16.620663,
 							"z": 5.710845
 						}
 					}
@@ -35728,14 +37666,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": -90.00000250447816
+							"x": 63.09044370302944,
+							"y": -0.1944148780612132,
+							"z": -90.71963806561988
 						},
 						"position": {
-							"x": -42.92013,
+							"x": -42.899853,
 							"y": 13.121234,
-							"z": 5.710845
+							"z": 5.7083917
 						}
 					}
 				},
@@ -35796,12 +37734,12 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 90.00000250447816,
-							"y": 0,
-							"z": 90.00000250447816
+							"x": 64.39635538176837,
+							"y": -1.966808039905355,
+							"z": 87.6669259972177
 						},
 						"position": {
-							"x": -36.753462,
+							"x": -36.753464,
 							"y": 13.180728,
 							"z": 5.710845
 						}
@@ -38473,6 +40411,1986 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcd519c542c5bf6": {
+			"parent": "fffffffffffffffe",
+			"name": "Fireworks",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"52b6bf5a07fa6969": {
+			"parent": "abcd519c542c5bf6",
+			"name": "LOL",
+			"template": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 137.3625030517578,
+							"z": 0.392428994178772
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "aff994cc4a72c41f",
+						"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"propertyAliases": []
+		},
+		"abcd8723918c96d8": {
+			"parent": "52b6bf5a07fa6969",
+			"name": "FireworksSetup",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd97963a4ee775": {
+			"parent": "abcd8723918c96d8",
+			"name": "SetPiece_Distraction_Firework_Setup_A",
+			"template": "[assembly:/_pro/design/setpieces/setpieces_distractions.template?/setpiece_distraction_firework_setup_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/setpieces_distractions.template?/setpiece_distraction_firework_setup_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -276.94219970703127,
+							"y": 62.473968505859378,
+							"z": -1.8757350444793702
+						}
+					}
+				},
+				"m_nInterval": {
+					"type": "int32",
+					"value": 100000
+				}
+			},
+			"postInitProperties": {
+				"m_aVolumes": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": []
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "ActivateFX",
+				"shouldTrigger": "Activate",
+				"onEntity": "abcdd7f04ea39d73"
+			}, {
+				"onEvent": "DeactivateFX",
+				"shouldTrigger": "Deactivate",
+				"onEntity": "abcdd7f04ea39d73"
+			}]
+		},
+		"abcdd7f04ea39d73": {
+			"parent": "abcd8723918c96d8",
+			"name": "FX_Fireworks",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {
+				"m_aValues": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "abcd97963a4ee775",
+						"externalScene": null,
+						"exposedEntity": "FireworksRunning"
+					}]
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"propertyAliases": [{
+				"exposeProperty": "m_aValues",
+				"onEntity": "abcd2b980ceb43f4",
+				"asProperty": "m_aValues"
+			}],
+			"events": [],
+			"inputCopying": [{
+				"whenTriggered": "Activate",
+				"alsoTrigger": "Activate",
+				"onEntity": "abcd1ce174513894"
+			}, {
+				"whenTriggered": "Activate",
+				"alsoTrigger": "Activate",
+				"onEntity": "abcde14abab3a3e7"
+			}, {
+				"whenTriggered": "Activate",
+				"alsoTrigger": "Activate",
+				"onEntity": "abcd0c3faebfa2b1"
+			}, {
+				"whenTriggered": "Activate",
+				"alsoTrigger": "Activate",
+				"onEntity": "abcdc1e803b5f7c1"
+			}, {
+				"whenTriggered": "Activate",
+				"alsoTrigger": "Enable",
+				"onEntity": "abcd1243adff58c2"
+			}, {
+				"whenTriggered": "Activate",
+				"alsoTrigger": "Enable",
+				"onEntity": "abcd317158cd307a"
+			}, {
+				"whenTriggered": "Activate",
+				"alsoTrigger": "Enable",
+				"onEntity": "abcdb18100adb6f9"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Deactivate",
+				"onEntity": "abcdc1e803b5f7c1"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Deactivate",
+				"onEntity": "abcde14abab3a3e7"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Deactivate",
+				"onEntity": "abcd1ce174513894"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Disable",
+				"onEntity": "abcdb18100adb6f9"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Disable",
+				"onEntity": "abcd317158cd307a"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Disable",
+				"onEntity": "abcd1243adff58c2"
+			}, {
+				"whenTriggered": "Activate",
+				"alsoTrigger": "TransmitTrue",
+				"onEntity": "abcdefd2739a2e2c"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "TransmitFalse",
+				"onEntity": "abcdefd2739a2e2c"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Deactivate",
+				"onEntity": "abcd0c3faebfa2b1"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Stop2",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Stop2",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Stop2",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"whenTriggered": "Deactivate",
+				"alsoTrigger": "Stop2",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}]
+		},
+		"abcd317158cd307a": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "SpatialMover01",
+			"template": "[modules:/zspatialmoverentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialmoverentity.class].pc_entityblueprint",
+			"properties": {
+				"m_fSpeed": {
+					"type": "float32",
+					"value": 8
+				},
+				"m_bOneDirection": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_Entity": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2807699f8c2f"
+				},
+				"m_Start": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdbc77572ee9b5"
+				},
+				"m_End": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd9116f18537bd"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc46adeeb0e08": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "Start01",
+			"template": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -274.7331848144531,
+							"y": -59.59260177612305,
+							"z": 70.48065185546875
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0c3faebfa2b1": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FX_Fireworks_LaunchPad02",
+			"template": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -179.17008238328643
+						},
+						"position": {
+							"x": -328.6105,
+							"y": -42.220685,
+							"z": -0.9406094
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "ChangeSmokeColorOrange",
+				"shouldTrigger": "Orange",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorGreen",
+				"shouldTrigger": "Green",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorWhite",
+				"shouldTrigger": "White",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorBlue",
+				"shouldTrigger": "Blue",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorRed",
+				"shouldTrigger": "Red",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd187f0624a30a"
+			}, {
+				"onEvent": "Audio_2_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd187f0624a30a"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd187f0624a30a"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd187f0624a30a"
+			}, {
+				"onEvent": "Audio_SwirlOn",
+				"shouldTrigger": "Send1",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_SwirlOff",
+				"shouldTrigger": "Stop",
+				"onEntity": "abcdb4929245476b"
+			}]
+		},
+		"abcdbf50aaa3c0ca": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "Sound_Fireworks03",
+			"template": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcde14abab3a3e7"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1243adff58c2": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "SpatialMover02",
+			"template": "[modules:/zspatialmoverentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialmoverentity.class].pc_entityblueprint",
+			"properties": {
+				"m_fSpeed": {
+					"type": "float32",
+					"value": 9
+				},
+				"m_bOneDirection": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_Entity": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdb0aa9c9d3923"
+				},
+				"m_Start": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd6ba9f0f7c88c"
+				},
+				"m_End": {
+					"type": "SEntityTemplateReference",
+					"value": "abcda13450db66ce"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda4b0f5dce9d8": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FX_E_Fireworks_SmokeColorLogic",
+			"template": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_e_fireworks_smokecolorlogic.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_e_fireworks_smokecolorlogic.entitytemplate].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "FinalColor",
+				"shouldTrigger": "ConstantColorRGB_01_Value",
+				"onEntity": "abcd0ed73ce7e5a4"
+			}, {
+				"onEvent": "FinalColor",
+				"shouldTrigger": "DiffuseColor",
+				"onEntity": "abcddadfd4529803"
+			}, {
+				"onEvent": "FinalColor",
+				"shouldTrigger": "DiffuseColor",
+				"onEntity": "abcd236115d93725"
+			}, {
+				"onEvent": "FinalColor",
+				"shouldTrigger": "DiffuseColor",
+				"onEntity": "abcd2807699f8c2f"
+			}, {
+				"onEvent": "FinalColor",
+				"shouldTrigger": "DiffuseColor",
+				"onEntity": "abcd437b9a39eb10"
+			}, {
+				"onEvent": "FinalColor",
+				"shouldTrigger": "DiffuseColor",
+				"onEntity": "abcdb0aa9c9d3923"
+			}, {
+				"onEvent": "SetVisibilty",
+				"shouldTrigger": "SetVisible",
+				"onEntity": "abcd437b9a39eb10"
+			}, {
+				"onEvent": "SetVisibilty",
+				"shouldTrigger": "SetVisible",
+				"onEntity": "abcddadfd4529803"
+			}, {
+				"onEvent": "SetVisibilty",
+				"shouldTrigger": "SetVisible",
+				"onEntity": "abcd2807699f8c2f"
+			}, {
+				"onEvent": "SetVisibilty",
+				"shouldTrigger": "SetVisible",
+				"onEntity": "abcd236115d93725"
+			}, {
+				"onEvent": "SetVisibilty",
+				"shouldTrigger": "SetVisible",
+				"onEntity": "abcdb0aa9c9d3923"
+			}],
+			"outputCopying": [{
+				"onEvent": "FinalColor",
+				"propagateEvent": "FinalColor",
+				"onEntity": "abcdd7f04ea39d73"
+			}]
+		},
+		"abcd380629b3c85c": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "StepCounter",
+			"template": "[modules:/zstepcounterentity.class].pc_entitytype",
+			"blueprint": "[modules:/zstepcounterentity.class].pc_entityblueprint",
+			"properties": {
+				"m_nCountTo": {
+					"type": "float32",
+					"value": 10
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "OnLast",
+				"shouldTrigger": "Reset",
+				"onEntity": "abcd380629b3c85c"
+			}, {
+				"onEvent": "OnLast",
+				"shouldTrigger": "Send",
+				"onEntity": "abcd6416f479ab6f"
+			}]
+		},
+		"abcd236115d93725": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "ExplosionLight05",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 90.9615478515625,
+							"y": -14.819096565246582,
+							"z": 165.42674255371095
+						},
+						"position": {
+							"x": -0.0000048132128540601119,
+							"y": 0.00000379889206669759,
+							"z": -7.802792083566601e-7
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_SPOT"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 55.77180099487305,
+						"y": 261.85400390625
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#436bf0"
+				},
+				"m_fShadowBlurWidth": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 20
+				},
+				"m_vNearAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.009999999776482582,
+						"y": 0.019999999552965165
+					}
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.0010000000474974514,
+						"y": 1.1725300550460816
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2807699f8c2f"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd2807699f8c2f"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddadfd4529803": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "ExplosionLight06",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 118.43965148925781,
+							"y": -11.262290000915528,
+							"z": 167.87203979492188
+						},
+						"position": {
+							"x": -0.0000015180470427367255,
+							"y": -0.00001702761983324308,
+							"z": 0.00001911967046908103
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_SPOT"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 70.96320343017578,
+						"y": 112.4729995727539
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#000000"
+				},
+				"m_fShadowBlurWidth": {
+					"type": "float32",
+					"value": 3
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 20
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.3541800081729889,
+						"y": 1.1272900104522706
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd437b9a39eb10"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd437b9a39eb10"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdefd2739a2e2c": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "EventChannelTransmitter_bool",
+			"template": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/gamecore/events/eventchannel.template?/eventchanneltransmitter_bool.entitytemplate].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0ed73ce7e5a4": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FX_Par_Smoke_Wispy_4t_8x4_Fireworks",
+			"template": "[assembly:/_pro/effects/materials/smoke/fx_par_smoke_wispy_4t_8x4_fireworks.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/materials/smoke/fx_par_smoke_wispy_4t_8x4_fireworks.mi].pc_entityblueprint",
+			"properties": {
+				"Global": {
+					"type": "bool",
+					"value": true
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"Active": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb0aa9c9d3923": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "ExplosionLight04",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 50.81391525268555,
+							"z": 0.0
+						},
+						"position": {
+							"x": -391.9248046875,
+							"y": 19.914400100708009,
+							"z": 30.43025016784668
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_SPOT"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 70.96320343017578,
+						"y": 178.21299743652345
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 4
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#6eff00"
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.0010000000474974514,
+						"y": 1.1136800050735474
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd437b9a39eb10"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde2baa818ccb0": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "End01",
+			"template": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -274.7333984375,
+							"y": -59.59231185913086,
+							"z": 40.05913162231445
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbff6c764471e": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "StepCounter01",
+			"template": "[modules:/zstepcounterentity.class].pc_entitytype",
+			"blueprint": "[modules:/zstepcounterentity.class].pc_entityblueprint",
+			"properties": {
+				"m_nCountTo": {
+					"type": "float32",
+					"value": 10
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "OnLast",
+				"shouldTrigger": "Send",
+				"onEntity": "abcd6416f479ab6f"
+			}, {
+				"onEvent": "OnLast",
+				"shouldTrigger": "Reset",
+				"onEntity": "abcdbff6c764471e"
+			}]
+		},
+		"abcdb18100adb6f9": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "SpatialMover",
+			"template": "[modules:/zspatialmoverentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialmoverentity.class].pc_entityblueprint",
+			"properties": {
+				"m_Start": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc46adeeb0e08"
+				},
+				"m_End": {
+					"type": "SEntityTemplateReference",
+					"value": "abcde2baa818ccb0"
+				},
+				"m_fSpeed": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_bOneDirection": {
+					"type": "bool",
+					"value": false
+				}
+			},
+			"postInitProperties": {
+				"m_Entity": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd437b9a39eb10"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc5d57795d012": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FireworksSetup_FX_Fireworks_2dAE",
+			"template": "[assembly:/templates/sound/wwise/soundentities.template?/2daudioemitter.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/sound/wwise/soundentities.template?/2daudioemitter.entitytemplate].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6416f479ab6f": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "AE_Special2D",
+			"template": "[modules:/zaudioevententity.class].pc_entitytype",
+			"blueprint": "[modules:/zaudioevententity.class].pc_entityblueprint",
+			"properties": {
+				"m_pMainEvent": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00964A71CA18BBD1",
+						"flag": "5F"
+					}
+				},
+				"m_pEmitter": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc5d57795d012"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd187f0624a30a": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "StepCounter02",
+			"template": "[modules:/zstepcounterentity.class].pc_entitytype",
+			"blueprint": "[modules:/zstepcounterentity.class].pc_entityblueprint",
+			"properties": {
+				"m_nCountTo": {
+					"type": "float32",
+					"value": 10
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "OnLast",
+				"shouldTrigger": "Reset",
+				"onEntity": "abcd187f0624a30a"
+			}, {
+				"onEvent": "OnLast",
+				"shouldTrigger": "Send",
+				"onEntity": "abcd6416f479ab6f"
+			}]
+		},
+		"abcdc1e803b5f7c1": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FX_Fireworks_LaunchPad03",
+			"template": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 45.59380765339624
+						},
+						"position": {
+							"x": -172.09537,
+							"y": 62.54,
+							"z": -0.83478286
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "ChangeSmokeColorOrange",
+				"shouldTrigger": "Orange",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorGreen",
+				"shouldTrigger": "Green",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorWhite",
+				"shouldTrigger": "White",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorBlue",
+				"shouldTrigger": "Blue",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorRed",
+				"shouldTrigger": "Red",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "Audio_SwirlOn",
+				"shouldTrigger": "Send1",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_SwirlOff",
+				"shouldTrigger": "Stop",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_LaunchSomething",
+				"shouldTrigger": "Play_NewFireworks_SomethingLaunched",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_1_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_2_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_2_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray2",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_4_Secondary",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcda90d7aafe2f5"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcda90d7aafe2f5"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcda90d7aafe2f5"
+			}, {
+				"onEvent": "Audio_LaunchSomething",
+				"shouldTrigger": "Play_NewFireworks_SomethingLaunched",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_1_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_2_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_2_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray2",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_4_Secondary",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Audio_LaunchSomething",
+				"shouldTrigger": "Play_NewFireworks_SomethingLaunched",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_1_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_2_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_2_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray2",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_4_Secondary",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_LaunchSomething",
+				"shouldTrigger": "Play_NewFireworks_SomethingLaunched",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_1_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_2_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_2_Secondary",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray2",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Play_NewFireworks_MassiveSpray",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_4_Secondary",
+				"shouldTrigger": "Play_NewFireworks_Multiblast",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}]
+		},
+		"abcd2b980ceb43f4": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FireWorksRunningBoolean",
+			"template": "[assembly:/_pro/design/logic/valuebool.template?/valuebool_operation.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuebool.template?/valuebool_operation.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_bSignalsInEditMode": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_aValues": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [{
+						"ref": "abcd97963a4ee775",
+						"externalScene": null,
+						"exposedEntity": "FireworksRunning"
+					}]
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "OnFalse",
+				"shouldTrigger": "In",
+				"onEntity": "abcde0d422c5d4fc"
+			}]
+		},
+		"abcdb4929245476b": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "Sound_Fireworks01",
+			"template": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd0c3faebfa2b1"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2807699f8c2f": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "ExplosionLight03",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 46.43357849121094,
+							"y": 0.00040107042877934873,
+							"z": 18.9826602935791
+						},
+						"position": {
+							"x": -157.30490112304688,
+							"y": 129.5634002685547,
+							"z": 52.49943923950195
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_SPOT"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 70.96320343017578,
+						"y": 178.21299743652345
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 2
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#fff600"
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.3856219947338104,
+						"y": 0.918172001838684
+					}
+				},
+				"m_fShadowBlurWidth": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 20
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {
+				"m_MasterLight": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd437b9a39eb10"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7528cd5b49e6": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "Sound_Fireworks",
+			"template": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdc1e803b5f7c1"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd20ba7ee606fe": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "Sound_Fireworks02",
+			"template": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/templates/sound/customsoundtemplates.template?/sound_fireworks.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						}
+					}
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "abcd1ce174513894"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda13450db66ce": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "End03",
+			"template": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -390.2204895019531,
+							"y": 18.09295082092285,
+							"z": 40.05913162231445
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbc77572ee9b5": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "Start02",
+			"template": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -159.96800231933595,
+							"y": 116.17169952392578,
+							"z": 70.48065185546875
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1ce174513894": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FX_Fireworks_LaunchPad",
+			"template": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -127.16204071044922
+						},
+						"position": {
+							"x": -120.50289,
+							"y": 235.88005,
+							"z": -0.676507
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "ChangeSmokeColorOrange",
+				"shouldTrigger": "Orange",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorGreen",
+				"shouldTrigger": "Green",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorWhite",
+				"shouldTrigger": "White",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorBlue",
+				"shouldTrigger": "Blue",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorRed",
+				"shouldTrigger": "Red",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcdbff6c764471e"
+			}, {
+				"onEvent": "Audio_2_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcdbff6c764471e"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcdbff6c764471e"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcdbff6c764471e"
+			}, {
+				"onEvent": "Audio_SwirlOn",
+				"shouldTrigger": "Send1",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Audio_SwirlOff",
+				"shouldTrigger": "Stop",
+				"onEntity": "abcd20ba7ee606fe"
+			}]
+		},
+		"abcde0d422c5d4fc": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "TimerSimple",
+			"template": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "Out",
+				"shouldTrigger": "Stop2",
+				"onEntity": "abcd7528cd5b49e6"
+			}, {
+				"onEvent": "Out",
+				"shouldTrigger": "Stop2",
+				"onEntity": "abcdb4929245476b"
+			}, {
+				"onEvent": "Out",
+				"shouldTrigger": "Stop2",
+				"onEntity": "abcd20ba7ee606fe"
+			}, {
+				"onEvent": "Out",
+				"shouldTrigger": "Stop2",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}]
+		},
+		"abcda90d7aafe2f5": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "StepCounter03",
+			"template": "[modules:/zstepcounterentity.class].pc_entitytype",
+			"blueprint": "[modules:/zstepcounterentity.class].pc_entityblueprint",
+			"properties": {
+				"m_nCountTo": {
+					"type": "float32",
+					"value": 10
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "OnLast",
+				"shouldTrigger": "Reset",
+				"onEntity": "abcda90d7aafe2f5"
+			}, {
+				"onEvent": "OnLast",
+				"shouldTrigger": "Send",
+				"onEntity": "abcd6416f479ab6f"
+			}]
+		},
+		"abcd437b9a39eb10": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "ExplosionLight02",
+			"template": "[modules:/zlightentity.class].pc_entitytype",
+			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 48.583431243896487,
+							"y": 0.05454558506608009,
+							"z": -159.27142333984376
+						},
+						"position": {
+							"x": -274.7331848144531,
+							"y": -59.59257888793945,
+							"z": 69.65099334716797
+						}
+					}
+				},
+				"m_eLightType": {
+					"type": "ILightEntity.ELightType",
+					"value": "LT_SPOT"
+				},
+				"m_bCastShadows": {
+					"type": "bool",
+					"value": true
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 70.96320343017578,
+						"y": 112.4729995727539
+					}
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 1.5
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#001eff"
+				},
+				"m_fShadowBlurWidth": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 20
+				},
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.3541800081729889,
+						"y": 1.1272900104522706
+					}
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5f0717c8d425": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "INOutSwitch_AND_SignatureKill_Mix",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {
+				"m_aEmitters": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["abcdc5d57795d012"]
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"propertyAliases": [{
+				"exposeProperty": "m_aEmitters",
+				"onEntity": "abcde97d7b5e61cf",
+				"asProperty": "m_aEmitters"
+			}]
+		},
+		"abcd6ba9f0f7c88c": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "Start03",
+			"template": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -390.2204895019531,
+							"y": 18.092660903930665,
+							"z": 70.48065185546875
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9116f18537bd": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "End02",
+			"template": "[modules:/zcompositeentity.class].pc_entitytype",
+			"blueprint": "[modules:/zcompositeentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"position": {
+							"x": -159.9680938720703,
+							"y": 116.1719970703125,
+							"z": 40.05913162231445
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde14abab3a3e7": {
+			"parent": "abcdd7f04ea39d73",
+			"name": "FX_Fireworks_LaunchPad01",
+			"template": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/templates/fire/fx_fireworks.template?/fx_fireworks_launchpad.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": -90.53852081298828
+						},
+						"position": {
+							"x": 71.204716,
+							"y": 233.29405,
+							"z": -0.3774889
+						}
+					}
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "52b6bf5a07fa6969"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "ChangeSmokeColorOrange",
+				"shouldTrigger": "Orange",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorGreen",
+				"shouldTrigger": "Green",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorWhite",
+				"shouldTrigger": "White",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorBlue",
+				"shouldTrigger": "Blue",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "ChangeSmokeColorRed",
+				"shouldTrigger": "Red",
+				"onEntity": "abcda4b0f5dce9d8"
+			}, {
+				"onEvent": "Audio_1_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd380629b3c85c"
+			}, {
+				"onEvent": "Audio_2_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd380629b3c85c"
+			}, {
+				"onEvent": "Audio_3_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd380629b3c85c"
+			}, {
+				"onEvent": "Audio_4_MainBoom",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd380629b3c85c"
+			}, {
+				"onEvent": "Audio_SwirlOn",
+				"shouldTrigger": "Send1",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}, {
+				"onEvent": "Audio_SwirlOff",
+				"shouldTrigger": "Stop",
+				"onEntity": "abcdbf50aaa3c0ca"
+			}]
+		},
+		"abcdd7639b141336": {
+			"parent": "abcd5f0717c8d425",
+			"name": "ValueFloat_Basic",
+			"template": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_fValue": {
+					"type": "float32",
+					"value": 0
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc523e9ae1242": {
+			"parent": "abcd5f0717c8d425",
+			"name": "GameEventListener",
+			"template": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
+			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "EventOccurred",
+				"shouldTrigger": "Trigger",
+				"onEntity": "abcd8d8f959a0058"
+			}]
+		},
+		"abcd8d8f959a0058": {
+			"parent": "abcd5f0717c8d425",
+			"name": "AmbienceInsideOutsideSwitch",
+			"template": "[modules:/zsoundambienceinsideoutsideswitch.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundambienceinsideoutsideswitch.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "Outside",
+				"shouldTrigger": "Poll",
+				"onEntity": "abcd025c7c74fb65"
+			}, {
+				"onEvent": "Inside",
+				"shouldTrigger": "Poll",
+				"onEntity": "abcdbb3a8f044b32"
+			}]
+		},
+		"abcdf71d93b84217": {
+			"parent": "abcd5f0717c8d425",
+			"name": "ValueFloat_Basic01",
+			"template": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_fValue": {
+					"type": "float32",
+					"value": 1
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdf9e44a47f80d": {
+			"parent": "abcd5f0717c8d425",
+			"name": "ValueFloat_Basic02",
+			"template": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_fValue": {
+					"type": "float32",
+					"value": 0.20000000298023225
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd198b8e0de391": {
+			"parent": "abcd5f0717c8d425",
+			"name": "ValueFloat_Poll02",
+			"template": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_poll.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_poll.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rValueEntity": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdf9e44a47f80d"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "PollValue",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd27663ad292a4"
+			}, {
+				"onEvent": "PollValue",
+				"shouldTrigger": "SetValue",
+				"onEntity": "abcdf71d93b84217"
+			}]
+		},
+		"abcdbb3a8f044b32": {
+			"parent": "abcd5f0717c8d425",
+			"name": "ValueFloat_Poll",
+			"template": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_poll.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_poll.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rValueEntity": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdd7639b141336"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "PollValue",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd27663ad292a4"
+			}]
+		},
+		"abcd27663ad292a4": {
+			"parent": "abcd5f0717c8d425",
+			"name": "SmoothOperator",
+			"template": "[modules:/zsmoothoperator.class].pc_entitytype",
+			"blueprint": "[modules:/zsmoothoperator.class].pc_entityblueprint",
+			"properties": {
+				"m_fTransitionTime": {
+					"type": "float32",
+					"value": 1
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "Output",
+				"shouldTrigger": "SetValue",
+				"onEntity": "abcde97d7b5e61cf"
+			}]
+		},
+		"abcde97d7b5e61cf": {
+			"parent": "abcd5f0717c8d425",
+			"name": "VoiceVolume",
+			"template": "[modules:/zaudioparamentity.class].pc_entitytype",
+			"blueprint": "[modules:/zaudioparamentity.class].pc_entityblueprint",
+			"properties": {
+				"m_sName": {
+					"type": "ZString",
+					"value": "RTCP_Generic_0to1"
+				},
+				"m_aEmitters": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["abcdc5d57795d012"]
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3c386a31be9d": {
+			"parent": "abcd5f0717c8d425",
+			"name": "ValueBool_Basic_DahliaOntoNovikovTriggered",
+			"template": "[assembly:/_pro/design/logic/valuebool.template?/valuebool_basic.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuebool.template?/valuebool_basic.entitytemplate].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "OnTrue",
+				"shouldTrigger": "Poll",
+				"onEntity": "abcd198b8e0de391"
+			}]
+		},
+		"abcd025c7c74fb65": {
+			"parent": "abcd5f0717c8d425",
+			"name": "ValueFloat_Poll01",
+			"template": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_poll.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_poll.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_rValueEntity": {
+					"type": "SEntityTemplateReference",
+					"value": "abcdf71d93b84217"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "PollValue",
+				"shouldTrigger": "Input",
+				"onEntity": "abcd27663ad292a4"
+			}]
+		},
+		"abcd2b3baa42ac24": {
+			"parent": "abcd8723918c96d8",
+			"name": "Activate Fireworks In 3 minutes",
+			"template": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"Delay time (ms)": {
+					"type": "int32",
+					"value": 180000
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "Out",
+				"shouldTrigger": "Activate",
+				"onEntity": "abcdd7f04ea39d73"
+			}, {
+				"onEvent": "Out",
+				"shouldTrigger": "In",
+				"onEntity": "abcd245607f7df8c"
+			}]
+		},
+		"abcd245607f7df8c": {
+			"parent": "abcd8723918c96d8",
+			"name": "Deactivate Fireworks In 3 minutes",
+			"template": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/logic.template?/timersimple.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"Delay time (ms)": {
+					"type": "int32",
+					"value": 180000
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [{
+				"onEvent": "Out",
+				"shouldTrigger": "Deactivate",
+				"onEntity": "abcdd7f04ea39d73"
+			}, {
+				"onEvent": "Out",
+				"shouldTrigger": "In",
+				"onEntity": "abcd2b3baa42ac24"
+			}]
 		}
 	},
 	"propertyOverrides": [{

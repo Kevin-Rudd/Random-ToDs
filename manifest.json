@@ -158,6 +158,41 @@
 		"runtimeID": "0029222E19CDE0BF",
 		"comment": "WC_wire_lamps",
 		"toChunk": 1
+	},
+	{
+		"runtimeID": "00964A71CA18BBD1",
+		"comment": "Fireworks stuff",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "0074A528CE4E0F78",
+		"comment": "Fireworks stuff",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "006D93EB00EDDD5F",
+		"comment": "Fireworks stuff",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00AE8574A2DF8F00",
+		"comment": "Fireworks stuff",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00B747B0450DFB3B",
+		"comment": "Fireworks stuff",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "0099FA407A26CD1A",
+		"comment": "Fireworks stuff",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00CDA374BED0E840",
+		"comment": "Fireworks stuff",
+		"toChunk": 1
 	}
 
 
