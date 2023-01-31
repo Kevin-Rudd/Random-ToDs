@@ -3,7 +3,7 @@
         "EnableSaving": true,
         "RandomBricks": {
             "TimeOfDay": [
-                "assembly:/_pro/scenes/missions/miami/tod_night.brick"
+                "assembly:/_pro/scenes/missions/miami/tod_sunset.brick"
             ]
         },
         "Objectives": [

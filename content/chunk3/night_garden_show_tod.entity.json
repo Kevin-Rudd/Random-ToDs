@@ -42391,6 +42391,74 @@
 				"shouldTrigger": "In",
 				"onEntity": "abcd2b3baa42ac24"
 			}]
+		},
+		"abcd7e596a09b31a": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "BoxReflectionCache",
+			"template": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "002978EF7EA21E13",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde77768745778": {
+			"parent": "abcd7e596a09b31a",
+			"name": "BoxReflection",
+			"template": "[modules:/zboxreflectionentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
+			"properties": {
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1000,
+						"y": 1000,
+						"z": 1000
+					}
+				},
+				"m_vSampleOffset": {
+					"type": "SVector3",
+					"value": {
+						"x": 0,
+						"y": 0,
+						"z": 5
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_eType": {
+					"type": "ZBoxReflectionEntity.EType",
+					"value": "eFallback"
+				},
+				"m_eBoundsType": {
+					"type": "ZBoxReflectionEntity.EBoundsType",
+					"value": "eBox"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{

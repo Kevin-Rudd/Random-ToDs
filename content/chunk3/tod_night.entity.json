@@ -1899,7 +1899,7 @@
 						"position": {
 							"x": 0.04937078,
 							"y": -35.066673,
-							"z":3.1852798
+							"z": 3.1852798
 						}
 					}
 				},
@@ -2053,7 +2053,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":54.40487,"y":40.307686,"z":3.2115707}
+						"position": {
+							"x": 54.40487,
+							"y": 40.307686,
+							"z": 3.2115707
+						}
 					}
 				},
 				"On": {
@@ -2103,7 +2107,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":50.308136,"y":40.304134,"z":3.1985626}
+						"position": {
+							"x": 50.308136,
+							"y": 40.304134,
+							"z": 3.1985626
+						}
 					}
 				},
 				"On": {
@@ -2153,7 +2161,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":54.398426,"y":54.22004,"z":1.2144886}
+						"position": {
+							"x": 54.398426,
+							"y": 54.22004,
+							"z": 1.2144886
+						}
 					}
 				},
 				"On": {
@@ -2203,7 +2215,11 @@
 							"y": 0,
 							"z": 0
 						},
-						"position":{"x":50.30766,"y":54.18986,"z":1.2053905}
+						"position": {
+							"x": 50.30766,
+							"y": 54.18986,
+							"z": 1.2053905
+						}
 					}
 				},
 				"On": {
@@ -2720,13 +2736,6 @@
 			"inputCopying": [],
 			"outputCopying": []
 		},
-	
-
-
-
-
-
-
 		"2e02488f9b1e7080": {
 			"parent": "abcdd8dc88295779",
 			"name": "Lamp_Street_Ornamented_Italy_A_01_maze_main_door",
@@ -6843,7 +6852,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["d048ab52efa55adc","fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414", "668dafc1d5c78dbb", "ffc3c03586d79c9f", "eaaa1c648b37fb94"]
+					"value": ["d048ab52efa55adc", "fbc66003c6026572", "c9590796a549a004", "abcd1d450a475c92", "abcd72ccf0e7c339", "abcd0345efb49f1d", "abcd5672bb751d80", "abcda435e4bcab4c", "abcdec896f3a34a2", "abcd6bee5a864dc0", "abcd0a3daa21b5a6", "abcdb67b3a25bd5d", "abcdb307e1905a3c", "500d879a3b821f38", "2e02488f9b1e7080", "7392f8cc5d35ff42", "96e5c22600bf6bad", "7e755299ab578e62", "8f82d40da118d8b9", "64322c5e5f3ea6d8", "2e61233abd7a0414", "668dafc1d5c78dbb", "ffc3c03586d79c9f", "eaaa1c648b37fb94"]
 				}
 			},
 			"postInitProperties": {},
@@ -8419,9 +8428,179 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcdad7d42d8f11d": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "BoxReflectionCache",
+			"template": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "002978EF7EA21E13",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd730b9c238e18": {
+			"parent": "abcdad7d42d8f11d",
+			"name": "BoxReflection",
+			"template": "[modules:/zboxreflectionentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
+			"properties": {
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 1000,
+						"y": 1000,
+						"z": 1000
+					}
+				},
+				"m_vSampleOffset": {
+					"type": "SVector3",
+					"value": {
+						"x": 0,
+						"y": 0,
+						"z": 5
+					}
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						}
+					}
+				},
+				"m_eType": {
+					"type": "ZBoxReflectionEntity.EType",
+					"value": "eFallback"
+				},
+				"m_eBoundsType": {
+					"type": "ZBoxReflectionEntity.EBoundsType",
+					"value": "eBox"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd85db5f56e906": {
+			"parent": "abcd4d094a88a9a1",
+			"name": "TUTORIAL_SOUND_BANK",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/tutorial.wwisesoundbank].pc_wwisebank",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2944eed1d4fc": {
+			"parent": "abcd85db5f56e906",
+			"name": "hollyhock Soundbank",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "004C20CB4AEB0573",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc4187cbca00b": {
+			"parent": "abcd85db5f56e906",
+			"name": "rockydugong",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rockydugong.wwisesoundbank].pc_wwisebank",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{
+		"entities": [{
+			"ref": "f5c7b5d6ab800a15",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00E656CB0E9ED0ED",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "eaefed46ce29c705",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "2bd7d0c9174d8678",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "0061EF503C4C562E",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "3822005a0dd5ad89",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}, {
+			"ref": "292d84019a1a2ff7",
+			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00CC056F2AA1499C",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
 		"entities": [{
 			"ref": "21fc87f25b65b874",
 			"comment": "Lamps to turn off - Chandeliers",
