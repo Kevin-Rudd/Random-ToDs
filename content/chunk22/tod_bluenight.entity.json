@@ -2461,7 +2461,95 @@
 	}],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
-	"propertyOverrides": [],
+	"propertyOverrides": [{
+		"entities": [{
+			"ref": "9ff278e84635597b",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "2e181544cd17c34",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "97d5351dd17670cf",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "9b3ffddc4898c6b7",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "f0a46ac499be4f2f",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "a41f2d6edefe1c38",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "881041e2f2d81c2e",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "a25977c3c5d2ef0b",
+			"_comment": "Morgue Rooms",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "9a3e603168c4454a",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "54d13adb6e922fe0",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "a02d1d0ee7fc91c7",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "202095f6c92be62d",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "54adb74953be37",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "56b16ada1effc685",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "de2ee62a10d404f5",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "ee00a353397356d0",
+			"_comment": "600_Underground",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "54773ed32c3657da",
+			"_comment": "Portman Suite",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "959674df652c643e",
+			"_comment": "Rieper Bathroom",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "1e1e8632d8b3f8f2",
+			"_comment": "Texan Suite",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}, {
+			"ref": "c23207b2c3b3089a",
+			"_comment": "Texan Bathroom",
+			"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_PostfilterParametersID": {
+				"type": "int32",
+				"value": 1
+			}
+		}
+	}],
 	"externalScenes": ["[assembly:/_pro/scenes/missions/hokkaido/tod_winter_twilight_clear.brick].pc_entitytype"],
 	"subType": 1,
 	"quickEntityVersion": 2.1
