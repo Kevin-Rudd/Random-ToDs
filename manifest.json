@@ -8,8 +8,8 @@
     "loadBefore": [
         "musicalmushr00m.LightingUltimate"
     ],
-	"frameworkVersion": "2.0.0",
-	"dependencies": ["002978EF7EA21E13","005415E5BE265EFD","00E656CB0E9ED0ED","00032972CFAF8528",{
+	"frameworkVersion": "2.1.0",
+	"dependencies": ["00B699EFB3802B71","002978EF7EA21E13","005415E5BE265EFD","00E656CB0E9ED0ED","00032972CFAF8528",{
 		"runtimeID": "003D96EAECB00C82",
 		"comment": "adonis_sky",
 		"toChunk": 1
@@ -193,10 +193,12 @@
 		"runtimeID": "00CDA374BED0E840",
 		"comment": "Fireworks stuff",
 		"toChunk": 1
-	}
-
-
-],
+	},{
+		"runtimeID": "00831B9E1275B7C0",
+		"comment": "SkyClearB",
+		"portFromChunk1": true,
+		"toChunk": 0
+	}],
 	"packagedefinition": [
 		{
 			"type": "entity",
