@@ -1609,6 +1609,17 @@
 	},
 	"propertyOverrides": [{
 		"entities": [{
+			"ref": "425d75b852581259",
+			"externalScene": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scenario_gecko.brick].pc_entitytype"
+		}],
+		"properties": {
+			"CloudsVisible": {
+				"type": "bool",
+				"value": false
+			}
+		}
+	}, {
+		"entities": [{
 			"ref": "a4c56a0fc506a8eb",
 			"externalScene": "[assembly:/_pro/scenes/missions/golden/mission_gecko/scenario_gecko.brick].pc_entitytype"
 		}],
