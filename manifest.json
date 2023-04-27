@@ -16,7 +16,7 @@
 	},"0049E402097FE46D","000BA41D084B1850", {
 		"runtimeID": "00C7E997840E11D9",
 		"comment": "skunk_sky",
-		"toChunk": 1
+		"portFromChunk1": true
 	},	{
 		"runtimeID": "00A01A2790FF4E7D",
 		"toChunk": 1,
