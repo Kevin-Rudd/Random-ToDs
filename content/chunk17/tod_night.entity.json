@@ -1744,7 +1744,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-	
 		"abcdae9b2a96ec96": {
 			"parent": "fffffffffffffffe",
 			"name": "Ruddy Night Additions",
@@ -2750,7 +2749,6 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
-
 		"abcd94572771cebe": {
 			"parent": "abcdae9b2a96ec96",
 			"name": "Light_Flood_A_00_Construction",
@@ -4364,9 +4362,1258 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcda201a8bc8108": {
+			"parent": "abcdae9b2a96ec96",
+			"name": "lamp_street_added_Kercyx",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcdd5a8b267ba6a": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_43",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 110.1700565575244
+						},
+						"position": {
+							"x": -22.945356,
+							"y": -92.83667,
+							"z": -0.8863319
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3648568a6201": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_40",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 78.00045296303297
+						},
+						"position": {
+							"x": -0.6164247,
+							"y": -51.786396,
+							"z": -0.8622833
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5d22d890c457": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_27",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"position": {
+							"x": -124.553,
+							"y": 16.0062,
+							"z": -0.868307
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd55adbf8d1273": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_29",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 84.30503858584572
+						},
+						"position": {
+							"x": -81.225044,
+							"y": 42.699505,
+							"z": -0.96062964
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd365b6dab5f86": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_35",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 39.9999954212771
+						},
+						"position": {
+							"x": -42.1967,
+							"y": -20.462536,
+							"z": -0.8955929
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdee0a3c3ad02a": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_46",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -78.96415850397591
+						},
+						"position": {
+							"x": -26.81952,
+							"y": -127.88838,
+							"z": -1.0814571
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd2394a43f35f4": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_37",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 39.9999954212771
+						},
+						"position": {
+							"x": -24.489536,
+							"y": -36.22367,
+							"z": -0.8764409
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7b9666f16697": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_28",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 4.884953428827235
+						},
+						"position": {
+							"x": -53.911743,
+							"y": 76.60621,
+							"z": -0.7606386
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd951a2bdb3680": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_36",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 18.167469909155177
+						},
+						"position": {
+							"x": -8.207477,
+							"y": -45.040833,
+							"z": -0.90573674
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd98bc0fd06036": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_31",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -174.482537216285
+						},
+						"position": {
+							"x": -82.49041,
+							"y": -2.6737542,
+							"z": -0.9578969
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdecf1a5a62afa": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_45",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -113.83804572673967
+						},
+						"position": {
+							"x": -23.7827,
+							"y": -111.853,
+							"z": -0.931789
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd257e7709cca5": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_33",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 39.99999389070413
+						},
+						"position": {
+							"x": -47.1679,
+							"y": 5.13789,
+							"z": -0.916226
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd91eca32ff47d": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_30",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -44.73245249716593
+						},
+						"position": {
+							"x": -94.144066,
+							"y": 14.626838,
+							"z": -0.7606598
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd145e422d7309": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_32",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -140.34206887640806
+						},
+						"position": {
+							"x": -69.42341,
+							"y": -2.5176196,
+							"z": -0.96035516
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd66570e2063b0": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_39",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 39.9999954212771
+						},
+						"position": {
+							"x": -36.314907,
+							"y": -25.668285,
+							"z": -0.93888694
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdd29ad3babc1f": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_44",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 147.37753255173638
+						},
+						"position": {
+							"x": -10.138784,
+							"y": -85.21044,
+							"z": -0.97854924
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc2ce9c8bc5e3": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_42",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -123.24655617635136
+						},
+						"position": {
+							"x": -19.860771,
+							"y": -92.36147,
+							"z": -0.9844526
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd939f2588d4d2": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_34",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 90.09873971911988
+						},
+						"position": {
+							"x": -46.288654,
+							"y": -9.866614,
+							"z": -0.8620859
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5643910d8b57": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_41",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 109.32351608160386
+						},
+						"position": {
+							"x": -5.3545704,
+							"y": -65.1321,
+							"z": -0.8554227
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7818f4cabcf5": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_38",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 39.9999954212771
+						},
+						"position": {
+							"x": -18.511957,
+							"y": -43.303978,
+							"z": -0.9301915
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd45d31910315e": {
+			"parent": "fffffffffffffffe",
+			"name": "Trigger stuff upon game start",
+			"template": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
+			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
+			"properties": {
+				"m_eEvent": {
+					"type": "EGameEventType",
+					"value": "GET_GameplayStart"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"events": [{
+				"onEvent": "EventOccurred",
+				"shouldTrigger": "GetIndex",
+				"onEntity": "abcd180082aa9d91"
+			}],
+			"platformSpecificPropertyValues": []
+		},
+		"abcd180082aa9d91": {
+			"parent": "abcd45d31910315e",
+			"name": "zmultiparentspatialentity",
+			"template": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
+			"properties": {
+				"m_aParents": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["abcd0ce6ae900750", "abcd2ed11f0816ab", "abcd5d9adea41e2a", "abcd8e41c3ab1755", "abcd9d14838b7bec", "abcd43b7ca985c37", "abcd81cdb501fd9a", "abcd97dd3b44f81a", "abcd188a9fcf66cd", "abcd781d56f876ad", "abcd06468434de83", "abcda2c1cde57610", "abcda554b518d149", "abcda7851f7472ed", "abcdc1cf1c1ff83f", "abcdc4e6f317e0c6", "abcddb6ea146c239", "abcddeb8fba3ca6d", "abcde7742b6740a3", "abcdef07da4ca59f", "abcd5d22d890c457", "abcd7b9666f16697", "abcd55adbf8d1273", "abcd91eca32ff47d", "abcd98bc0fd06036", "abcd145e422d7309", "abcd257e7709cca5", "abcd939f2588d4d2", "abcd365b6dab5f86", "abcd951a2bdb3680", "abcd2394a43f35f4", "abcd7818f4cabcf5", "abcd66570e2063b0", "abcd3648568a6201", "abcd5643910d8b57", "abcdc2ce9c8bc5e3", "abcdd5a8b267ba6a", "abcdd29ad3babc1f", "abcdecf1a5a62afa", "abcdee0a3c3ad02a"]
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcd2ed11f0816ab": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_48",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": 180
+						},
+						"position": {
+							"x": -13.3679,
+							"y": -102.366,
+							"z": -0.92945
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd43b7ca985c37": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_52",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -27.21260575718573
+						},
+						"position": {
+							"x": -42.1768,
+							"y": -145.309,
+							"z": -0.96341
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd0ce6ae900750": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_47",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 76.39887605550253
+						},
+						"position": {
+							"x": -24.7688,
+							"y": -100.292,
+							"z": -0.958902
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda7851f7472ed": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_60",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -18.71454927865298
+						},
+						"position": {
+							"x": -70.00648,
+							"y": -150.64754,
+							"z": -0.9375259
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde7742b6740a3": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_65",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 220.63858145837744
+						},
+						"position": {
+							"x": -122.027016,
+							"y": -112.95879,
+							"z": -0.94986975
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd81cdb501fd9a": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_53",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -13.328696669966867
+						},
+						"position": {
+							"x": -57.09361,
+							"y": -147.7826,
+							"z": -0.96087384
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda2c1cde57610": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_58",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 23.92393797371629
+						},
+						"position": {
+							"x": -78.36359,
+							"y": -165.75319,
+							"z": -0.9606918
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddb6ea146c239": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_63",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -177.4829983375366
+						},
+						"position": {
+							"x": -106.70314,
+							"y": -149.13614,
+							"z": -0.95721626
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc1cf1c1ff83f": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_61",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -108.80015283645163
+						},
+						"position": {
+							"x": -130.63937,
+							"y": -107.32944,
+							"z": -0.959308
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc4e6f317e0c6": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_62",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 32.63858145837744
+						},
+						"position": {
+							"x": -122.027016,
+							"y": -112.95879,
+							"z": -0.94986975
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd9d14838b7bec": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_51",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 24.374909751402843
+						},
+						"position": {
+							"x": -42.975727,
+							"y": -152.40103,
+							"z": -0.95995075
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd781d56f876ad": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_56",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -0
+						},
+						"position": {
+							"x": -68.04594,
+							"y": -169.2594,
+							"z": -0.95465285
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcda554b518d149": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_59",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 29.766753289764704
+						},
+						"position": {
+							"x": -76.05214,
+							"y": -150.20775,
+							"z": -0.93898225
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd06468434de83": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_57",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -148.6914423819934
+						},
+						"position": {
+							"x": -77.706345,
+							"y": -179.14171,
+							"z": -0.9652986
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcddeb8fba3ca6d": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_64",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -166.08905434903974
+						},
+						"position": {
+							"x": -94.8035,
+							"y": -151.3229,
+							"z": -0.95979553
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd188a9fcf66cd": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_55",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 148.79558910645773
+						},
+						"position": {
+							"x": -57.059315,
+							"y": -175.6536,
+							"z": -0.77392125
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdef07da4ca59f": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_66",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 102.96415850397591
+						},
+						"position": {
+							"x": -26.81952,
+							"y": -127.88838,
+							"z": -1.0814571
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd97dd3b44f81a": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_54",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 73.02440060549021
+						},
+						"position": {
+							"x": -52.93924,
+							"y": -157.09033,
+							"z": -0.878606
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8e41c3ab1755": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_50",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -59.17300919513614
+						},
+						"position": {
+							"x": -31.5578,
+							"y": -136.75673,
+							"z": -1.0314184
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5d9adea41e2a": {
+			"parent": "abcda201a8bc8108",
+			"name": "lamp_street_mumbai_a_49",
+			"template": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/street_props/traffic_props_a.template?/lamp_street_rat.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 61.93823860137248
+						},
+						"position": {
+							"x": -16.666664,
+							"y": -123.83104,
+							"z": -1.0691682
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
-	
-	
 	},
 	"propertyOverrides": [{
 		"entities": [{
@@ -4964,1074 +6211,1004 @@
 				}
 			}
 		}
-	},
-
-
-    {
-        "entities": [          
-    {
-        "ref": "3bc75086bded761b",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }
-            
-            ],
-            "properties": {
-                "m_bColorCorrectionEnabled": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_bDistortionBarrelEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_bNoiseEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_bDepthOfFieldEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_bFogEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_bGaussianBlurEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_fNoiseIntensity": {
-                    "type": "float32",
-                    "value": 0.05000000074505806
-                },
-                "m_bFogGlobal": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_fFogTurbulenceOpacity": {
-                    "type": "float32",
-                    "value": 0.80000001192092896
-                },
-                "m_bVignetteEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_VignetteColor": {
-                    "type": "SColorRGB",
-                    "value": "#ffffff"
-                },
-                "m_bSpatialBlurEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_bRadialBlurEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_fRadialBlurriness": {
-                    "type": "float32",
-                    "value": 1
-                },
-                "m_bDistortionWobbleEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_bDistortionWobbleUseRealTime": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_fDistortionWobbleScale": {
-                    "type": "float32",
-                    "value": 1
-                },
-                "m_fGaussianBlurriness": {
-                    "type": "float32",
-                    "value": 1
-                },
-                "m_vRadialBlurCenter": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 0.5,
-                        "y": 0.5
-                    }
-                },
-                "m_fRadialBlurStart": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "m_vSpatialBlurCenter": {
-                    "type": "SVector3",
-                    "value": {
-                        "x": 0,
-                        "y": 0,
-                        "z": 0
-                    }
-                },
-                "m_fSpatialBlurStart": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "m_fSpatialBlurFade": {
-                    "type": "float32",
-                    "value": 10
-                },
-                "m_fSpatialBlurriness": {
-                    "type": "float32",
-                    "value": 1
-                },
-                "m_fDepthOfFieldFocusStart": {
-                    "type": "float32",
-                    "value": 1
-                },
-                "m_fDepthOfFieldFocalFadeNear": {
-                    "type": "float32",
-                    "value": 0.5
-                },
-                "m_vDistortionBarrel": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 0.2199999988079071,
-                        "y": 0.05999999865889549
-                    }
-                },
-                "m_bDistortionBarrelUseRealTime": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_vDistortionWobbleWaveLength": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 0.029999999329447746,
-                        "y": 0.029999999329447746
-                    }
-                },
-                "m_vDistortionWobbleSpeed": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 1,
-                        "y": 1
-                    }
-                },
-                "m_vFogTurbulenceNearScale": {
-                    "type": "SVector3",
-                    "value": {
-                        "x": 10,
-                        "y": 10,
-                        "z": 10
-                    }
-                },
-                "m_vFogTurbulenceVelocity": {
-                    "type": "SVector3",
-                    "value": {
-                        "x": 0.30000001192092896,
-                        "y": 0.5,
-                        "z": 0.10000000149011612
-                    }
-                },
-                "m_fFogTurbulenceChaos": {
-                    "type": "float32",
-                    "value": 0.5
-                },
-                "m_HDRLensFlareColorA": {
-                    "type": "SColorRGB",
-                    "value": "#000000"
-                },
-                "m_HDRLensFlareColorB": {
-                    "type": "SColorRGB",
-                    "value": "#000000"
-                },
-                "m_HDRLensFlareColorD": {
-                    "type": "SColorRGB",
-                    "value": "#4f320c"
-                },
-                "m_bDepthOfFieldUseNew": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_fDepthOfFieldFocalDistance": {
-                    "type": "float32",
-                    "value": 10
-                },
-                "m_fDepthOfFieldAperture": {
-                    "type": "float32",
-                    "value": 0.5
-                },
-                "m_bDoubleVisionEnabled": {
-                    "type": "bool",
-                    "value": false
-                },
-                "m_fDoubleVisionStrength": {
-                    "type": "float32",
-                    "value": 0.10000000149011612
-                },
-                "m_fDoubleVisionSpeed": {
-                    "type": "float32",
-                    "value": 0.10000000149011612
-                },
-                "m_fDoubleVisionEyeSeparation": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "m_fDoubleVisionSpeed1": {
-                    "type": "float32",
-                    "value": 147
-                },
-                "m_fDoubleVisionSpeed2": {
-                    "type": "float32",
-                    "value": 109
-                },
-                "m_fDoubleVisionScaleSpeed1": {
-                    "type": "float32",
-                    "value": 121
-                },
-                "m_fDoubleVisionScaleSpeed2": {
-                    "type": "float32",
-                    "value": 97
-                },
-                "m_fDoubleVisionMinScale": {
-                    "type": "float32",
-                    "value": 0.070000000298023224
-                },
-                "m_fDoubleVisionMaxScale": {
-                    "type": "float32",
-                    "value": 0.090000003576278687
-                },
-                "m_fDoubleVisionBlendSpeed": {
-                    "type": "float32",
-                    "value": 80
-                },
-                "m_fDoubleVisionBlendStrength": {
-                    "type": "float32",
-                    "value": 0.20000000298023224
-                },
-                "m_fDoubleVisionTrailStrength": {
-                    "type": "float32",
-                    "value": 0.05000000074505806
-                },
-                "m_fHDRStarScale": {
-                    "type": "float32",
-                    "value": 0.10000000149011612
-                },
-                "m_nParameterId": {
-                    "type": "int32",
-                    "value": 0
-                },
-                "m_bHDREnabled": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_fHDRBloomFalloff": {
-                    "type": "float32",
-                    "value": 1.7999999523162842
-                },
-                "m_fHDRBloomScale": {
-                    "type": "float32",
-                    "value": 0.4
-                },
-                "m_bHDRGlareEnabled": {
-                    "type": "bool",
-                    "value": true
-                },
-                "BillboardTexture": {
-                    "type": "ZRuntimeResourceID",
-                    "value": {
-                        "resource": "00BD0885FB23C17A",
-                        "flag": "5F"
-                    }
-                },
-                "m_fHDRBrightPassThreshold": {
-                    "type": "float32",
-                    "value": 0.10000000149011612
-                },
-                "m_fHDRBrightPassMaxPercentage": {
-                    "type": "float32",
-                    "value": 20
-                },
-                "m_bSSAOEnabled": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_vSSAOStrengthNearFar": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 6,
-                        "y": 11
-                    }
-                },
-                "m_vSSAODistanceNearFar": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 5,
-                        "y": 15
-                    }
-                },
-                "m_fSSAOOcclusionRange": {
-                    "type": "float32",
-                    "value": 1
-                },
-                "m_vSSAOScreenSpaceRadiusLimits": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 50,
-                        "y": 100
-                    }
-                },
-                "m_fHDRExposureMeteringSize": {
-                    "type": "float32",
-                    "value": 0.40000000596046448
-                },
-                "m_fVignetteGradientLightSize": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "m_fVignetteGradientLightStrength": {
-                    "type": "float32",
-                    "value": 0
-                },
-                "m_fVignetteStrength": {
-                    "type": "float32",
-                    "value": 0.40000000596046448
-                },
-                "m_vHDRAdaptationLuminanceMinMax": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 1,
-                        "y": 100
-                    }
-                },
-                "m_vHDRAdaptationSpeed": {
-                    "type": "SVector2",
-                    "value": {
-                        "x": 3,
-                        "y": 3
-                    }
-                },
-                "m_bForegroundBlur": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_eBlurQuality": {
-                    "type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
-                    "value": "eHighRezLensBlur"
-                },
-                "m_fNoiseScale": {
-                    "type": "float32",
-                    "value": 0.89999997615814209
-                },
-                "m_bHDRLensFlareEnabled": {
-                    "type": "bool",
-                    "value": true
-                },
-                "m_eHDRGlareType": {
-                    "type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
-                    "value": "eFilterSnowCrossSpectral"
-                },
-                "m_fHDRLensFlareAttenuation": {
-                    "type": "float32",
-                    "value": 0.69999998807907104
-                },
-                "m_HDRLensFlareColorC": {
-                    "type": "SColorRGB",
-                    "value": "#a223a8"
-                },
-                "m_fHDRLensFlareThresholdD": {
-                    "type": "float32",
-                    "value": 0.0020000000949949026
-                },
-                "m_fHDRLensFlareThresholdC": {
-                    "type": "float32",
-                    "value": 0.80000001192092896
-                },
-                "m_fHDRLensFlareThresholdA": {
-                    "type": "float32",
-                    "value": 0.80000001192092896
-                },
-                "m_fHDRLensFlareThresholdB": {
-                    "type": "float32",
-                    "value": 0.0099999997764825821
-                },
-                "m_HDRColorTint": {
-                    "type": "SColorRGB",
-                    "value": "#ffffff"
-                }
-            }
-        },
-
-        {
-            "entities": [          
-        {
-            "ref": "3d6492c0651007b5",
-            "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-        }
-                
-                ],
-                "properties": {
-                    "m_bColorCorrectionEnabled": {
-                        "type": "bool",
-                        "value": true
-                    },
-                    "m_bDistortionBarrelEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_bNoiseEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_bDepthOfFieldEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_bFogEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_bGaussianBlurEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_fNoiseIntensity": {
-                        "type": "float32",
-                        "value": 0.05000000074505806
-                    },
-                    "m_bFogGlobal": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_fFogTurbulenceOpacity": {
-                        "type": "float32",
-                        "value": 0.80000001192092896
-                    },
-                    "m_bVignetteEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_VignetteColor": {
-                        "type": "SColorRGB",
-                        "value": "#ffffff"
-                    },
-                    "m_bSpatialBlurEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_bRadialBlurEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_fRadialBlurriness": {
-                        "type": "float32",
-                        "value": 1
-                    },
-                    "m_bDistortionWobbleEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_bDistortionWobbleUseRealTime": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_fDistortionWobbleScale": {
-                        "type": "float32",
-                        "value": 1
-                    },
-                    "m_fGaussianBlurriness": {
-                        "type": "float32",
-                        "value": 1
-                    },
-                    "m_vRadialBlurCenter": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 0.5,
-                            "y": 0.5
-                        }
-                    },
-                    "m_fRadialBlurStart": {
-                        "type": "float32",
-                        "value": 0
-                    },
-                    "m_vSpatialBlurCenter": {
-                        "type": "SVector3",
-                        "value": {
-                            "x": 0,
-                            "y": 0,
-                            "z": 0
-                        }
-                    },
-                    "m_fSpatialBlurStart": {
-                        "type": "float32",
-                        "value": 0
-                    },
-                    "m_fSpatialBlurFade": {
-                        "type": "float32",
-                        "value": 10
-                    },
-                    "m_fSpatialBlurriness": {
-                        "type": "float32",
-                        "value": 1
-                    },
-                    "m_fDepthOfFieldFocusStart": {
-                        "type": "float32",
-                        "value": 1
-                    },
-                    "m_fDepthOfFieldFocalFadeNear": {
-                        "type": "float32",
-                        "value": 0.5
-                    },
-                    "m_vDistortionBarrel": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 0.2199999988079071,
-                            "y": 0.05999999865889549
-                        }
-                    },
-                    "m_bDistortionBarrelUseRealTime": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_vDistortionWobbleWaveLength": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 0.029999999329447746,
-                            "y": 0.029999999329447746
-                        }
-                    },
-                    "m_vDistortionWobbleSpeed": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 1,
-                            "y": 1
-                        }
-                    },
-                    "m_vFogTurbulenceNearScale": {
-                        "type": "SVector3",
-                        "value": {
-                            "x": 10,
-                            "y": 10,
-                            "z": 10
-                        }
-                    },
-                    "m_vFogTurbulenceVelocity": {
-                        "type": "SVector3",
-                        "value": {
-                            "x": 0.30000001192092896,
-                            "y": 0.5,
-                            "z": 0.10000000149011612
-                        }
-                    },
-                    "m_fFogTurbulenceChaos": {
-                        "type": "float32",
-                        "value": 0.5
-                    },
-                    "m_HDRLensFlareColorA": {
-                        "type": "SColorRGB",
-                        "value": "#000000"
-                    },
-                    "m_HDRLensFlareColorB": {
-                        "type": "SColorRGB",
-                        "value": "#000000"
-                    },
-                    "m_HDRLensFlareColorD": {
-                        "type": "SColorRGB",
-                        "value": "#4f320c"
-                    },
-                    "m_bDepthOfFieldUseNew": {
-                        "type": "bool",
-                        "value": true
-                    },
-                    "m_fDepthOfFieldFocalDistance": {
-                        "type": "float32",
-                        "value": 10
-                    },
-                    "m_fDepthOfFieldAperture": {
-                        "type": "float32",
-                        "value": 0.5
-                    },
-                    "m_bDoubleVisionEnabled": {
-                        "type": "bool",
-                        "value": false
-                    },
-                    "m_fDoubleVisionStrength": {
-                        "type": "float32",
-                        "value": 0.10000000149011612
-                    },
-                    "m_fDoubleVisionSpeed": {
-                        "type": "float32",
-                        "value": 0.10000000149011612
-                    },
-                    "m_fDoubleVisionEyeSeparation": {
-                        "type": "float32",
-                        "value": 0
-                    },
-                    "m_fDoubleVisionSpeed1": {
-                        "type": "float32",
-                        "value": 147
-                    },
-                    "m_fDoubleVisionSpeed2": {
-                        "type": "float32",
-                        "value": 109
-                    },
-                    "m_fDoubleVisionScaleSpeed1": {
-                        "type": "float32",
-                        "value": 121
-                    },
-                    "m_fDoubleVisionScaleSpeed2": {
-                        "type": "float32",
-                        "value": 97
-                    },
-                    "m_fDoubleVisionMinScale": {
-                        "type": "float32",
-                        "value": 0.070000000298023224
-                    },
-                    "m_fDoubleVisionMaxScale": {
-                        "type": "float32",
-                        "value": 0.090000003576278687
-                    },
-                    "m_fDoubleVisionBlendSpeed": {
-                        "type": "float32",
-                        "value": 80
-                    },
-                    "m_fDoubleVisionBlendStrength": {
-                        "type": "float32",
-                        "value": 0.20000000298023224
-                    },
-                    "m_fDoubleVisionTrailStrength": {
-                        "type": "float32",
-                        "value": 0.05000000074505806
-                    },
-                    "m_fHDRStarScale": {
-                        "type": "float32",
-                        "value": 0.10000000149011612
-                    },
-                    "m_nParameterId": {
-                        "type": "int32",
-                        "value": 1
-                    },
-                    "m_bHDREnabled": {
-                        "type": "bool",
-                        "value": true
-                    },
-                    "m_fHDRBloomFalloff": {
-                        "type": "float32",
-                        "value": 1.7999999523162842
-                    },
-                    "m_fHDRBloomScale": {
-                        "type": "float32",
-                        "value": 0.4
-                    },
-                    "m_bHDRGlareEnabled": {
-                        "type": "bool",
-                        "value": true
-                    },
-                    "BillboardTexture": {
-                        "type": "ZRuntimeResourceID",
-                        "value": {
-                            "resource": "00BD0885FB23C17A",
-                            "flag": "5F"
-                        }
-                    },
-                    "m_fHDRBrightPassThreshold": {
-                        "type": "float32",
-                        "value": 0.10000000149011612
-                    },
-                    "m_fHDRBrightPassMaxPercentage": {
-                        "type": "float32",
-                        "value": 20
-                    },
-                    "m_bSSAOEnabled": {
-                        "type": "bool",
-                        "value": true
-                    },
-                    "m_vSSAOStrengthNearFar": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 6,
-                            "y": 11
-                        }
-                    },
-                    "m_vSSAODistanceNearFar": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 5,
-                            "y": 15
-                        }
-                    },
-                    "m_fSSAOOcclusionRange": {
-                        "type": "float32",
-                        "value": 1
-                    },
-                    "m_vSSAOScreenSpaceRadiusLimits": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 50,
-                            "y": 100
-                        }
-                    },
-                    "m_fHDRExposureMeteringSize": {
-                        "type": "float32",
-                        "value": 0.40000000596046448
-                    },
-                    "m_fVignetteGradientLightSize": {
-                        "type": "float32",
-                        "value": 0
-                    },
-                    "m_fVignetteGradientLightStrength": {
-                        "type": "float32",
-                        "value": 0
-                    },
-                    "m_fVignetteStrength": {
-                        "type": "float32",
-                        "value": 0.40000000596046448
-                    },
-                    "m_vHDRAdaptationLuminanceMinMax": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 1,
-                            "y": 100
-                        }
-                    },
-                    "m_vHDRAdaptationSpeed": {
-                        "type": "SVector2",
-                        "value": {
-                            "x": 3,
-                            "y": 3
-                        }
-                    },
-                    "m_bForegroundBlur": {
-                        "type": "bool",
-                        "value": true
-                    },
-                    "m_eBlurQuality": {
-                        "type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
-                        "value": "eHighRezLensBlur"
-                    },
-                    "m_fNoiseScale": {
-                        "type": "float32",
-                        "value": 0.89999997615814209
-                    },
-                    "m_bHDRLensFlareEnabled": {
-                        "type": "bool",
-                        "value": true
-                    },
-                    "m_eHDRGlareType": {
-                        "type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
-                        "value": "eFilterSnowCrossSpectral"
-                    },
-                    "m_fHDRLensFlareAttenuation": {
-                        "type": "float32",
-                        "value": 0.69999998807907104
-                    },
-                    "m_HDRLensFlareColorC": {
-                        "type": "SColorRGB",
-                        "value": "#a223a8"
-                    },
-                    "m_fHDRLensFlareThresholdD": {
-                        "type": "float32",
-                        "value": 0.0020000000949949026
-                    },
-                    "m_fHDRLensFlareThresholdC": {
-                        "type": "float32",
-                        "value": 0.80000001192092896
-                    },
-                    "m_fHDRLensFlareThresholdA": {
-                        "type": "float32",
-                        "value": 0.80000001192092896
-                    },
-                    "m_fHDRLensFlareThresholdB": {
-                        "type": "float32",
-                        "value": 0.0099999997764825821
-                    },
-                    "m_HDRColorTint": {
-                        "type": "SColorRGB",
-                        "value": "#ffffff"
-                    }
-                }
-            },
-
-
-            {
-                "entities": [          
-            {
-                "ref": "abcd39b2a9b8f98c",
-                "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-            }
-                    
-                    ],
-                    "properties": {
-                        "m_Remap": {
-                            "type": "ZCurve",
-                            "value": {
-                                "data": [
-                                    [-6, 0.00737512344494462, 0, 0, 0, 0, 0.0019304618472233415, 0.00737512344494462],
-                                    [-5.28280782699585, 0.00930558517575264, 0, 0, 0, 0, 0.023692648857831955, 0.00930558517575264],
-                                    [-2.042663335800171, 0.032998234033584595, 0, 0, 0, 0, 0.009559597820043564, 0.032998234033584595],
-                                    [-0.7353485822677612, 0.04255783185362816, 0, 0, 0, 0, 0.023190023377537727, 0.04255783185362816],
-                                    [-0.005953712854534388, 0.06574785709381104, 0, 0, 0, 0, 0.05404132604598999, 0.06574785709381104],
-                                    [0.9094015955924988, 0.11978918313980103, 0, 0, 0, 0, 0.021822921931743622, 0.11978918313980103],
-                                    [1.3310214281082153, 0.14161209762096405, 0, 0, 0, 0, 0.010183779522776604, 0.14161209762096405],
-                                    [1.8463621139526367, 0.1517958790063858, 0, 0, 0, 0, 0, 0.1517958790063858]
-                                ]
-                            }
-                        }
-                    }
-                },
-
-
-                {
-                    "entities": [          
-                {
-                    "ref": "abcdb44fed65fc37",
-                    "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-                }
-                        
-                        ],
-                        "properties": {
-                            "m_Remap": {
-                                "type": "ZCurve",
-                                "value": {
-                                    "data": [
-                                        [-6, 0.00737512344494462, 0, 0, 0, 0, 0.0019304618472233415, 0.00737512344494462],
-                                        [-5.28280782699585, 0.00930558517575264, 0, 0, 0, 0, 0.023692648857831955, 0.00930558517575264],
-                                        [-2.042663335800171, 0.032998234033584595, 0, 0, 0, 0, 0.009559597820043564, 0.032998234033584595],
-                                        [-0.7353485822677612, 0.04255783185362816, 0, 0, 0, 0, 0.023190023377537727, 0.04255783185362816],
-                                        [-0.005953712854534388, 0.06574785709381104, 0, 0, 0, 0, 0.05404132604598999, 0.06574785709381104],
-                                        [0.9094015955924988, 0.11978918313980103, 0, 0, 0, 0, 0.021822921931743622, 0.11978918313980103],
-                                        [1.3310214281082153, 0.14161209762096405, 0, 0, 0, 0, 0.010183779522776604, 0.14161209762096405],
-                                        [1.8463621139526367, 0.1517958790063858, 0, 0, 0, 0, 0, 0.1517958790063858]
-                                    ]
-                                }
-                            }
-                        }
-                    },
-
-
-                    {
-                        "entities": [          
-                    {
-                        "ref": "5a79b0a6de707805",
-                        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-                    }
-                            
-                            ],
-                            "properties": {
-                                "252335555": {
-                                    "type": "SColorRGB",
-                                    "value": "#575757"
-                                },
-                                "1067642691": {
-                                    "type": "bool",
-                                    "value": true
-                                },
-                                "1884680034": {
-                                    "type": "SColorRGB",
-                                    "value": "#000000"
-                                },
-                                "m_mTransform": {
-                                    "type": "SMatrix43",
-                                    "value": {
-                                        "rotation": {
-                                            "x": 0,
-                                            "y": 0,
-                                            "z": 0
-                                        },
-                                        "position": {
-                                            "x": 65.85529327392578,
-                                            "y": -67.98451232910156,
-                                            "z": 50.82094955444336
-                                        }
-                                    }
-                                },
-                                "m_fSunIntensityScale": {
-                                    "type": "float32",
-                                    "value": 500
-                                },
-                                "m_fSunRadiusScale": {
-                                    "type": "float32",
-                                    "value": 1
-                                },
-                                "m_eidParent": {
-                                    "type": "SEntityTemplateReference",
-                                    "value": "fffffffffffffffe"
-                                },
-                                "m_eRoomBehaviour": {
-                                    "type": "ZSpatialEntity.ERoomBehaviour",
-                                    "value": "ROOM_STATIC"
-                                },
-                                "m_bForceVisible": {
-                                    "type": "bool",
-                                    "value": false
-                                },
-                                "m_bVisible": {
-                                    "type": "bool",
-                                    "value": true
-                                },
-                                "m_bIsPrivate": {
-                                    "type": "bool",
-                                    "value": false
-                                },
-                                "m_bVisibleInBoxReflection": {
-                                    "type": "bool",
-                                    "value": true
-                                },
-                                "m_fWorldScale": {
-                                    "type": "float32",
-                                    "value": 1
-                                },
-                                "m_fInscatterIntensity": {
-                                    "type": "float32",
-                                    "value": 0.10000000149011612
-                                },
-                                "m_RayleighColor": {
-                                    "type": "SColorRGB",
-                                    "value": "#ffffff"
-                                },
-                                "m_fMieAnisotropy": {
-                                    "type": "float32",
-                                    "value": 0.47999998927116394
-                                },
-                                "m_fShadowedRange": {
-                                    "type": "float32",
-                                    "value": 100
-                                },
-                                "m_fHeightAboveSeaLevel": {
-                                    "type": "float32",
-                                    "value": 1
-                                },
-                                "m_fAmbientInscatterFraction": {
-                                    "type": "float32",
-                                    "value": 1
-                                },
-                                "m_fMieHeightScale": {
-                                    "type": "float32",
-                                    "value": 200
-                                },
-                                "m_fRayleighHeightScale": {
-                                    "type": "float32",
-                                    "value": 5000
-                                },
-                                "m_fMieDepthScale": {
-                                    "type": "float32",
-                                    "value": 1
-                                },
-                            
-                                "m_MieColor": {
-                                    "type": "SColorRGB",
-                                    "value": "#ffffff"
-                                }
-                            }
-                        }
-
-
-
-
-
-
-
-
-
-
-
-
-],
+	}, {
+		"entities": [{
+			"ref": "3bc75086bded761b",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_bColorCorrectionEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_bDistortionBarrelEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bNoiseEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bDepthOfFieldEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bFogEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bGaussianBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fNoiseIntensity": {
+				"type": "float32",
+				"value": 0.05000000074505806
+			},
+			"m_bFogGlobal": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fFogTurbulenceOpacity": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_bVignetteEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_VignetteColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_bSpatialBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bRadialBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fRadialBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_bDistortionWobbleEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bDistortionWobbleUseRealTime": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fDistortionWobbleScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fGaussianBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_vRadialBlurCenter": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.5,
+					"y": 0.5
+				}
+			},
+			"m_fRadialBlurStart": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_vSpatialBlurCenter": {
+				"type": "SVector3",
+				"value": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			"m_fSpatialBlurStart": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fSpatialBlurFade": {
+				"type": "float32",
+				"value": 10
+			},
+			"m_fSpatialBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fDepthOfFieldFocusStart": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fDepthOfFieldFocalFadeNear": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_vDistortionBarrel": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.2199999988079071,
+					"y": 0.05999999865889549
+				}
+			},
+			"m_bDistortionBarrelUseRealTime": {
+				"type": "bool",
+				"value": false
+			},
+			"m_vDistortionWobbleWaveLength": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.029999999329447746,
+					"y": 0.029999999329447746
+				}
+			},
+			"m_vDistortionWobbleSpeed": {
+				"type": "SVector2",
+				"value": {
+					"x": 1,
+					"y": 1
+				}
+			},
+			"m_vFogTurbulenceNearScale": {
+				"type": "SVector3",
+				"value": {
+					"x": 10,
+					"y": 10,
+					"z": 10
+				}
+			},
+			"m_vFogTurbulenceVelocity": {
+				"type": "SVector3",
+				"value": {
+					"x": 0.30000001192092896,
+					"y": 0.5,
+					"z": 0.10000000149011612
+				}
+			},
+			"m_fFogTurbulenceChaos": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_HDRLensFlareColorA": {
+				"type": "SColorRGB",
+				"value": "#000000"
+			},
+			"m_HDRLensFlareColorB": {
+				"type": "SColorRGB",
+				"value": "#000000"
+			},
+			"m_HDRLensFlareColorD": {
+				"type": "SColorRGB",
+				"value": "#4f320c"
+			},
+			"m_bDepthOfFieldUseNew": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fDepthOfFieldFocalDistance": {
+				"type": "float32",
+				"value": 10
+			},
+			"m_fDepthOfFieldAperture": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_bDoubleVisionEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fDoubleVisionStrength": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fDoubleVisionSpeed": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fDoubleVisionEyeSeparation": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fDoubleVisionSpeed1": {
+				"type": "float32",
+				"value": 147
+			},
+			"m_fDoubleVisionSpeed2": {
+				"type": "float32",
+				"value": 109
+			},
+			"m_fDoubleVisionScaleSpeed1": {
+				"type": "float32",
+				"value": 121
+			},
+			"m_fDoubleVisionScaleSpeed2": {
+				"type": "float32",
+				"value": 97
+			},
+			"m_fDoubleVisionMinScale": {
+				"type": "float32",
+				"value": 0.070000000298023224
+			},
+			"m_fDoubleVisionMaxScale": {
+				"type": "float32",
+				"value": 0.090000003576278687
+			},
+			"m_fDoubleVisionBlendSpeed": {
+				"type": "float32",
+				"value": 80
+			},
+			"m_fDoubleVisionBlendStrength": {
+				"type": "float32",
+				"value": 0.20000000298023224
+			},
+			"m_fDoubleVisionTrailStrength": {
+				"type": "float32",
+				"value": 0.05000000074505806
+			},
+			"m_fHDRStarScale": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_nParameterId": {
+				"type": "int32",
+				"value": 0
+			},
+			"m_bHDREnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fHDRBloomFalloff": {
+				"type": "float32",
+				"value": 1.7999999523162842
+			},
+			"m_fHDRBloomScale": {
+				"type": "float32",
+				"value": 0.4
+			},
+			"m_bHDRGlareEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"BillboardTexture": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00BD0885FB23C17A",
+					"flag": "5F"
+				}
+			},
+			"m_fHDRBrightPassThreshold": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fHDRBrightPassMaxPercentage": {
+				"type": "float32",
+				"value": 20
+			},
+			"m_bSSAOEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_vSSAOStrengthNearFar": {
+				"type": "SVector2",
+				"value": {
+					"x": 6,
+					"y": 11
+				}
+			},
+			"m_vSSAODistanceNearFar": {
+				"type": "SVector2",
+				"value": {
+					"x": 5,
+					"y": 15
+				}
+			},
+			"m_fSSAOOcclusionRange": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_vSSAOScreenSpaceRadiusLimits": {
+				"type": "SVector2",
+				"value": {
+					"x": 50,
+					"y": 100
+				}
+			},
+			"m_fHDRExposureMeteringSize": {
+				"type": "float32",
+				"value": 0.40000000596046448
+			},
+			"m_fVignetteGradientLightSize": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fVignetteGradientLightStrength": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fVignetteStrength": {
+				"type": "float32",
+				"value": 0.40000000596046448
+			},
+			"m_vHDRAdaptationLuminanceMinMax": {
+				"type": "SVector2",
+				"value": {
+					"x": 1,
+					"y": 100
+				}
+			},
+			"m_vHDRAdaptationSpeed": {
+				"type": "SVector2",
+				"value": {
+					"x": 3,
+					"y": 3
+				}
+			},
+			"m_bForegroundBlur": {
+				"type": "bool",
+				"value": true
+			},
+			"m_eBlurQuality": {
+				"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+				"value": "eHighRezLensBlur"
+			},
+			"m_fNoiseScale": {
+				"type": "float32",
+				"value": 0.89999997615814209
+			},
+			"m_bHDRLensFlareEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_eHDRGlareType": {
+				"type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
+				"value": "eFilterSnowCrossSpectral"
+			},
+			"m_fHDRLensFlareAttenuation": {
+				"type": "float32",
+				"value": 0.69999998807907104
+			},
+			"m_HDRLensFlareColorC": {
+				"type": "SColorRGB",
+				"value": "#a223a8"
+			},
+			"m_fHDRLensFlareThresholdD": {
+				"type": "float32",
+				"value": 0.0020000000949949026
+			},
+			"m_fHDRLensFlareThresholdC": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_fHDRLensFlareThresholdA": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_fHDRLensFlareThresholdB": {
+				"type": "float32",
+				"value": 0.0099999997764825821
+			},
+			"m_HDRColorTint": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "3d6492c0651007b5",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_bColorCorrectionEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_bDistortionBarrelEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bNoiseEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bDepthOfFieldEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bFogEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bGaussianBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fNoiseIntensity": {
+				"type": "float32",
+				"value": 0.05000000074505806
+			},
+			"m_bFogGlobal": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fFogTurbulenceOpacity": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_bVignetteEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_VignetteColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_bSpatialBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bRadialBlurEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fRadialBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_bDistortionWobbleEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bDistortionWobbleUseRealTime": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fDistortionWobbleScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fGaussianBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_vRadialBlurCenter": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.5,
+					"y": 0.5
+				}
+			},
+			"m_fRadialBlurStart": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_vSpatialBlurCenter": {
+				"type": "SVector3",
+				"value": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				}
+			},
+			"m_fSpatialBlurStart": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fSpatialBlurFade": {
+				"type": "float32",
+				"value": 10
+			},
+			"m_fSpatialBlurriness": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fDepthOfFieldFocusStart": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fDepthOfFieldFocalFadeNear": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_vDistortionBarrel": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.2199999988079071,
+					"y": 0.05999999865889549
+				}
+			},
+			"m_bDistortionBarrelUseRealTime": {
+				"type": "bool",
+				"value": false
+			},
+			"m_vDistortionWobbleWaveLength": {
+				"type": "SVector2",
+				"value": {
+					"x": 0.029999999329447746,
+					"y": 0.029999999329447746
+				}
+			},
+			"m_vDistortionWobbleSpeed": {
+				"type": "SVector2",
+				"value": {
+					"x": 1,
+					"y": 1
+				}
+			},
+			"m_vFogTurbulenceNearScale": {
+				"type": "SVector3",
+				"value": {
+					"x": 10,
+					"y": 10,
+					"z": 10
+				}
+			},
+			"m_vFogTurbulenceVelocity": {
+				"type": "SVector3",
+				"value": {
+					"x": 0.30000001192092896,
+					"y": 0.5,
+					"z": 0.10000000149011612
+				}
+			},
+			"m_fFogTurbulenceChaos": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_HDRLensFlareColorA": {
+				"type": "SColorRGB",
+				"value": "#000000"
+			},
+			"m_HDRLensFlareColorB": {
+				"type": "SColorRGB",
+				"value": "#000000"
+			},
+			"m_HDRLensFlareColorD": {
+				"type": "SColorRGB",
+				"value": "#4f320c"
+			},
+			"m_bDepthOfFieldUseNew": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fDepthOfFieldFocalDistance": {
+				"type": "float32",
+				"value": 10
+			},
+			"m_fDepthOfFieldAperture": {
+				"type": "float32",
+				"value": 0.5
+			},
+			"m_bDoubleVisionEnabled": {
+				"type": "bool",
+				"value": false
+			},
+			"m_fDoubleVisionStrength": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fDoubleVisionSpeed": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fDoubleVisionEyeSeparation": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fDoubleVisionSpeed1": {
+				"type": "float32",
+				"value": 147
+			},
+			"m_fDoubleVisionSpeed2": {
+				"type": "float32",
+				"value": 109
+			},
+			"m_fDoubleVisionScaleSpeed1": {
+				"type": "float32",
+				"value": 121
+			},
+			"m_fDoubleVisionScaleSpeed2": {
+				"type": "float32",
+				"value": 97
+			},
+			"m_fDoubleVisionMinScale": {
+				"type": "float32",
+				"value": 0.070000000298023224
+			},
+			"m_fDoubleVisionMaxScale": {
+				"type": "float32",
+				"value": 0.090000003576278687
+			},
+			"m_fDoubleVisionBlendSpeed": {
+				"type": "float32",
+				"value": 80
+			},
+			"m_fDoubleVisionBlendStrength": {
+				"type": "float32",
+				"value": 0.20000000298023224
+			},
+			"m_fDoubleVisionTrailStrength": {
+				"type": "float32",
+				"value": 0.05000000074505806
+			},
+			"m_fHDRStarScale": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_nParameterId": {
+				"type": "int32",
+				"value": 1
+			},
+			"m_bHDREnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fHDRBloomFalloff": {
+				"type": "float32",
+				"value": 1.7999999523162842
+			},
+			"m_fHDRBloomScale": {
+				"type": "float32",
+				"value": 0.4
+			},
+			"m_bHDRGlareEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"BillboardTexture": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00BD0885FB23C17A",
+					"flag": "5F"
+				}
+			},
+			"m_fHDRBrightPassThreshold": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_fHDRBrightPassMaxPercentage": {
+				"type": "float32",
+				"value": 20
+			},
+			"m_bSSAOEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_vSSAOStrengthNearFar": {
+				"type": "SVector2",
+				"value": {
+					"x": 6,
+					"y": 11
+				}
+			},
+			"m_vSSAODistanceNearFar": {
+				"type": "SVector2",
+				"value": {
+					"x": 5,
+					"y": 15
+				}
+			},
+			"m_fSSAOOcclusionRange": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_vSSAOScreenSpaceRadiusLimits": {
+				"type": "SVector2",
+				"value": {
+					"x": 50,
+					"y": 100
+				}
+			},
+			"m_fHDRExposureMeteringSize": {
+				"type": "float32",
+				"value": 0.40000000596046448
+			},
+			"m_fVignetteGradientLightSize": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fVignetteGradientLightStrength": {
+				"type": "float32",
+				"value": 0
+			},
+			"m_fVignetteStrength": {
+				"type": "float32",
+				"value": 0.40000000596046448
+			},
+			"m_vHDRAdaptationLuminanceMinMax": {
+				"type": "SVector2",
+				"value": {
+					"x": 1,
+					"y": 100
+				}
+			},
+			"m_vHDRAdaptationSpeed": {
+				"type": "SVector2",
+				"value": {
+					"x": 3,
+					"y": 3
+				}
+			},
+			"m_bForegroundBlur": {
+				"type": "bool",
+				"value": true
+			},
+			"m_eBlurQuality": {
+				"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+				"value": "eHighRezLensBlur"
+			},
+			"m_fNoiseScale": {
+				"type": "float32",
+				"value": 0.89999997615814209
+			},
+			"m_bHDRLensFlareEnabled": {
+				"type": "bool",
+				"value": true
+			},
+			"m_eHDRGlareType": {
+				"type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
+				"value": "eFilterSnowCrossSpectral"
+			},
+			"m_fHDRLensFlareAttenuation": {
+				"type": "float32",
+				"value": 0.69999998807907104
+			},
+			"m_HDRLensFlareColorC": {
+				"type": "SColorRGB",
+				"value": "#a223a8"
+			},
+			"m_fHDRLensFlareThresholdD": {
+				"type": "float32",
+				"value": 0.0020000000949949026
+			},
+			"m_fHDRLensFlareThresholdC": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_fHDRLensFlareThresholdA": {
+				"type": "float32",
+				"value": 0.80000001192092896
+			},
+			"m_fHDRLensFlareThresholdB": {
+				"type": "float32",
+				"value": 0.0099999997764825821
+			},
+			"m_HDRColorTint": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "abcd39b2a9b8f98c",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_Remap": {
+				"type": "ZCurve",
+				"value": {
+					"data": [
+						[-6, 0.00737512344494462, 0, 0, 0, 0, 0.0019304618472233415, 0.00737512344494462],
+						[-5.28280782699585, 0.00930558517575264, 0, 0, 0, 0, 0.023692648857831955, 0.00930558517575264],
+						[-2.042663335800171, 0.032998234033584595, 0, 0, 0, 0, 0.009559597820043564, 0.032998234033584595],
+						[-0.7353485822677612, 0.04255783185362816, 0, 0, 0, 0, 0.023190023377537727, 0.04255783185362816],
+						[-0.005953712854534388, 0.06574785709381104, 0, 0, 0, 0, 0.05404132604598999, 0.06574785709381104],
+						[0.9094015955924988, 0.11978918313980103, 0, 0, 0, 0, 0.021822921931743622, 0.11978918313980103],
+						[1.3310214281082153, 0.14161209762096405, 0, 0, 0, 0, 0.010183779522776604, 0.14161209762096405],
+						[1.8463621139526367, 0.1517958790063858, 0, 0, 0, 0, 0, 0.1517958790063858]
+					]
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "abcdb44fed65fc37",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_Remap": {
+				"type": "ZCurve",
+				"value": {
+					"data": [
+						[-6, 0.00737512344494462, 0, 0, 0, 0, 0.0019304618472233415, 0.00737512344494462],
+						[-5.28280782699585, 0.00930558517575264, 0, 0, 0, 0, 0.023692648857831955, 0.00930558517575264],
+						[-2.042663335800171, 0.032998234033584595, 0, 0, 0, 0, 0.009559597820043564, 0.032998234033584595],
+						[-0.7353485822677612, 0.04255783185362816, 0, 0, 0, 0, 0.023190023377537727, 0.04255783185362816],
+						[-0.005953712854534388, 0.06574785709381104, 0, 0, 0, 0, 0.05404132604598999, 0.06574785709381104],
+						[0.9094015955924988, 0.11978918313980103, 0, 0, 0, 0, 0.021822921931743622, 0.11978918313980103],
+						[1.3310214281082153, 0.14161209762096405, 0, 0, 0, 0, 0.010183779522776604, 0.14161209762096405],
+						[1.8463621139526367, 0.1517958790063858, 0, 0, 0, 0, 0, 0.1517958790063858]
+					]
+				}
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "5a79b0a6de707805",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}],
+		"properties": {
+			"252335555": {
+				"type": "SColorRGB",
+				"value": "#575757"
+			},
+			"1067642691": {
+				"type": "bool",
+				"value": true
+			},
+			"1884680034": {
+				"type": "SColorRGB",
+				"value": "#000000"
+			},
+			"m_mTransform": {
+				"type": "SMatrix43",
+				"value": {
+					"rotation": {
+						"x": 0,
+						"y": 0,
+						"z": 0
+					},
+					"position": {
+						"x": 65.85529327392578,
+						"y": -67.98451232910156,
+						"z": 50.82094955444336
+					}
+				}
+			},
+			"m_fSunIntensityScale": {
+				"type": "float32",
+				"value": 500
+			},
+			"m_fSunRadiusScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_eidParent": {
+				"type": "SEntityTemplateReference",
+				"value": "fffffffffffffffe"
+			},
+			"m_eRoomBehaviour": {
+				"type": "ZSpatialEntity.ERoomBehaviour",
+				"value": "ROOM_STATIC"
+			},
+			"m_bForceVisible": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bVisible": {
+				"type": "bool",
+				"value": true
+			},
+			"m_bIsPrivate": {
+				"type": "bool",
+				"value": false
+			},
+			"m_bVisibleInBoxReflection": {
+				"type": "bool",
+				"value": true
+			},
+			"m_fWorldScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fInscatterIntensity": {
+				"type": "float32",
+				"value": 0.10000000149011612
+			},
+			"m_RayleighColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			},
+			"m_fMieAnisotropy": {
+				"type": "float32",
+				"value": 0.47999998927116394
+			},
+			"m_fShadowedRange": {
+				"type": "float32",
+				"value": 100
+			},
+			"m_fHeightAboveSeaLevel": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fAmbientInscatterFraction": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_fMieHeightScale": {
+				"type": "float32",
+				"value": 200
+			},
+			"m_fRayleighHeightScale": {
+				"type": "float32",
+				"value": 5000
+			},
+			"m_fMieDepthScale": {
+				"type": "float32",
+				"value": 1
+			},
+			"m_MieColor": {
+				"type": "SColorRGB",
+				"value": "#ffffff"
+			}
+		}
+	}],
 	"overrideDeletes": [{
 		"ref": "3ed5346896c0a8cb",
 		"comment": "BOXC",
 		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate"
-	},
-    
-    
-    
-    {
-        "ref": "3ed5346896c0a8cb",
-        "comment": "BOXC",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate"
-    },
-    
-    
-    {
-        "ref": "16e3862a6d4df91b",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "e94367ae15d323b5",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "f5a4dab47c891e0e",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    
-    {
-        "ref": "f21c78bd8145f9a8",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "a3b2a637b6b73897",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "b3b84f37bbb791cd",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "6819105829d540b7",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "b285615e20c18340",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "93d12cd789eaa87b",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "15b18aa47c007aba",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "501e31468a033237",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "3c03b06ad7d7f129",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "b8b8c22e10fde155",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "37e192239631a9bd",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "ef9199d2a5afbcc4",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    }, 
-    {
-        "ref": "1b61e603f4e2ee4a",
-        "comment": "Sunlight Folder",
-        "externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-    },
-    
-    
-    
-    {
+	}, {
+		"ref": "3ed5346896c0a8cb",
+		"comment": "BOXC",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate"
+	}, {
+		"ref": "16e3862a6d4df91b",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "e94367ae15d323b5",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "f5a4dab47c891e0e",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "f21c78bd8145f9a8",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "a3b2a637b6b73897",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "b3b84f37bbb791cd",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "6819105829d540b7",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "b285615e20c18340",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "93d12cd789eaa87b",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "15b18aa47c007aba",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "501e31468a033237",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "3c03b06ad7d7f129",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "b8b8c22e10fde155",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "37e192239631a9bd",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "ef9199d2a5afbcc4",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
+		"ref": "1b61e603f4e2ee4a",
+		"comment": "Sunlight Folder",
+		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+	}, {
 		"ref": "8cd7e64f2f287fc3",
 		"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
 	}, {
