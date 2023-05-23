@@ -4400,6 +4400,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4430,6 +4434,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4460,6 +4468,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4490,6 +4502,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4520,6 +4536,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4550,6 +4570,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4580,6 +4604,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4610,6 +4638,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4640,6 +4672,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4670,6 +4706,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4700,6 +4740,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4730,6 +4774,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4760,6 +4808,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4790,6 +4842,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4820,6 +4876,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4850,6 +4910,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4880,6 +4944,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4910,6 +4978,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4940,6 +5012,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -4970,6 +5046,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5038,6 +5118,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5068,6 +5152,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5098,6 +5186,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5128,6 +5220,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5158,6 +5254,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5188,6 +5288,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5218,6 +5322,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5248,6 +5356,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5278,6 +5390,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5308,6 +5424,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5338,6 +5458,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5368,6 +5492,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5398,6 +5526,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5428,6 +5560,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5458,6 +5594,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5488,6 +5628,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5518,6 +5662,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5548,6 +5696,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5578,6 +5730,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
@@ -5608,6 +5764,10 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
