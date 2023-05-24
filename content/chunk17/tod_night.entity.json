@@ -5276,11 +5276,11 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 19.72403416250794
+							"z": 105.40355440371765
 						},
 						"position": {
-							"x": -53.672073,
-							"y": -156.04822,
+							"x": -24.910244,
+							"y": -174.70834,
 							"z": -0.87860173
 						}
 					}
@@ -5684,11 +5684,11 @@
 						"rotation": {
 							"x": -0,
 							"y": 0,
-							"z": 200
+							"z": -159.9999816851084
 						},
 						"position": {
-							"x": -53.672073,
-							"y": -156.04822,
+							"x": -60.653664,
+							"y": -214.59824,
 							"z": -0.87860173
 						}
 					}
@@ -5773,9 +5773,47 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcd868f1ea993e1": {
+			"parent": "abcdae9b2a96ec96",
+			"name": "rockydugong",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/rockydugong.wwisesoundbank].pc_wwisebank",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{
+		"entities": [{
+			"ref": "f915449f693ece39",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}, {
+			"ref": "4e39cbebda2d6ac1",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}, {
+			"ref": "1fd69bfb88b56641",
+			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00E656CB0E9ED0ED",
+					"flag": "5F"
+				}
+			}
+		}
+	}, {
 		"entities": [{
 			"ref": "e6e53caa9905460a",
 			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
