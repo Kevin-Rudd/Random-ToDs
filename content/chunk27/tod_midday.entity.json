@@ -73,7 +73,7 @@
 				},
 				"m_fStrength": {
 					"type": "float32",
-					"value": 2
+					"value": 3
 				},
 				"m_fStrengthAmplitude": {
 					"type": "float32",
@@ -89,7 +89,7 @@
 				},
 				"m_fSpeedTreeStrength": {
 					"type": "float32",
-					"value": 0.2
+					"value": 0.3
 				}
 			},
 			"postInitProperties": {},
@@ -5647,6 +5647,14 @@
 	}, {
 		"ref": "50308787168d24af",
 		"comment": "courtyard darklights",
+		"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+	}, {
+		"ref": "7646069da7203c16",
+		"comment": "Wind",
+		"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+	}, {
+		"ref": "1dc8da8190633fe1",
+		"comment": "Outside darklights",
 		"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
 	}],
 	"pinConnectionOverrides": [],
