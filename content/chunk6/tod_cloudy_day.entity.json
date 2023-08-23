@@ -1,6 +1,6 @@
 {
-	"tempHash": "00128D349DB5E02E",
-	"tbluHash": "0069006DBF2C7BC3",
+	"tempHash": "00E24C04DEC8662C",
+	"tbluHash": "00F10F0E8E162F65",
 	"rootEntity": "fffffffffffffffe",
 	"entities": {
 		"fffffffffffffffe": {
@@ -1927,7 +1927,8 @@
 	}],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
-	"propertyOverrides": [{
+	"propertyOverrides": [
+		{
 		"entities": [{
 			"ref": "9f087eae1608ae01",
 			"_comment": "Lamp_Underground_A_00",
