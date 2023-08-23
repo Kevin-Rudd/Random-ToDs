@@ -1117,7 +1117,64 @@
 	}, {
 		"ref": "f87938dd471aee69",
 		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scene_hippo.entity].pc_entitytemplate"
-	}],
+	},
+	
+	
+	
+	
+	
+	
+	{
+		"ref": "3255b7c19d0edd71",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "5d83d5e51df80ccc",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "d0e30fe9533fc9bb",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "c28ba59de4d8879f",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "9aff76cc33af6908",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "dc7b51252dd6918a",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "d73cc04e8570007a",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "82787346dc4c3554",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "ec5fb224f6400369",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "976a4c2acbf189d4",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	},
+	{
+		"ref": "c1acb1e8dddc78ad",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}
+
+
+
+
+
+
+],
 	"pinConnectionOverrides": [],
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": ["[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype", "[assembly:/_pro/scenes/missions/colombia/scene_hippo.entity].pc_entitytemplate"],
