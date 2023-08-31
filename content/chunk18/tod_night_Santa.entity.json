@@ -1884,7 +1884,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd2bc2dc556b2c", "abcdaa1cbe8ed371"]
+					"value": ["abcd3adcf7a3c9d1", "abcd87a9c458f464", "abcdb574a0844c23", "abcdbbd05c9a32dc", "abcde111af54f86a", "abcd395adec074f2", "abcd1c870483ceaa", "abcd7d1418abfe96", "abcd8a0db7dcd486", "abcd8cbb8ccc030e", "abcd26b72ad5f939", "abcd36f3bdc44490", "abcd44e4b3bd8199", "abcd46db8deb5ccc", "abcd57d9ef3b5589", "abcdf7dbab607c7d", "abcdc2c0104901b0", "abcd2bc2dc556b2c", "abcdaa1cbe8ed371"]
 				}
 			},
 			"postInitProperties": {},
@@ -2740,6 +2740,999 @@
 			"postInitProperties": {},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcdf7dbab607c7d": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_09",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -151.04452451333282
+						},
+						"position": {
+							"x": -19.649996,
+							"y": 94.28132,
+							"z": 30.41259
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8a0db7dcd486": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 152.3604697399625
+						},
+						"position": {
+							"x": 22.516281,
+							"y": 94.69522,
+							"z": 30.582787
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8cbb8ccc030e": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_03",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 150.83016585642113
+						},
+						"position": {
+							"x": 23.515387,
+							"y": 65.622055,
+							"z": 30.455881
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd36f3bdc44490": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_05",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 49.90103081193841
+						},
+						"position": {
+							"x": 55.173386,
+							"y": 60.08875,
+							"z": 32.235794
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd57d9ef3b5589": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_08",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -15.396627794968376
+						},
+						"position": {
+							"x": 17.062641,
+							"y": 116.75039,
+							"z": 30.556799
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc2c0104901b0": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_10",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 159.61485290527345
+						},
+						"position": {
+							"x": -92.7909,
+							"y": 95.1538,
+							"z": 27.9935
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd26b72ad5f939": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_04",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -3.4884072742363537
+						},
+						"position": {
+							"x": 44.174484,
+							"y": 83.31943,
+							"z": 30.631907
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd44e4b3bd8199": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_06",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 43.35550685105887
+						},
+						"position": {
+							"x": 69.18008,
+							"y": 69.93061,
+							"z": 31.103739
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd46db8deb5ccc": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_07",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 16.401799414362472
+						},
+						"position": {
+							"x": 44.68893,
+							"y": 107.68915,
+							"z": 30.61713
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7d1418abfe96": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 140.26170487063368
+						},
+						"position": {
+							"x": -9.157891,
+							"y": 124.32831,
+							"z": 31.101604
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1c870483ceaa": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_11",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -35.0433612915447
+						},
+						"position": {
+							"x": -78.65867,
+							"y": 128.25502,
+							"z": 28.856897
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd395adec074f2": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_12",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 159.6148409781897
+						},
+						"position": {
+							"x": -68.250885,
+							"y": 147.45235,
+							"z": 29.269905
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd1107e0b8cf96": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_13",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 30.715463150384892
+						},
+						"position": {
+							"x": 57.091793,
+							"y": 102.85673,
+							"z": 30.620047
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd34e7dcc6957c": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_14",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -97.2435752136276
+						},
+						"position": {
+							"x": 71.791176,
+							"y": 106.9537,
+							"z": 31.575153
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd547f18665ec3": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_15",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 39.70102779602188
+						},
+						"position": {
+							"x": 84.17211,
+							"y": 88.72586,
+							"z": 30.790367
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd79e1dc436f78": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_16",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -168.0711889065558
+						},
+						"position": {
+							"x": 81.04038,
+							"y": 62.43008,
+							"z": 31.604195
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde1cddf299d8c": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_17",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -117.65447539718683
+						},
+						"position": {
+							"x": 90.00629,
+							"y": 65.7687,
+							"z": 30.873848
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdb659dfd4a43b": {
+			"parent": "abcd65993a2bb7f7",
+			"name": "Light_Flood_A_00_18",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -9.00885046806486
+						},
+						"position": {
+							"x": 94.63158,
+							"y": 88.862,
+							"z": 31.05483
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd8127e04fbb31": {
+			"parent": "abcddb78bb036150",
+			"name": "Construction site",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcdb574a0844c23": {
+			"parent": "abcd8127e04fbb31",
+			"name": "Light_Flood_A_00_21",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 146.16992778572143
+						},
+						"position": {
+							"x": 97.85364,
+							"y": 292.8393,
+							"z": 21.268732
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd87a9c458f464": {
+			"parent": "abcd8127e04fbb31",
+			"name": "Light_Flood_A_00_20",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -38.405959042590354
+						},
+						"position": {
+							"x": 94.65637,
+							"y": 322.0358,
+							"z": 21.137247
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcde111af54f86a": {
+			"parent": "abcd8127e04fbb31",
+			"name": "Light_Flood_A_00_23",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 43.72039604708846
+						},
+						"position": {
+							"x": 55.700348,
+							"y": 348.54282,
+							"z": 21.223087
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd3adcf7a3c9d1": {
+			"parent": "abcd8127e04fbb31",
+			"name": "Light_Flood_A_00_19",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 150.5856860652697
+						},
+						"position": {
+							"x": 129.37401,
+							"y": 311.42993,
+							"z": 21.220781
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdbbd05c9a32dc": {
+			"parent": "abcd8127e04fbb31",
+			"name": "Light_Flood_A_00_22",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_paris_a.template?/light_flood_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": -49.36088237690088
+						},
+						"position": {
+							"x": 58.863747,
+							"y": 338.82007,
+							"z": 20.793873
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 2000
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 250
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7dd662cf2410": {
+			"parent": "abcd8a2bdd1e674f",
+			"name": "Bug_Zapper_A_02",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/bug_zapper_a.template?/bug_zapper_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/bug_zapper_a.template?/bug_zapper_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 114.99997701777473
+						},
+						"position": {
+							"x": -60.033367,
+							"y": 335.43735,
+							"z": 26.916725
+						}
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#bad7ff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.4800000190734864,
+						"y": 4
+					}
+				},
+				"m_bCameraObstacle": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd6d81e24b12e0": {
+			"parent": "abcd8a2bdd1e674f",
+			"name": "Bug_Zapper_A_01",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/bug_zapper_a.template?/bug_zapper_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/bug_zapper_a.template?/bug_zapper_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0,
+							"y": 0,
+							"z": 114.99997701777473
+						},
+						"position": {
+							"x": -58.138554,
+							"y": 349.88388,
+							"z": 26.111238
+						}
+					}
+				},
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#bad7ff"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 30
+				},
+				"GlowPower": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.4800000190734864,
+						"y": 4
+					}
+				},
+				"m_bCameraObstacle": {
+					"type": "bool",
+					"value": false
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{
@@ -2949,6 +3942,30 @@
 			"m_bCastShadows": {
 				"type": "bool",
 				"value": false
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "57c1cbfd48a13020",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "358adb7dd647adcb",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "06ab7a471d28e0a4",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "ce56fc1e9ac9f201",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}],
+		"properties": {
+			"GlowPower": {
+				"type": "float32",
+				"value": 2000
+			},
+			"DiffusePower": {
+				"type": "float32",
+				"value": 250
 			}
 		}
 	}, {
