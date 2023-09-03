@@ -2449,7 +2449,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 220
+					"value": 100
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -9566,7 +9566,7 @@
 			},
 			"DiffusePower": {
 				"type": "float32",
-				"value": 80
+				"value": 20
 			}
 		}
 	}, {
