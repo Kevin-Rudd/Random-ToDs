@@ -203,18 +203,26 @@
 
 
 	
-		 "00E43E9DD30F2935"
-	,{
+	"00E43E9DD30F2935",	{
 		"runtimeID": "004F5FFA5651FB35",
-		"comment": "starfield for Santa Fortuna",
+		"comment": "starfield",
 		"toChunk": 1
 	},
 	{
-		"runtimeID": "0026E1082076FBA6",
-		"comment": "starfield for Santa Fortuna",
+		"runtimeID": "00EA33BD94BD2577",
+		"comment": "Moon",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00FA593C54570ABE",
+		"comment": "Moon text",
+		"toChunk": 1
+	},
+	{
+		"runtimeID": "00A47BD7D49620A3",
+		"comment": "Moon text",
 		"toChunk": 1
 	}
-
 
 
 

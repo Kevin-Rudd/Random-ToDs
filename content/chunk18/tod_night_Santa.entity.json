@@ -205,6 +205,150 @@
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
+		"c9590796a549a004": {
+			"parent": "fbc66003c6026572",
+			"name": "fx_custom_moon",
+			"template": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entityblueprint",
+			"properties": {
+				"142001717": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"277986898": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"748147322": {
+					"type": "float32",
+					"value": 100
+				},
+				"974143070": {
+					"type": "float32",
+					"value": 200000
+				},
+				"2932013595": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"4004151359": {
+					"type": "SColorRGB",
+					"value": "#e6f7ff"
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0.3683541417121887,
+							"y": 44.99940872192383,
+							"z": -57.90675735473633
+						},
+						"position": {
+							"x": 10.368020057678223,
+							"y": 186.3238983154297,
+							"z": 18.718910217285158
+						}
+					}
+				},
+				"Override": {
+					"type": "bool",
+					"value": true
+				},
+				"Texture2D_01": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/textures/backdrop/sky/moon_a.texture?/diffuse_d.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				},
+				"Texture2D_01_enab": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["fbc66003c6026572"]
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fbc66003c6026572"
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"fbc66003c6026572": {
+			"parent": "fffffffffffffffe",
+			"name": "fx_plane_500m",
+			"template": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_500m.prim].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -40.882719993591309,
+							"y": 50.31887817382813,
+							"z": 76.09740447998047
+						},
+						"position": {
+							"x": -2111.298095703125,
+							"y": 4753.53076171875,
+							"z": 2276.614990234375
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": {
+						"x": 55,
+						"y": 55,
+						"z": 1
+					}
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_bForceVisible": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bDisablePAC": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bVisible": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bRemovePhysics": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDisableNavmeshExport": {
+					"type": "bool",
+					"value": true
+				}
+			},
+			"postInitProperties": {
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "9e91528521e6e548",
+						"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+					}
+				}
+			},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
 		"abcd71b8243a8941": {
 			"parent": "abcdc4bca8cc9a16",
 			"name": "Light_CSM",
@@ -256,7 +400,7 @@
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+					"value": "ROOM_DYNAMIC"
 				},
 				"m_vCSMCascadeRadii": {
 					"type": "SVector3",
@@ -453,9 +597,9 @@
 				"m_PrimitiveScale": {
 					"type": "SVector3",
 					"value": {
-						"x": 2,
-						"y": 2,
-						"z": 2
+						"x": 1,
+						"y": 1,
+						"z": 1
 					}
 				},
 				"m_eRoomBehaviour": {
@@ -472,93 +616,6 @@
 				}
 			},
 			"postInitProperties": {},
-			"editorOnly": false,
-			"platformSpecificPropertyValues": []
-		},
-		"abcd2e8b176ac2f4": {
-			"parent": "abcd0935c880deb6",
-			"name": "fx_glow_starfield",
-			"template": "[assembly:/_pro/effects/materials/glow/fx_glow_starfield.mi].pc_entitytype",
-			"blueprint": "[assembly:/_pro/effects/materials/glow/fx_glow_starfield.mi].pc_entityblueprint",
-			"properties": {
-				"1787395739": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eLeave"
-				},
-				"2287298018": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eLeave"
-				},
-				"2400778427": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eLeave"
-				},
-				"3979602687": {
-					"type": "float32",
-					"value": 0.18999999761581421
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						}
-					}
-				},
-				"ConstantColorRGB_01_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"ConstantVector1D_04_Value": {
-					"type": "float32",
-					"value": 0.0099999997764825821
-				},
-				"Smoothstep_01_min_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eLeave"
-				},
-				"Smoothstep_01_min": {
-					"type": "float32",
-					"value": 0.57999998331069946
-				},
-				"Smoothstep_01_max_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eLeave"
-				},
-				"Smoothstep_01_max": {
-					"type": "float32",
-					"value": 0.87999999523162842
-				},
-				"ConstantVector1D_01_Value_op": {
-					"type": "IRenderMaterialEntity.EModifierOperation",
-					"value": "eReplace"
-				},
-				"ConstantVector1D_01_Value": {
-					"type": "float32",
-					"value": 100000
-				},
-				"ConstantColorRGB_01_Value": {
-					"type": "SColorRGB",
-					"value": "#70a9ff"
-				}
-			},
-			"postInitProperties": {
-				"Clients": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd0935c880deb6"]
-				},
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "abcd0935c880deb6"
-				}
-			},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
 		},
@@ -696,7 +753,7 @@
 				},
 				"m_fHDRBloomScale": {
 					"type": "float32",
-					"value": 1
+					"value": 0.5
 				},
 				"m_fDepthOfFieldFocalFadeFar": {
 					"type": "float32",
@@ -1953,7 +2010,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 220
+					"value": 100
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -2021,7 +2078,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 220
+					"value": 100
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -2517,7 +2574,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 220
+					"value": 100
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -2772,7 +2829,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -2810,7 +2867,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -2848,7 +2905,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -2886,7 +2943,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -2924,7 +2981,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -2962,7 +3019,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3000,7 +3057,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3038,7 +3095,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3076,7 +3133,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3114,7 +3171,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3152,7 +3209,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3190,7 +3247,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3228,7 +3285,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3266,7 +3323,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3304,7 +3361,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3342,7 +3399,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3380,7 +3437,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3418,7 +3475,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3469,7 +3526,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3507,7 +3564,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3545,7 +3602,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3583,7 +3640,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3621,7 +3678,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3765,7 +3822,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3803,7 +3860,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3841,7 +3898,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3879,7 +3936,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3917,7 +3974,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3955,7 +4012,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -3993,7 +4050,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4031,7 +4088,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4073,7 +4130,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -4141,7 +4198,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -4341,7 +4398,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4379,7 +4436,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4417,7 +4474,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4931,7 +4988,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -4969,7 +5026,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -5007,7 +5064,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -6661,7 +6718,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -6699,7 +6756,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 250
+					"value": 150
 				}
 			},
 			"postInitProperties": {},
@@ -9503,7 +9560,7 @@
 			},
 			"DiffusePower": {
 				"type": "float32",
-				"value": 250
+				"value": 150
 			}
 		}
 	}, {
@@ -9566,7 +9623,7 @@
 			},
 			"DiffusePower": {
 				"type": "float32",
-				"value": 20
+				"value": 80
 			}
 		}
 	}, {
