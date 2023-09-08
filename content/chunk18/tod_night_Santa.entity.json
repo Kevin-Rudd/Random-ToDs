@@ -416,7 +416,7 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#61c5ff"
+					"value": "#9ddbff"
 				},
 				"m_ProjectorMap": {
 					"type": "ZRuntimeResourceID",
@@ -1941,7 +1941,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd1036dde84f02", "abcda506c4367f32", "abcdec557cff84bb", "abcdeec6fa0b6e20", "abcd02e091b5dcd1", "abcd09a610f6b13a", "abcd13b028ad6574", "abcd49c311bddf9a", "abcdf21999c4319a", "abcd3adcf7a3c9d1", "abcd87a9c458f464", "abcdb574a0844c23", "abcdbbd05c9a32dc", "abcde111af54f86a", "abcd395adec074f2", "abcd1c870483ceaa", "abcd7d1418abfe96", "abcd8a0db7dcd486", "abcd8cbb8ccc030e", "abcd26b72ad5f939", "abcd36f3bdc44490", "abcd44e4b3bd8199", "abcd46db8deb5ccc", "abcd57d9ef3b5589", "abcdf7dbab607c7d", "abcdc2c0104901b0", "abcd2bc2dc556b2c", "abcdaa1cbe8ed371"]
+					"value": ["abcd29ef439b80c6", "abcd65bd981a7307", "abcd1036dde84f02", "abcda506c4367f32", "abcdec557cff84bb", "abcdeec6fa0b6e20", "abcd02e091b5dcd1", "abcd09a610f6b13a", "abcd13b028ad6574", "abcd49c311bddf9a", "abcdf21999c4319a", "abcd3adcf7a3c9d1", "abcd87a9c458f464", "abcdb574a0844c23", "abcdbbd05c9a32dc", "abcde111af54f86a", "abcd395adec074f2", "abcd1c870483ceaa", "abcd7d1418abfe96", "abcd8a0db7dcd486", "abcd8cbb8ccc030e", "abcd26b72ad5f939", "abcd36f3bdc44490", "abcd44e4b3bd8199", "abcd46db8deb5ccc", "abcd57d9ef3b5589", "abcdf7dbab607c7d", "abcdc2c0104901b0", "abcd2bc2dc556b2c", "abcdaa1cbe8ed371"]
 				}
 			},
 			"postInitProperties": {},
@@ -1974,9 +1974,9 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0.27612645881448555,
-							"y": -0.008113410960328896,
-							"z": -96.5998503749214
+							"x": 0,
+							"y": 0,
+							"z": -90
 						},
 						"position": {
 							"x": -100.52448,
@@ -1991,7 +1991,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 600
+					"value": 400
 				},
 				"SpotFarAttenuation": {
 					"type": "SVector2",
@@ -2010,7 +2010,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 100
+					"value": 30
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -2059,7 +2059,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 600
+					"value": 400
 				},
 				"SpotFarAttenuation": {
 					"type": "SVector2",
@@ -2078,7 +2078,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 100
+					"value": 30
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -2487,7 +2487,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 600
+					"value": 400
 				},
 				"SpotFarAttenuation": {
 					"type": "SVector2",
@@ -2506,7 +2506,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 100
+					"value": 30
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -2555,7 +2555,7 @@
 				},
 				"GlowPower": {
 					"type": "float32",
-					"value": 600
+					"value": 400
 				},
 				"SpotFarAttenuation": {
 					"type": "SVector2",
@@ -2574,7 +2574,7 @@
 				},
 				"DiffusePower": {
 					"type": "float32",
-					"value": 100
+					"value": 30
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -6361,12 +6361,12 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": -116.27522797732946,
-							"y": -87.67307999765988,
-							"z": 8.360719303570365
+							"x": -90.24763101283698,
+							"y": -75.63544532140268,
+							"z": 41.04986721369434
 						},
 						"position": {
-							"x": -97.24216,
+							"x": -97.02652,
 							"y": 149.40413,
 							"z": 31.729448
 						}
@@ -6387,6 +6387,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -6429,6 +6437,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -6471,6 +6487,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -6513,6 +6537,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -6555,6 +6587,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -6597,6 +6637,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -6639,6 +6687,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -6681,6 +6737,14 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				},
+				"DiffusePower": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 60
 				}
 			},
 			"postInitProperties": {},
@@ -10719,6 +10783,39 @@
 	},
 	"propertyOverrides": [{
 		"entities": [{
+			"ref": "22022342bf6af8cf",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "11028c690b7cdd1d",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_bCastShadows": {
+				"type": "bool",
+				"value": true
+			},
+			"DiffusePower": {
+				"type": "float32",
+				"value": 70
+			},
+			"GlowPower": {
+				"type": "float32",
+				"value": 400
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "5a4a9de44a1fe136",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_PostfilterParametersID": {
+				"type": "int32",
+				"value": 0
+			}
+		}
+	}, {
+		"entities": [{
 			"ref": "58ba50170f46ee41",
 			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
 		}, {
@@ -10971,6 +11068,9 @@
 	}, {
 		"entities": [{
 			"ref": "70020b955fae4196",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "e276b6f19f382ffa",
 			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
 		}],
 		"properties": {
