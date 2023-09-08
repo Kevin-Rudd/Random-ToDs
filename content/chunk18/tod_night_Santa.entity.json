@@ -1941,7 +1941,7 @@
 			"properties": {
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd29ef439b80c6", "abcd65bd981a7307", "abcd1036dde84f02", "abcda506c4367f32", "abcdec557cff84bb", "abcdeec6fa0b6e20", "abcd02e091b5dcd1", "abcd09a610f6b13a", "abcd13b028ad6574", "abcd49c311bddf9a", "abcdf21999c4319a", "abcd3adcf7a3c9d1", "abcd87a9c458f464", "abcdb574a0844c23", "abcdbbd05c9a32dc", "abcde111af54f86a", "abcd395adec074f2", "abcd1c870483ceaa", "abcd7d1418abfe96", "abcd8a0db7dcd486", "abcd8cbb8ccc030e", "abcd26b72ad5f939", "abcd36f3bdc44490", "abcd44e4b3bd8199", "abcd46db8deb5ccc", "abcd57d9ef3b5589", "abcdf7dbab607c7d", "abcdc2c0104901b0", "abcd2bc2dc556b2c", "abcdaa1cbe8ed371"]
+					"value": ["abcd91e2709806c5", "abcd5682e273464b", "abcdbd6127757576", "abcd29ef439b80c6", "abcd65bd981a7307", "abcd1036dde84f02", "abcda506c4367f32", "abcdec557cff84bb", "abcdeec6fa0b6e20", "abcd02e091b5dcd1", "abcd09a610f6b13a", "abcd13b028ad6574", "abcd49c311bddf9a", "abcdf21999c4319a", "abcd3adcf7a3c9d1", "abcd87a9c458f464", "abcdb574a0844c23", "abcdbbd05c9a32dc", "abcde111af54f86a", "abcd395adec074f2", "abcd1c870483ceaa", "abcd7d1418abfe96", "abcd8a0db7dcd486", "abcd8cbb8ccc030e", "abcd26b72ad5f939", "abcd36f3bdc44490", "abcd44e4b3bd8199", "abcd46db8deb5ccc", "abcd57d9ef3b5589", "abcdf7dbab607c7d", "abcdc2c0104901b0", "abcd2bc2dc556b2c", "abcdaa1cbe8ed371"]
 				}
 			},
 			"postInitProperties": {},
@@ -10774,6 +10774,223 @@
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd4548f35da626": {
+			"parent": "abcd2c37738be5c7",
+			"name": "Pier",
+			"template": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
+			"properties": {},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": [],
+			"events": [],
+			"inputCopying": [],
+			"outputCopying": []
+		},
+		"abcdbd6127757576": {
+			"parent": "abcd4548f35da626",
+			"name": "hokkaido_hospital_balcony_lights_a2",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -25,
+							"y": -90,
+							"z": 0
+						},
+						"position": {
+							"x": 82.99774,
+							"y": 182.48845,
+							"z": 30.66654
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 40
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd5682e273464b": {
+			"parent": "abcd4548f35da626",
+			"name": "hokkaido_hospital_balcony_lights_a1",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -25,
+							"y": -90,
+							"z": 0
+						},
+						"position": {
+							"x": 72.12931,
+							"y": 159.20987,
+							"z": 30.65429
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 40
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd91e2709806c5": {
+			"parent": "abcd4548f35da626",
+			"name": "hokkaido_hospital_balcony_lights_a3",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -25,
+							"y": -90,
+							"z": 0
+						},
+						"position": {
+							"x": 82.7731,
+							"y": 196.6962,
+							"z": 30.661173
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 40
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc2073e68938f": {
+			"parent": "abcd4548f35da626",
+			"name": "hokkaido_hospital_balcony_lights_a5",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -25,
+							"y": -90,
+							"z": 0
+						},
+						"position": {
+							"x": 88.772255,
+							"y": 209.58505,
+							"z": 30.6616
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 40
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd7049f18b8db4": {
+			"parent": "abcd4548f35da626",
+			"name": "hokkaido_hospital_balcony_lights_a4",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -25,
+							"y": -90,
+							"z": 0
+						},
+						"position": {
+							"x": 85.82114,
+							"y": 203.24738,
+							"z": 30.65534
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 40
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcd186f07033a46": {
+			"parent": "abcd4548f35da626",
+			"name": "hokkaido_hospital_balcony_lights_a",
+			"template": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_outdoor_hokkaido_a.template?/hokkaido_hospital_balcony_lights_a.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -25,
+							"y": -90,
+							"z": 0
+						},
+						"position": {
+							"x": 74.9,
+							"y": 165.15,
+							"z": 30.7
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				},
+				"m_fDiffusePower": {
+					"type": "float32",
+					"value": 40
 				}
 			},
 			"postInitProperties": {},
