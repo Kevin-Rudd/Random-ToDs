@@ -11289,6 +11289,27 @@
 		}, {
 			"ref": "e276b6f19f382ffa",
 			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "69a90aab2c5b48c8",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "4cdd6e0b044d3c6b",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "df1b71b4889a2601",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "4556beabe680cd58",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "ba996ccb59ec6226",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "23a55b9cbbe00095",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+		}, {
+			"ref": "4ac5857db4a312f",
+			"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
 		}],
 		"properties": {
 			"On": {
@@ -12567,6 +12588,86 @@
 		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
 	}, {
 		"ref": "9e1972c8dc357751",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "25814ebb8e22799b",
+		"comment": "garage fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "ebcb09940aaf71cf",
+		"comment": "garage fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "629b0231bab7a18a",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "8ebf1e22f7be2900",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "4f9c6d477395c025",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "c8ca56a91d00eee8",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "cc97e369cf7306b9",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "4c73d747aa1a26fb",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "9ebdab32c1ee6ec8",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "ae822bfb8c8af37d",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "58c359ccf1179364",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "7cd15c4b6e30401f",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "99bae37385cb3bdc",
+		"comment": "Martinez fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "476d354353d6ceb8",
+		"comment": "Martinez Entrance fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "8163d479850dfc19",
+		"comment": "Martinez Entrance fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "189b53aa2b893645",
+		"comment": "Martinez Entrance fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "94f0092fc00af286",
+		"comment": "Martinez Entrance fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "3255b7c19d0edd71",
+		"comment": "Martinez Exterior fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "56ee5e1fc6f10553",
+		"comment": "Martinez Exterior fakelights",
+		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
+	}, {
+		"ref": "7a6e55fc69dd5161",
+		"comment": "Martinez Office Darklight",
 		"externalScene": "[assembly:/_pro/scenes/missions/colombia/scenario_hippo.brick].pc_entitytype"
 	}],
 	"pinConnectionOverrides": [],
