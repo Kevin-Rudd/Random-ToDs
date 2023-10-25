@@ -1475,6 +1475,10 @@
 		}
 	},
 	"overrideDeletes": [{
+		"ref": "77a02ed4b05c11ea",
+		"_comment": "WIND",
+		"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+	}, {
 		"ref": "d380235fa754e8eb",
 		"_comment": "Lighting Shit",
 		"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"

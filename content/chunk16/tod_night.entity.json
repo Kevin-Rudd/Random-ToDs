@@ -5065,7 +5065,7 @@
 				},
 				"m_fHDRBloomScale": {
 					"type": "float32",
-					"value": 1
+					"value": 0.4
 				},
 				"m_fNoiseIntensity": {
 					"type": "float32",
@@ -5382,7 +5382,7 @@
 				},
 				"m_fHDRBloomScale": {
 					"type": "float32",
-					"value": 1
+					"value": 0.3
 				},
 				"m_fNoiseIntensity": {
 					"type": "float32",
@@ -5739,7 +5739,7 @@
 				},
 				"m_fHDRBloomScale": {
 					"type": "float32",
-					"value": 0.40000000596046448
+					"value": 0.3
 				},
 				"m_fDepthOfFieldFocalFadeFar": {
 					"type": "float32",
@@ -7905,9 +7905,101 @@
 			},
 			"editorOnly": false,
 			"platformSpecificPropertyValues": []
+		},
+		"abcd80a335ed4062": {
+			"parent": "fffffffffffffffe",
+			"name": "TUTORIAL_SOUND_BANK",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/sound/wwise/exportedwwisedata/soundbanks/levelspecific/tutorial.wwisesoundbank].pc_wwisebank",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
+		},
+		"abcdc8b7656146ac": {
+			"parent": "abcd80a335ed4062",
+			"name": "hollyhock Soundbank",
+			"template": "[modules:/zsoundbankentity.class].pc_entitytype",
+			"blueprint": "[modules:/zsoundbankentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBankResource": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "004C20CB4AEB0573",
+						"flag": "5F"
+					}
+				}
+			},
+			"postInitProperties": {},
+			"editorOnly": false,
+			"platformSpecificPropertyValues": []
 		}
 	},
 	"propertyOverrides": [{
+		"entities": [{
+			"ref": "8543a72bda8e9441",
+			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+		}],
+		"properties": {
+			"HumanActivityLoop": {
+				"type": "ZRuntimeResourceID",
+				"value": null
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "13c31fccfa670e09",
+			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "00CC056F2AA1499C",
+					"flag": "5F"
+				}
+			},
+			"HumanActivityLoop": {
+				"type": "ZRuntimeResourceID",
+				"value": null
+			}
+		}
+	}, {
+		"entities": [{
+			"ref": "bdb386abe9e77418",
+			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+		}, {
+			"ref": "665105732f4d001c",
+			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+		}, {
+			"ref": "b84224af6f435f63",
+			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+		}, {
+			"ref": "d13d1415e13338af",
+			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+		}],
+		"properties": {
+			"m_pMainEvent": {
+				"type": "ZRuntimeResourceID",
+				"value": {
+					"resource": "0061EF503C4C562E",
+					"flag": "5F"
+				}
+			},
+			"HumanActivityLoop": {
+				"type": "ZRuntimeResourceID",
+				"value": null
+			}
+		}
+	}, {
 		"entities": [{
 			"ref": "e6f7922b8a6d8de8",
 			"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
@@ -13245,6 +13337,10 @@
 		}
 	}],
 	"overrideDeletes": [{
+		"ref": "77a02ed4b05c11ea",
+		"_comment": "WIND",
+		"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+	}, {
 		"ref": "be43c9529c7c3c0e",
 		"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
 	}, {
