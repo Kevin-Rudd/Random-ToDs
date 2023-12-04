@@ -3,6 +3,11 @@
         "EnableExits": {
             "$eq": ["$53a78c2d-e25d-4dd1-b3af-6091b08211a0", "$2ffceeaf-9c3a-4aef-a897-857538538c7f", "$880e6299-195f-4fca-8a09-13257f5087a2", "$681c4058-7035-4a30-8b42-393600508361", "$1a7d60d3-3299-4917-b1e7-e9dd778e20ce", "Completed"]
         },
+        "RandomBricks": {
+            "TimeOfDay": [
+                "assembly:/_pro/scenes/missions/colorado_2/lighting_night.brick"
+            ]
+        },
         "Objectives": [
             {
                 "_comment": "----- Target Definitions ---------------------------------------------------------------",
@@ -237,11 +242,6 @@
             }
         ],
         "Bricks": [],
-        "RandomBricks": {
-            "TimeOfDay": [
-                "assembly:/_pro/scenes/missions/colorado_2/lighting_night.brick"
-            ]
-        },
         "VR": [{
                 "Quality": "base",
                 "Bricks": ["assembly:/_pro/Scenes/Bricks/vr_setup.brick", "assembly:/_PRO/Scenes/missions/colorado_2/vr_overrides_bull.brick", "assembly:/_PRO/scenes/missions/colorado_2/vr_overrides_ps4perf.brick"]
