@@ -909,7 +909,7 @@
 				},
 				"ColorCorrectionTextureHDR": {
 					"type": "ZRuntimeResourceID",
-					"value": "00F3D677AE94EA21"
+					"value": null
 				},
 				"m_vASSAOFadeInRange": {
 					"type": "SVector2",
@@ -960,7 +960,11 @@
 				},
 				"m_fWaterPlaneHeight": {
 					"type": "float32",
-					"value": -1
+					"value": -10
+				},
+				"m_fWorldScale": {
+					"type": "float32",
+					"value": 3
 				}
 			}
 		},

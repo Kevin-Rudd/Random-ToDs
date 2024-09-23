@@ -226,6 +226,18 @@
 		"runtimeID": "00A47BD7D49620A3",
 		"comment": "Moon text",
 		"toChunk": 1
+	},{
+		"runtimeID": "00D167B329091046",
+		"comment": "fx_e_rain",
+		"toChunk": 1
+	},{
+		"runtimeID": "00FDB8565FFAA61A",
+		"comment": "hitmanrainwetlogic",
+		"toChunk": 1
+	},{
+		"runtimeID": "008DA82DE27F8837",
+		"comment": "rainkillbox",
+		"toChunk": 1
 	}
 
 
