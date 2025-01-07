@@ -10,10 +10,14 @@
     ],
 	"frameworkVersion": "2.1.0",
 	"dependencies": ["007BE9EAE845E573",{
-			"runtimeID": "005E9A37D4ED9287",
-			"comment": "Hokkaido Sky",
-			"toChunk": 1
-		},"0061EF503C4C562E","004C20CB4AEB0573","00B699EFB3802B71","002978EF7EA21E13","005415E5BE265EFD","00E656CB0E9ED0ED","00032972CFAF8528",{
+		"runtimeID": "007E17AB2A0A1D00",
+		"comment": "Freedom Fighters Sky",
+		"toChunk": 1
+	},{
+		"runtimeID": "005E9A37D4ED9287",
+		"comment": "Hokkaido Sky",
+		"toChunk": 1
+	},"0061EF503C4C562E","004C20CB4AEB0573","00B699EFB3802B71","002978EF7EA21E13","005415E5BE265EFD","00E656CB0E9ED0ED","00032972CFAF8528",{
 		"runtimeID": "003D96EAECB00C82",
 		"comment": "adonis_sky",
 		"toChunk": 1

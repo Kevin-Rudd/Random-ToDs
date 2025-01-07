@@ -5030,6 +5030,88 @@
 					}
 				}
 			}
+		},
+		"cafeaa5f205f132f": {
+			"parent": "822c908f7ff01900",
+			"name": "RenderAtmosphericScattering",
+			"factory": "[modules:/zrenderatmosphericscatteringentity.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderatmosphericscatteringentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 65.85529327392578,
+							"y": -67.98452758789062,
+							"z": 51.188621520996094
+						}
+					}
+				},
+				"m_fSunRadiusScale": {
+					"type": "float32",
+					"value": 1.7000000476837158
+				},
+				"m_fSunIntensityScale": {
+					"type": "float32",
+					"value": 300
+				},
+				"m_fRayleighHeightScale": {
+					"type": "float32",
+					"value": 5000
+				},
+				"m_fMieAnisotropy": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_fMieHeightScale": { "type": "float32", "value": 1200 },
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_bVisible": { "type": "bool", "value": true },
+				"m_bIsPrivate": { "type": "bool", "value": false },
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				},
+				"m_RayleighColor": {
+					"type": "SColorRGB",
+					"value": "#f2f7ff"
+				},
+				"m_MieColor": { "type": "SColorRGB", "value": "#ffffff" },
+				"m_fWorldScale": { "type": "float32", "value": 13 },
+				"m_fInscatterIntensity": {
+					"type": "float32",
+					"value": 0.14000000059604645
+				},
+				"m_fAmbientInscatterFraction": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fShadowedInscatterIntensity": {
+					"type": "float32",
+					"value": 7
+				},
+				"m_fWaterPlaneHeight": {
+					"type": "float32",
+					"value": -4.800000190734863
+				}
+			},
+			"platformSpecificProperties": {
+				"VR_PS4": {
+					"m_RayleighColor": {
+						"type": "SColorRGB",
+						"value": "#4f6ba1"
+					},
+					"m_MieColor": {
+						"type": "SColorRGB",
+						"value": "#737373"
+					},
+					"m_fWorldScale": { "type": "float32", "value": 2 }
+				}
+			}
 		}
 	},
 	"propertyOverrides": [
@@ -6845,10 +6927,6 @@
 		{
 			"ref": "0857993eac6f34de",
 			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
-		},
-		{
-			"ref": "3ed5346896c0a8cb",
-			"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate"
 		}
 	],
 	"pinConnectionOverrides": [
@@ -6867,8 +6945,7 @@
 	],
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": [
-		"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity].pc_entitytemplate"
+		"[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
 	],
 	"subType": "scene",
 	"quickEntityVersion": 3.1,
