@@ -34,11 +34,7 @@
 							"y": -112.518,
 							"z": 1.24052
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -81,11 +77,7 @@
 							"y": -110.481,
 							"z": -0.178378
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -128,11 +120,7 @@
 							"y": 36.6192,
 							"z": 0.00881178
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -175,11 +163,7 @@
 							"y": 19.2084,
 							"z": 0.000575911
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -222,11 +206,7 @@
 							"y": 31.6126,
 							"z": 0.796479
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -269,11 +249,7 @@
 							"y": 153.699,
 							"z": -0.270322
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -316,11 +292,7 @@
 							"y": 159.183,
 							"z": -0.092829
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -363,11 +335,7 @@
 							"y": 155.02,
 							"z": 0.00263513
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -410,11 +378,7 @@
 							"y": 12.5863,
 							"z": -0.535895
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -457,11 +421,7 @@
 							"y": 82.7484,
 							"z": -1.712257
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -504,11 +464,7 @@
 							"y": 82.7711,
 							"z": -1.712257
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -551,11 +507,7 @@
 							"y": 120.578,
 							"z": -1.5
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -598,11 +550,7 @@
 							"y": 120.843,
 							"z": -1.59815
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -645,11 +593,7 @@
 							"y": -57.1497,
 							"z": 1.46208
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -692,11 +636,7 @@
 							"y": -94.7607,
 							"z": -0.4028
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -739,11 +679,7 @@
 							"y": -70.7963,
 							"z": -0.4028
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -786,11 +722,7 @@
 							"y": -73.7853,
 							"z": -0.4028
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -833,11 +765,7 @@
 							"y": -57.1497,
 							"z": 1.46208
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -880,11 +808,7 @@
 							"y": -39.2652,
 							"z": 0.956119
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -927,11 +851,7 @@
 							"y": -15.0565,
 							"z": -0.108917
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -974,11 +894,7 @@
 							"y": 17.0383,
 							"z": 0.56607
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1021,11 +937,7 @@
 							"y": 48.7975,
 							"z": 0.380992
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1068,11 +980,7 @@
 							"y": 41.9694,
 							"z": 0.793948
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1115,11 +1023,7 @@
 							"y": 41.186558,
 							"z": -0.19522771
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1162,11 +1066,7 @@
 							"y": 19.1041,
 							"z": 0.78536
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1209,11 +1109,7 @@
 							"y": -5.94899,
 							"z": 0.34947
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1251,16 +1147,8 @@
 							"y": 0,
 							"z": -86.11520385742189
 						},
-						"position": {
-							"x": 55.3707,
-							"y": 29.6416,
-							"z": 3
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"position": { "x": 55.3707, "y": 29.6416, "z": 3 },
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1303,11 +1191,7 @@
 							"y": 90.4239,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1350,11 +1234,7 @@
 							"y": 94.2356,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1397,11 +1277,7 @@
 							"y": 90.7424,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1444,11 +1320,7 @@
 							"y": 94.221,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1491,11 +1363,7 @@
 							"y": 109.571,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1538,11 +1406,7 @@
 							"y": 112.813,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1585,11 +1449,7 @@
 							"y": 112.958,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1632,11 +1492,7 @@
 							"y": 109.395,
 							"z": -1
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1677,13 +1533,9 @@
 						"position": {
 							"x": 12.8578,
 							"y": 79.6284,
-							"z": -0.00000159815
+							"z": -1.59815e-6
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1724,13 +1576,9 @@
 						"position": {
 							"x": -13.1827,
 							"y": 79.7666,
-							"z": -0.00000159815
+							"z": -1.59815e-6
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_eType": {
@@ -1763,11 +1611,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -1.8890842,
 							"y": -33.195904,
@@ -1775,24 +1619,12 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 10.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 10.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -1802,10 +1634,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"887e8c5c5cb34c3e": {
@@ -1817,11 +1646,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
+						"rotation": { "x": 0, "y": 0, "z": 90 },
 						"position": {
 							"x": 0.064052954,
 							"y": -31.280617,
@@ -1829,24 +1654,12 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 11.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 11.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -1856,10 +1669,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"89bd731a1b8c4514": {
@@ -1871,11 +1681,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
+						"rotation": { "x": 0, "y": 0, "z": 180 },
 						"position": {
 							"x": 1.889564,
 							"y": -33.110165,
@@ -1883,24 +1689,12 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 11.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 11.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -1910,10 +1704,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"127fae6b34c6d395": {
@@ -1925,11 +1716,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -90
-						},
+						"rotation": { "x": 0, "y": 0, "z": -90 },
 						"position": {
 							"x": 0.04937078,
 							"y": -35.066673,
@@ -1937,24 +1724,12 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 10.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 10.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -1964,10 +1739,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"b0aab72b2697be2a": {
@@ -1979,30 +1751,13 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 55.3707,
-							"y": 29.6416,
-							"z": 3
-						}
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": { "x": 55.3707, "y": 29.6416, "z": 3 }
 					}
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -2026,11 +1781,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 61.1224,
 							"y": 19.1041,
@@ -2038,18 +1789,9 @@
 						}
 					}
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -2073,11 +1815,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 54.40487,
 							"y": 40.307686,
@@ -2085,26 +1823,14 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2124,11 +1850,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 50.308136,
 							"y": 40.304134,
@@ -2136,26 +1858,14 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2175,11 +1885,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 54.398426,
 							"y": 54.22004,
@@ -2187,26 +1893,14 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2226,11 +1920,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 50.30766,
 							"y": 54.18986,
@@ -2238,26 +1928,14 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2296,11 +1974,7 @@
 				},
 				"m_PrimitiveScale": {
 					"type": "SVector3",
-					"value": {
-						"x": 55,
-						"y": 55,
-						"z": 1
-					}
+					"value": { "x": 55, "y": 55, "z": 1 }
 				},
 				"m_bVisibleInBoxReflection": {
 					"type": "bool",
@@ -2310,22 +1984,10 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_STATIC"
 				},
-				"m_bForceVisible": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bDisablePAC": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bRemovePhysics": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_bDisablePAC": { "type": "bool", "value": true },
+				"m_bVisible": { "type": "bool", "value": true },
+				"m_bRemovePhysics": { "type": "bool", "value": true },
 				"m_bDisableNavmeshExport": {
 					"type": "bool",
 					"value": true
@@ -2364,22 +2026,13 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2414,22 +2067,13 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2455,7 +2099,7 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 125.06987277280093
+							"z": 125.06987277280092
 						},
 						"position": {
 							"x": 3.150670051574707,
@@ -2469,22 +2113,13 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2519,22 +2154,13 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2559,22 +2185,13 @@
 					"type": "IRenderMaterialEntity.EModifierOperation",
 					"value": "eReplace"
 				},
-				"748147322": {
-					"type": "float32",
-					"value": 100
-				},
-				"974143070": {
-					"type": "float32",
-					"value": 200000
-				},
+				"748147322": { "type": "float32", "value": 100 },
+				"974143070": { "type": "float32", "value": 200000 },
 				"2932013595": {
 					"type": "IRenderMaterialEntity.EModifierOperation",
 					"value": "eReplace"
 				},
-				"4004151359": {
-					"type": "SColorRGB",
-					"value": "#e6f7ff"
-				},
+				"4004151359": { "type": "SColorRGB", "value": "#e6f7ff" },
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
@@ -2595,10 +2212,7 @@
 						}
 					}
 				},
-				"Override": {
-					"type": "bool",
-					"value": true
-				},
+				"Override": { "type": "bool", "value": true },
 				"Texture2D_01": {
 					"type": "ZRuntimeResourceID",
 					"value": {
@@ -2606,15 +2220,10 @@
 						"flag": "5F"
 					}
 				},
-				"Texture2D_01_enab": {
-					"type": "bool",
-					"value": true
-				},
+				"Texture2D_01_enab": { "type": "bool", "value": true },
 				"Clients": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"fbc66003c6026572"
-					],
+					"value": ["fbc66003c6026572"],
 					"postInit": true
 				},
 				"m_eidParent": {
@@ -2636,11 +2245,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 29.447500228881836,
 							"y": 1.0000089406967163,
@@ -2648,14 +2253,8 @@
 						}
 					}
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 150
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 150 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -2663,21 +2262,12 @@
 						"y": 0.6931909918785095
 					}
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 40
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 40 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 1,
-						"y": 10.8100004196167
-					}
+					"value": { "x": 1, "y": 10.8100004196167 }
 				},
-				"On": {
-					"type": "bool",
-					"value": false
-				},
+				"On": { "type": "bool", "value": false },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -2709,11 +2299,7 @@
 							"y": -68.35446166992188,
 							"z": -193.94569396972656
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1.0, "z": 1 }
 					}
 				},
 				"ConstantVector1D_07_Value": {
@@ -2750,11 +2336,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 83.1402,
 							"y": -112.518,
@@ -2766,18 +2348,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -2801,11 +2374,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -2.83965,
 							"y": 82.7484,
@@ -2817,18 +2386,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -2852,11 +2412,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 2.89988,
 							"y": 82.7711,
@@ -2868,18 +2424,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -2903,11 +2450,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 78.4485,
 							"y": 12.5863,
@@ -2919,18 +2462,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -2954,11 +2488,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 52.1269,
 							"y": -110.481,
@@ -2970,18 +2500,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -3005,11 +2526,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -117.186,
 							"y": 36.6192,
@@ -3021,18 +2538,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -3056,11 +2564,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -0.46531,
 							"y": 159.183,
@@ -3072,18 +2576,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -3107,11 +2602,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -19.5908,
 							"y": 153.699,
@@ -3123,18 +2614,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -3158,11 +2640,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 19.3857,
 							"y": 155.02,
@@ -3174,18 +2652,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -3209,11 +2678,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 19.052,
 							"y": 139.694,
@@ -3225,18 +2690,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3260,11 +2716,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -18.8136,
 							"y": 139.516,
@@ -3276,18 +2728,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3311,11 +2754,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 5.16375,
 							"y": 120.843,
@@ -3327,18 +2766,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3362,11 +2792,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -4.65964,
 							"y": 120.578,
@@ -3378,18 +2804,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3413,11 +2830,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -127.243,
 							"y": 31.6126,
@@ -3429,18 +2842,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3464,11 +2868,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -111.825,
 							"y": 19.2084,
@@ -3480,18 +2880,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3515,11 +2906,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -55.9472,
 							"y": 70.9456,
@@ -3531,18 +2918,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3566,11 +2944,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -18.6085,
 							"y": 97.3322,
@@ -3582,18 +2956,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3617,11 +2982,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -18.4645,
 							"y": 106.822,
@@ -3633,18 +2994,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3668,11 +3020,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 18.4569,
 							"y": 106.897,
@@ -3684,18 +3032,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3719,11 +3058,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 18.4008,
 							"y": 97.2473,
@@ -3735,18 +3070,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3770,11 +3096,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -129.998,
 							"y": 41.9694,
@@ -3782,10 +3104,7 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 250
@@ -3809,11 +3128,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 67.528885,
 							"y": 41.186558,
@@ -3825,18 +3140,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3860,11 +3166,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 64.2765,
 							"y": -5.94899,
@@ -3876,18 +3178,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3911,11 +3204,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -70.9014,
 							"y": 48.7975,
@@ -3927,18 +3216,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -3962,11 +3242,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -66.5168,
 							"y": 17.0383,
@@ -3978,18 +3254,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -4013,11 +3280,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -63.2264,
 							"y": -15.0565,
@@ -4029,18 +3292,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -4064,11 +3318,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -32.7294,
 							"y": -39.2652,
@@ -4080,18 +3330,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -4115,11 +3356,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -3.41103,
 							"y": -57.1497,
@@ -4131,18 +3368,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -4166,11 +3394,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 15.2052,
 							"y": -94.7607,
@@ -4182,18 +3406,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -4217,11 +3432,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 20.6987,
 							"y": -91.7674,
@@ -4233,18 +3444,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -4268,11 +3470,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 9.5994,
 							"y": -70.7963,
@@ -4284,18 +3482,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 200
@@ -4319,11 +3508,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 4.1288,
 							"y": -73.7853,
@@ -4335,18 +3520,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"LightOn": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4370,42 +3546,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 0, "y": 0, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -4425,11 +3581,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -43.550937,
 							"y": 104.1497942,
@@ -4441,18 +3593,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4476,11 +3619,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -43.53238,
 							"y": 99.811,
@@ -4492,18 +3631,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4527,11 +3657,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -40.359132,
 							"y": 76.51522,
@@ -4543,18 +3669,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4578,11 +3695,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -37.594082,
 							"y": 73.851746,
@@ -4594,18 +3707,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4629,11 +3733,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -23.526342,
 							"y": 68.5935668,
@@ -4645,18 +3745,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4680,11 +3771,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -20.273555,
 							"y": 68.57846994,
@@ -4696,18 +3783,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4731,11 +3809,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -40.4,
 							"y": 127.44065,
@@ -4747,18 +3821,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4782,11 +3847,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -37.6129,
 							"y": 130.197726,
@@ -4798,18 +3859,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4833,11 +3885,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 37.572567,
 							"y": 130.11145,
@@ -4849,18 +3897,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4884,11 +3923,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 40.302813,
 							"y": 127.316879,
@@ -4900,18 +3935,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4935,11 +3961,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 43.497425,
 							"y": 104.114705,
@@ -4951,18 +3973,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -4986,11 +3999,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 43.509197,
 							"y": 99.787461,
@@ -5002,18 +4011,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -5037,11 +4037,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 40.276749,
 							"y": 76.622358,
@@ -5053,18 +4049,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -5088,11 +4075,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 37.556201,
 							"y": 73.900558,
@@ -5104,18 +4087,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -5139,11 +4113,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 23.529419,
 							"y": 68.60894,
@@ -5155,18 +4125,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -5190,11 +4151,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 20.307942,
 							"y": 68.611137,
@@ -5206,18 +4163,9 @@
 					"type": "SColorRGB",
 					"value": "#ffd59e"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
+				"On": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 150
@@ -5241,42 +4189,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -26.4859,
-							"y": 82.3396,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -26.4859, "y": 82.3396, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5296,42 +4224,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -31.4759,
-							"y": 86.5639,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -31.4759, "y": 86.5639, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5351,42 +4259,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -24.9967,
-							"y": 93.4848,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -24.9967, "y": 93.4848, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5406,42 +4294,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -20.3168,
-							"y": 88.8325,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -20.3168, "y": 88.8325, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5461,42 +4329,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -31.2439,
-							"y": 115.393,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -31.2439, "y": 115.393, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5516,42 +4364,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -24.9154,
-							"y": 121.807,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -24.9154, "y": 121.807, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5571,42 +4399,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -20.0538,
-							"y": 117.218,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -20.0538, "y": 117.218, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5626,42 +4434,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 26.7549,
-							"y": 110.739,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 26.7549, "y": 110.739, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5681,42 +4469,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 29.4984,
-							"y": 118.986,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 29.4984, "y": 118.986, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5736,42 +4504,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 25.1693,
-							"y": 121.958,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 25.1693, "y": 121.958, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5791,42 +4539,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 20.3228,
-							"y": 117.498,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 20.3228, "y": 117.498, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5846,42 +4574,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 20.7814,
-							"y": 88.9671,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 20.7814, "y": 88.9671, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5901,42 +4609,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 24.7284,
-							"y": 93.032,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 24.7284, "y": 93.032, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -5956,42 +4644,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 30.7772,
-							"y": 86.6281,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 30.7772, "y": 86.6281, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6011,42 +4679,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 26.8822,
-							"y": 82.65,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 26.8822, "y": 82.65, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6066,42 +4714,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 31.5451,
-							"y": 115.105,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 31.5451, "y": 115.105, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6121,42 +4749,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 9.12667,
-							"y": 95.2948,
-							"z": -1
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 9.12667, "y": 95.2948, "z": -1 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6176,42 +4784,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 9.04384,
-							"y": 108.554,
-							"z": -1
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 9.04384, "y": 108.554, "z": -1 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6231,42 +4819,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 4.60696,
-							"y": 113.274,
-							"z": -1
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 4.60696, "y": 113.274, "z": -1 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6286,11 +4854,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
+						"rotation": { "x": 0, "y": 0, "z": 90 },
 						"position": {
 							"x": -4.50102,
 							"y": 113.139,
@@ -6298,30 +4862,18 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6341,11 +4893,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
+						"rotation": { "x": 0, "y": 0, "z": 90 },
 						"position": {
 							"x": -8.48497,
 							"y": 108.845,
@@ -6353,30 +4901,18 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6396,11 +4932,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
+						"rotation": { "x": 0, "y": 0, "z": 90 },
 						"position": {
 							"x": -8.92733,
 							"y": 95.5918,
@@ -6408,30 +4940,18 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6451,42 +4971,26 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
+						"rotation": { "x": 0, "y": 0, "z": 90 },
 						"position": {
 							"x": 13.3018,
 							"y": 78.5041,
-							"z": -0.00000165775
+							"z": -1.65775e-6
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6506,42 +5010,26 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
+						"rotation": { "x": 0, "y": 0, "z": 90 },
 						"position": {
 							"x": -11.0357,
 							"y": 79.6733,
-							"z": -0.00000159815
+							"z": -1.59815e-6
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6561,42 +5049,22 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": -26.3077,
-							"y": 110.496,
-							"z": 0
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": -26.3077, "y": 110.496, "z": 0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#fffbd6"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 80
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 80 },
 				"m_eidParent": {
 					"type": "SEntityTemplateReference",
 					"value": {
@@ -6619,11 +5087,7 @@
 				}
 			},
 			"events": {
-				"EventOccurred": {
-					"GetIndex": [
-						"abcd812edbe58538"
-					]
-				}
+				"EventOccurred": { "GetIndex": ["abcd812edbe58538"] }
 			}
 		},
 		"abcd812edbe58538": {
@@ -6678,11 +5142,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -90
-						},
+						"rotation": { "x": 0, "y": 0, "z": -90 },
 						"position": {
 							"x": 0.146078,
 							"y": 95.8223,
@@ -6690,24 +5150,12 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 11.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 11.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6717,10 +5165,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"abcd6bee5a864dc0": {
@@ -6732,11 +5177,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": -3.8,
 							"y": 102.112,
@@ -6744,24 +5185,12 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 11.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 11.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6771,10 +5200,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"abcdb307e1905a3c": {
@@ -6786,36 +5212,16 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 90
-						},
-						"position": {
-							"x": 0.146078,
-							"y": 108.1,
-							"z": -1
-						}
+						"rotation": { "x": 0, "y": 0, "z": 90 },
+						"position": { "x": 0.146078, "y": 108.1, "z": -1 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 10.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 10.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6825,10 +5231,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"abcd0a3daa21b5a6": {
@@ -6840,11 +5243,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 180
-						},
+						"rotation": { "x": 0, "y": 0, "z": 180 },
 						"position": {
 							"x": 4,
 							"y": 102.112,
@@ -6852,24 +5251,12 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 50
-				},
+				"On": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 15 },
+				"GlowPower": { "type": "float32", "value": 50 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 10.600000023841858,
-						"y": 5.5
-					}
+					"value": { "x": 10.600000023841858, "y": 5.5 }
 				},
 				"DiffuseColor": {
 					"type": "SColorRGB",
@@ -6879,10 +5266,7 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 150
-				}
+				"m_fLightFadeDistance": { "type": "float32", "value": 150 }
 			}
 		},
 		"abcd72ccf0e7c339": {
@@ -6899,22 +5283,11 @@
 							"y": 0,
 							"z": 180
 						},
-						"position": {
-							"x": 37.1,
-							"y": 10,
-							"z": 8.6
-						},
-						"scale": {
-							"x": 1,
-							"y": 0.9999999999999999,
-							"z": 0.9999999999999999
-						}
+						"position": { "x": 37.1, "y": 10, "z": 8.6 },
+						"scale": { "x": 1, "y": 1.0, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -6924,7 +5297,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -6936,15 +5309,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -6952,10 +5319,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -6971,18 +5335,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7008,17 +5366,10 @@
 							"y": 51.901608,
 							"z": 3.3594588
 						},
-						"scale": {
-							"x": 1,
-							"y": 0.9999999999999999,
-							"z": 0.9999999999999999
-						}
+						"scale": { "x": 1, "y": 1.0, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7028,7 +5379,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7040,15 +5391,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7056,10 +5401,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7075,18 +5417,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7107,22 +5443,11 @@
 							"y": 0,
 							"z": 180
 						},
-						"position": {
-							"x": 29.278505,
-							"y": 1,
-							"z": 8.6
-						},
-						"scale": {
-							"x": 1,
-							"y": 0.9999999999999999,
-							"z": 0.9999999999999999
-						}
+						"position": { "x": 29.278505, "y": 1, "z": 8.6 },
+						"scale": { "x": 1, "y": 1.0, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7132,7 +5457,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7144,15 +5469,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7160,10 +5479,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7179,18 +5495,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7211,22 +5521,11 @@
 							"y": 0,
 							"z": 90
 						},
-						"position": {
-							"x": 39.5,
-							"y": 11.6,
-							"z": 8.6
-						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 1,
-							"z": 0.9999999999999999
-						}
+						"position": { "x": 39.5, "y": 11.6, "z": 8.6 },
+						"scale": { "x": 1.0, "y": 1, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7236,7 +5535,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7248,15 +5547,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 15,
-						"y": 15
-					}
+					"value": { "x": 15, "y": 15 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7264,10 +5557,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7283,18 +5573,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7310,22 +5594,11 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 90,
-							"y": 0,
-							"z": -90
-						},
-						"position": {
-							"x": -32,
-							"y": 14.814578,
-							"z": 8.6
-						}
+						"rotation": { "x": 90, "y": 0, "z": -90 },
+						"position": { "x": -32, "y": 14.814578, "z": 8.6 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7335,7 +5608,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7347,15 +5620,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7363,10 +5630,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7382,18 +5646,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7419,17 +5677,10 @@
 							"y": -1.0938814,
 							"z": 8.5
 						},
-						"scale": {
-							"x": 1,
-							"y": 0.9999999999999999,
-							"z": 0.9999999999999999
-						}
+						"scale": { "x": 1, "y": 1.0, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7439,7 +5690,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7451,15 +5702,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7467,10 +5712,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7486,18 +5728,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7523,17 +5759,10 @@
 							"y": 39,
 							"z": 8.461747
 						},
-						"scale": {
-							"x": 1,
-							"y": 0.9999999999999999,
-							"z": 0.9999999999999999
-						}
+						"scale": { "x": 1, "y": 1.0, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7543,7 +5772,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7555,15 +5784,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7571,10 +5794,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7590,18 +5810,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7617,22 +5831,11 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 90,
-							"y": 0,
-							"z": -90
-						},
-						"position": {
-							"x": -32,
-							"y": 2.3465068,
-							"z": 8.6
-						}
+						"rotation": { "x": 90, "y": 0, "z": -90 },
+						"position": { "x": -32, "y": 2.3465068, "z": 8.6 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7642,7 +5845,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7654,15 +5857,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7670,10 +5867,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7689,18 +5883,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7726,17 +5914,10 @@
 							"y": -1.0938814,
 							"z": 8.5
 						},
-						"scale": {
-							"x": 1,
-							"y": 0.9999999999999999,
-							"z": 0.9999999999999999
-						}
+						"scale": { "x": 1, "y": 1.0, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7746,7 +5927,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7758,15 +5939,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7774,10 +5949,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7793,18 +5965,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7830,17 +5996,10 @@
 							"y": 24.137707,
 							"z": 8.6
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 1,
-							"z": 0.9999999999999999
-						}
+						"scale": { "x": 1.0, "y": 1, "z": 1.0 }
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7850,7 +6009,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7862,15 +6021,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7878,10 +6031,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7897,18 +6047,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -7924,11 +6068,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 90,
-							"y": 0,
-							"z": 0
-						},
+						"rotation": { "x": 90, "y": 0, "z": 0 },
 						"position": {
 							"x": -126.85344,
 							"y": 8.07,
@@ -7936,10 +6076,7 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7949,7 +6086,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -7961,15 +6098,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -7977,10 +6108,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -7996,18 +6124,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -8023,11 +6145,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 90,
-							"y": 0,
-							"z": 180
-						},
+						"rotation": { "x": 90, "y": 0, "z": 180 },
 						"position": {
 							"x": -122.72655,
 							"y": 7.0774183,
@@ -8035,10 +6153,7 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -8048,7 +6163,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -8060,15 +6175,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -8076,10 +6185,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -8095,18 +6201,12 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
@@ -8122,11 +6222,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 90,
-							"y": 0,
-							"z": 180
-						},
+						"rotation": { "x": 90, "y": 0, "z": 180 },
 						"position": {
 							"x": -122.837135,
 							"y": -0.72091615,
@@ -8134,10 +6230,7 @@
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
 				"Lamp_Neck_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -8147,7 +6240,7 @@
 							"z": 0
 						},
 						"position": {
-							"x": 0.41095098853111267,
+							"x": 0.4109509885311126,
 							"y": 0.002530901925638318,
 							"z": 0.028281960636377335
 						}
@@ -8159,15 +6252,9 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 5,
-						"y": 12
-					}
+					"value": { "x": 5, "y": 12 }
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -8175,10 +6262,7 @@
 						"y": 0.6800000071525574
 					}
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"Lamp_Head_Transform": {
 					"type": "SMatrix43",
 					"value": {
@@ -8194,83 +6278,15 @@
 						}
 					}
 				},
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": true
-				},
+				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 75
-				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
-				}
-			}
-		},
-		"abcdad7d42d8f11d": {
-			"parent": "abcd4d094a88a9a1",
-			"name": "BoxReflectionCache",
-			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
-			"properties": {
-				"m_pBoxReflectionCache": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "002978EF7EA21E13",
-						"flag": "5F"
-					}
-				}
-			}
-		},
-		"abcd730b9c238e18": {
-			"parent": "abcdad7d42d8f11d",
-			"name": "BoxReflection",
-			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
-			"properties": {
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 1000,
-						"y": 1000,
-						"z": 1000
-					}
-				},
-				"m_vSampleOffset": {
-					"type": "SVector3",
-					"value": {
-						"x": 0,
-						"y": 0,
-						"z": 5
-					}
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						},
-						"position": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						}
-					}
-				},
-				"m_eType": {
-					"type": "ZBoxReflectionEntity.EType",
-					"value": "eFallback"
-				},
-				"m_eBoundsType": {
-					"type": "ZBoxReflectionEntity.EBoundsType",
-					"value": "eBox"
 				}
 			}
 		},
@@ -8320,10 +6336,7 @@
 			}
 		},
 		"feed5ec2c14ed49f": {
-			"parent": {
-				"ref": "fffffffffffffffe",
-				"externalScene": null
-			},
+			"parent": { "ref": "fffffffffffffffe", "externalScene": null },
 			"name": "BoxReflectionCache 1",
 			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
 			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
@@ -8469,12 +6482,7 @@
 					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 				}
 			],
-			"properties": {
-				"On": {
-					"type": "bool",
-					"value": false
-				}
-			}
+			"properties": { "On": { "type": "bool", "value": false } }
 		},
 		{
 			"entities": [
@@ -8488,38 +6496,20 @@
 				}
 			],
 			"properties": {
-				"DiffusePower": {
-					"type": "float32",
-					"value": 30
-				},
+				"DiffusePower": { "type": "float32", "value": 30 },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				}
+				"m_fLightFadeLength": { "type": "float32", "value": 200 }
 			}
 		},
 		{
@@ -8534,18 +6524,12 @@
 				}
 			],
 			"properties": {
-				"DiffusePower": {
-					"type": "float32",
-					"value": 15
-				},
+				"DiffusePower": { "type": "float32", "value": 15 },
 				"m_fShadowFadeDistance": {
 					"type": "float32",
 					"value": 30
 				},
-				"GlowIntensity": {
-					"type": "float32",
-					"value": 1000
-				},
+				"GlowIntensity": { "type": "float32", "value": 1000 },
 				"DiffuseColor": {
 					"type": "SColorRGB",
 					"value": "#ff8361"
@@ -8574,14 +6558,8 @@
 				}
 			],
 			"properties": {
-				"DiffusePower": {
-					"type": "float32",
-					"value": 50
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 170
-				},
+				"DiffusePower": { "type": "float32", "value": 50 },
+				"GlowPower": { "type": "float32", "value": 170 },
 				"LightSpotDiffusePower": {
 					"type": "float32",
 					"value": 0.7799999713897705
@@ -8599,10 +6577,10 @@
 						"rotation": {
 							"x": 128.00849866324174,
 							"y": -28.15961119404203,
-							"z": -121.12598569944593
+							"z": -121.12598569944592
 						},
 						"position": {
-							"x": -0.029999999329447746,
+							"x": -0.029999999329447743,
 							"y": -0.07199999690055847,
 							"z": 0.6000000238418579
 						}
@@ -8644,10 +6622,7 @@
 				}
 			],
 			"properties": {
-				"m_bVisible": {
-					"type": "bool",
-					"value": false
-				}
+				"m_bVisible": { "type": "bool", "value": false }
 			}
 		},
 		{
@@ -8759,14 +6734,8 @@
 					"type": "SColorRGB",
 					"value": "#ffb18c"
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				}
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true }
 			}
 		},
 		{
@@ -8818,10 +6787,7 @@
 					"type": "SColorRGB",
 					"value": "#a84416"
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 150
-				}
+				"GlowPower": { "type": "float32", "value": 150 }
 			}
 		},
 		{
@@ -8858,14 +6824,8 @@
 					"type": "SColorRGB",
 					"value": "#75acff"
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				}
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true }
 			}
 		},
 		{
@@ -8880,10 +6840,7 @@
 					"type": "SColorRGB",
 					"value": "#d6f5ff"
 				},
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 1.5
-				},
+				"m_fDiffusePower": { "type": "float32", "value": 1.5 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -8907,10 +6864,7 @@
 			"properties": {
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 2.4000000953674316,
-						"y": 6.5
-					}
+					"value": { "x": 2.4000000953674316, "y": 6.5 }
 				}
 			}
 		},
@@ -8932,10 +6886,7 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 4.210000038146973,
-						"y": 13
-					}
+					"value": { "x": 4.210000038146973, "y": 13 }
 				}
 			}
 		},
@@ -8976,10 +6927,7 @@
 					"type": "SColorRGB",
 					"value": "#8f3917"
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 6100
-				},
+				"GlowPower": { "type": "float32", "value": 6100 },
 				"OmniFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -9005,10 +6953,7 @@
 					"type": "SColorRGB",
 					"value": "#f5652c"
 				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 5
-				},
+				"DiffusePower": { "type": "float32", "value": 5 },
 				"OmniFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -9030,16 +6975,10 @@
 					"type": "SColorRGB",
 					"value": "#ff9173"
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 200
-				},
+				"GlowPower": { "type": "float32", "value": 200 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 2.5,
-						"y": 14.199999809265137
-					}
+					"value": { "x": 2.5, "y": 14.199999809265137 }
 				}
 			}
 		},
@@ -9065,14 +7004,8 @@
 				}
 			],
 			"properties": {
-				"DiffusePower": {
-					"type": "float32",
-					"value": 50
-				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 170
-				},
+				"DiffusePower": { "type": "float32", "value": 50 },
+				"GlowPower": { "type": "float32", "value": 170 },
 				"LightSpotDiffusePower": {
 					"type": "float32",
 					"value": 0.7799999713897705
@@ -9127,22 +7060,10 @@
 					"type": "float32",
 					"value": 4000
 				},
-				"m_fSunIntensityScale": {
-					"type": "float32",
-					"value": 0
-				},
-				"m_fSunRadiusScale": {
-					"type": "float32",
-					"value": 2.5
-				},
-				"m_fWorldScale": {
-					"type": "float32",
-					"value": 4
-				},
-				"m_MieColor": {
-					"type": "SColorRGB",
-					"value": "#44a3e3"
-				},
+				"m_fSunIntensityScale": { "type": "float32", "value": 0 },
+				"m_fSunRadiusScale": { "type": "float32", "value": 2.5 },
+				"m_fWorldScale": { "type": "float32", "value": 4 },
+				"m_MieColor": { "type": "SColorRGB", "value": "#44a3e3" },
 				"m_RayleighColor": {
 					"type": "SColorRGB",
 					"value": "#508ef2"
@@ -9178,17 +7099,13 @@
 							"y": -8.46634292602539,
 							"z": 4.354286193847656
 						},
-						"scale": {
-							"x": 0.9999999999999999,
-							"y": 1,
-							"z": 1
-						}
+						"scale": { "x": 1.0, "y": 1, "z": 1 }
 					}
 				},
 				"m_vBoxSize": {
 					"type": "SVector3",
 					"value": {
-						"x": 254.41000366210938,
+						"x": 254.41000366210935,
 						"y": 375.6130065917969,
 						"z": 341.22601318359375
 					}
@@ -9225,10 +7142,7 @@
 				}
 			],
 			"properties": {
-				"m_Tags": {
-					"type": "ZString",
-					"value": "DustB"
-				}
+				"m_Tags": { "type": "ZString", "value": "DustB" }
 			}
 		},
 		{
@@ -9257,16 +7171,10 @@
 					"type": "SColorRGB",
 					"value": "#a84416"
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 150
-				},
+				"GlowPower": { "type": "float32", "value": 150 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 0.5,
-						"y": 3.0999999046325684
-					}
+					"value": { "x": 0.5, "y": 3.0999999046325684 }
 				}
 			}
 		},
@@ -9290,10 +7198,7 @@
 				}
 			],
 			"properties": {
-				"m_Color": {
-					"type": "SColorRGB",
-					"value": "#78b6f5"
-				},
+				"m_Color": { "type": "SColorRGB", "value": "#78b6f5" },
 				"m_fColorIntensity": {
 					"type": "float32",
 					"value": 2.5999999046325684
@@ -9312,10 +7217,7 @@
 				}
 			],
 			"properties": {
-				"EmisiveIntensity": {
-					"type": "float32",
-					"value": 1600
-				},
+				"EmisiveIntensity": { "type": "float32", "value": 1600 },
 				"LightSlaveFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -9327,14 +7229,8 @@
 					"type": "SColorRGB",
 					"value": "#ff896b"
 				},
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 16
-				},
-				"On": {
-					"type": "bool",
-					"value": false
-				}
+				"m_fDiffusePower": { "type": "float32", "value": 16 },
+				"On": { "type": "bool", "value": false }
 			}
 		},
 		{
@@ -9356,7 +7252,7 @@
 					"type": "SVector2",
 					"value": {
 						"x": 4.139999866485596,
-						"y": 9.329999923706055
+						"y": 9.329999923706056
 					}
 				}
 			}
@@ -9382,23 +7278,16 @@
 							"z": -1.3089359184714582
 						},
 						"position": {
-							"x": -10.266519546508789,
+							"x": -10.266519546508787,
 							"y": -12.5625,
 							"z": 4.174814224243164
 						},
-						"scale": {
-							"x": 1,
-							"y": 0.9999999999999999,
-							"z": 1
-						}
+						"scale": { "x": 1, "y": 1.0, "z": 1 }
 					}
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 0.1599999964237213,
-						"y": 0.5
-					}
+					"value": { "x": 0.1599999964237213, "y": 0.5 }
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
@@ -9429,42 +7318,29 @@
 							"y": 12.412370732419946,
 							"z": 25.30039028963327
 						},
-						"position": {
-							"x": 0,
-							"y": 0,
-							"z": 0
-						}
+						"position": { "x": 0, "y": 0, "z": 0 }
 					}
 				},
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
 					"value": {
 						"x": 0.5699999928474426,
-						"y": 1.0253980159759521
+						"y": 1.025398015975952
 					}
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 0.5,
-						"y": 15.930000305175781
-					}
+					"value": { "x": 0.5, "y": 15.93000030517578 }
 				},
 				"OmniFarAttenuation": {
 					"type": "SVector2",
 					"value": {
-						"x": 0.49292001128196716,
+						"x": 0.4929200112819672,
 						"y": 4.400000095367432
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				}
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true }
 			}
 		},
 		{
@@ -9475,10 +7351,7 @@
 				}
 			],
 			"properties": {
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
+				"LightVisible": { "type": "bool", "value": true },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -9496,10 +7369,7 @@
 				}
 			],
 			"properties": {
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 2
-				}
+				"m_fDiffusePower": { "type": "float32", "value": 2 }
 			}
 		},
 		{
@@ -9514,10 +7384,7 @@
 					"type": "SColorRGB",
 					"value": "#a84416"
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 150
-				},
+				"GlowPower": { "type": "float32", "value": 150 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -9543,14 +7410,8 @@
 					"type": "SColorRGB",
 					"value": "#bfd7ff"
 				},
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 0.5
-				},
-				"m_fWrappedDiffuse": {
-					"type": "float32",
-					"value": 0.5
-				}
+				"m_fDiffusePower": { "type": "float32", "value": 0.5 },
+				"m_fWrappedDiffuse": { "type": "float32", "value": 0.5 }
 			}
 		},
 		{
@@ -9563,31 +7424,16 @@
 			"properties": {
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 1,
-						"y": 12.09000015258789
-					}
+					"value": { "x": 1, "y": 12.09000015258789 }
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				}
+				"m_fLightFadeLength": { "type": "float32", "value": 200 }
 			}
 		},
 		{
@@ -9602,10 +7448,7 @@
 					"type": "SColorRGB",
 					"value": "#a84416"
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 150
-				},
+				"GlowPower": { "type": "float32", "value": 150 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -9649,16 +7492,13 @@
 							"z": 49.38227838252067
 						},
 						"position": {
-							"x": -28.238079071044922,
+							"x": -28.23807907104492,
 							"y": 8.363924026489258,
 							"z": 0.736965000629425
 						}
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": false
-				}
+				"On": { "type": "bool", "value": false }
 			}
 		},
 		{
@@ -9669,10 +7509,7 @@
 				}
 			],
 			"properties": {
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 4
-				}
+				"m_fDiffusePower": { "type": "float32", "value": 4 }
 			}
 		},
 		{
@@ -9683,48 +7520,27 @@
 				}
 			],
 			"properties": {
-				"GlowPower": {
-					"type": "float32",
-					"value": 300
-				},
+				"GlowPower": { "type": "float32", "value": 300 },
 				"m_diffuseColor": {
 					"type": "SColorRGB",
 					"value": "#ffb787"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 2,
-						"y": 16.8700008392334
-					}
+					"value": { "x": 2, "y": 16.8700008392334 }
 				},
 				"SpotFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 3.8299999237060547,
-						"y": 10
-					}
+					"value": { "x": 3.8299999237060542, "y": 10 }
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				}
+				"m_fLightFadeLength": { "type": "float32", "value": 200 }
 			}
 		},
 		{
@@ -9735,27 +7551,18 @@
 				}
 			],
 			"properties": {
-				"GlowPower": {
-					"type": "float32",
-					"value": 300
-				},
+				"GlowPower": { "type": "float32", "value": 300 },
 				"m_diffuseColor": {
 					"type": "SColorRGB",
 					"value": "#ffb787"
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 2,
-						"y": 16.8700008392334
-					}
+					"value": { "x": 2, "y": 16.8700008392334 }
 				},
 				"SpotFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 3.8299999237060547,
-						"y": 10
-					}
+					"value": { "x": 3.8299999237060542, "y": 10 }
 				}
 			}
 		},
@@ -9767,10 +7574,7 @@
 				}
 			],
 			"properties": {
-				"LightVisible": {
-					"type": "bool",
-					"value": false
-				}
+				"LightVisible": { "type": "bool", "value": false }
 			}
 		},
 		{
@@ -9787,7 +7591,7 @@
 						"rotation": {
 							"x": 0,
 							"y": 0,
-							"z": 11.056793504876921
+							"z": 11.05679350487692
 						},
 						"position": {
 							"x": 2.688282012939453,
@@ -9810,14 +7614,8 @@
 				}
 			],
 			"properties": {
-				"m_Color": {
-					"type": "SColorRGB",
-					"value": "#75b8ff"
-				},
-				"m_fColorIntensity": {
-					"type": "float32",
-					"value": 2
-				}
+				"m_Color": { "type": "SColorRGB", "value": "#75b8ff" },
+				"m_fColorIntensity": { "type": "float32", "value": 2 }
 			}
 		},
 		{
@@ -9832,10 +7630,7 @@
 				}
 			],
 			"properties": {
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#ffad85"
-				}
+				"DiffuseColor": { "type": "SColorRGB", "value": "#ffad85" }
 			}
 		},
 		{
@@ -9853,14 +7648,8 @@
 						"y": 9.34000015258789
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				}
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true }
 			}
 		},
 		{
@@ -9873,10 +7662,7 @@
 			"properties": {
 				"LightSpotAngularAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 0.3799999952316284,
-						"y": 1.25
-					}
+					"value": { "x": 0.3799999952316284, "y": 1.25 }
 				},
 				"LightSpotFarAttenuation": {
 					"type": "SVector2",
@@ -9894,18 +7680,15 @@
 							"z": -90.00000000000001
 						},
 						"position": {
-							"x": -0.029999999329447746,
-							"y": -0.10199999809265137,
+							"x": -0.029999999329447743,
+							"y": -0.10199999809265135,
 							"z": 0.6000000238418579
 						}
 					}
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 2,
-						"y": 5
-					}
+					"value": { "x": 2, "y": 5 }
 				}
 			}
 		},
@@ -9954,7 +7737,7 @@
 						"position": {
 							"x": 16.773759841918945,
 							"y": 7.284671783447266,
-							"z": 9.588968276977539
+							"z": 9.58896827697754
 						}
 					}
 				},
@@ -9975,10 +7758,7 @@
 				}
 			],
 			"properties": {
-				"m_fDiffusePower": {
-					"type": "float32",
-					"value": 0
-				}
+				"m_fDiffusePower": { "type": "float32", "value": 0 }
 			}
 		},
 		{
@@ -9989,10 +7769,7 @@
 				}
 			],
 			"properties": {
-				"m_bCastShadows": {
-					"type": "bool",
-					"value": false
-				},
+				"m_bCastShadows": { "type": "bool", "value": false },
 				"m_diffuseColor": {
 					"type": "SColorRGB",
 					"value": "#9dd4f5"
@@ -10008,11 +7785,7 @@
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 90,
-							"z": 0
-						},
+						"rotation": { "x": 0, "y": 90, "z": 0 },
 						"position": {
 							"x": -30.878150939941406,
 							"y": -0.279805988073349,
@@ -10048,16 +7821,10 @@
 					"type": "SColorRGB",
 					"value": "#a84416"
 				},
-				"GlowPower": {
-					"type": "float32",
-					"value": 150
-				},
+				"GlowPower": { "type": "float32", "value": 150 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 0.5,
-						"y": 6.360000133514404
-					}
+					"value": { "x": 0.5, "y": 6.360000133514404 }
 				}
 			}
 		},
@@ -10099,7 +7866,7 @@
 					"type": "SVector2",
 					"value": {
 						"x": 0.5799999833106995,
-						"y": 1.2100000381469727
+						"y": 1.2100000381469729
 					}
 				},
 				"m_diffuseColor": {
@@ -10123,10 +7890,7 @@
 				}
 			],
 			"properties": {
-				"DiffuseColor": {
-					"type": "SColorRGB",
-					"value": "#f27d52"
-				}
+				"DiffuseColor": { "type": "SColorRGB", "value": "#f27d52" }
 			}
 		},
 		{
@@ -10144,30 +7908,18 @@
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
-						"x": 3.8632450103759766,
+						"x": 3.863245010375977,
 						"y": 12.270000457763672
 					}
 				},
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				}
+				"m_fLightFadeLength": { "type": "float32", "value": 200 }
 			}
 		},
 		{
@@ -10186,7 +7938,7 @@
 					"type": "SVector2",
 					"value": {
 						"x": 22.6299991607666,
-						"y": 28.860000610351563
+						"y": 28.86000061035156
 					}
 				}
 			}
@@ -10217,7 +7969,7 @@
 					"type": "SVector2",
 					"value": {
 						"x": 0.5799999833106995,
-						"y": 1.2100000381469727
+						"y": 1.2100000381469729
 					}
 				},
 				"m_diffuseColor": {
@@ -10240,10 +7992,7 @@
 				},
 				"m_vFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 4.5,
-						"y": 15.270000457763672
-					}
+					"value": { "x": 4.5, "y": 15.270000457763672 }
 				}
 			}
 		},
@@ -10264,10 +8013,7 @@
 				},
 				"LightSpotFarAttenuation": {
 					"type": "SVector2",
-					"value": {
-						"x": 2.740000009536743,
-						"y": 20
-					}
+					"value": { "x": 2.740000009536743, "y": 20 }
 				},
 				"LightSpotTransform": {
 					"type": "SMatrix43",
@@ -10278,7 +8024,7 @@
 							"z": -90.00000000000001
 						},
 						"position": {
-							"x": -0.029999999329447746,
+							"x": -0.029999999329447743,
 							"y": -0.07199999690055847,
 							"z": 0.6000000238418579
 						}
@@ -10486,26 +8232,14 @@
 				}
 			],
 			"properties": {
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				}
+				"m_fLightFadeLength": { "type": "float32", "value": 200 }
 			}
 		},
 		{
@@ -10532,30 +8266,15 @@
 				}
 			],
 			"properties": {
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 20
-				}
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
+				"DiffusePower": { "type": "float32", "value": 20 }
 			}
 		},
 		{
@@ -10574,30 +8293,15 @@
 				}
 			],
 			"properties": {
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bEnableLightFade": {
-					"type": "bool",
-					"value": true
-				},
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"m_bEnableLightFade": { "type": "bool", "value": true },
 				"m_fLightFadeDistance": {
 					"type": "float32",
 					"value": 500
 				},
-				"m_fLightFadeLength": {
-					"type": "float32",
-					"value": 200
-				},
-				"m_bUseDynamicShadowMap": {
-					"type": "bool",
-					"value": true
-				}
+				"m_fLightFadeLength": { "type": "float32", "value": 200 },
+				"m_bUseDynamicShadowMap": { "type": "bool", "value": true }
 			}
 		},
 		{
@@ -11656,14 +9360,8 @@
 				}
 			],
 			"properties": {
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				}
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true }
 			}
 		},
 		{
@@ -11678,18 +9376,9 @@
 				}
 			],
 			"properties": {
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"DiffusePower": {
-					"type": "float32",
-					"value": 20
-				}
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"DiffusePower": { "type": "float32", "value": 20 }
 			}
 		},
 		{
@@ -11700,18 +9389,9 @@
 				}
 			],
 			"properties": {
-				"On": {
-					"type": "bool",
-					"value": true
-				},
-				"LightVisible": {
-					"type": "bool",
-					"value": true
-				},
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				}
+				"On": { "type": "bool", "value": true },
+				"LightVisible": { "type": "bool", "value": true },
+				"LightOn": { "type": "bool", "value": true }
 			}
 		},
 		{
@@ -11849,12 +9529,7 @@
 					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 				}
 			],
-			"properties": {
-				"LightOn": {
-					"type": "bool",
-					"value": true
-				}
-			}
+			"properties": { "LightOn": { "type": "bool", "value": true } }
 		}
 	],
 	"overrideDeletes": [
@@ -12283,12 +9958,8 @@
 			"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
 		}
 	],
-	"pinConnectionOverrides": [
-
-	],
-	"pinConnectionOverrideDeletes": [
-
-	],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
 	"externalScenes": [
 		"[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype"
@@ -12296,27 +9967,11 @@
 	"subType": "scene",
 	"quickEntityVersion": 3.1,
 	"extraFactoryDependencies": [
-		{
-			"resource": "00E656CB0E9ED0ED",
-			"flag": "5F"
-		},
-		{
-			"resource": "0061EF503C4C562E",
-			"flag": "5F"
-		},
-		{
-			"resource": "00CC056F2AA1499C",
-			"flag": "5F"
-		},
-		{
-			"resource": "00DFB0D8BC29D607",
-			"flag": "5F"
-		}
+		{ "resource": "00E656CB0E9ED0ED", "flag": "5F" },
+		{ "resource": "0061EF503C4C562E", "flag": "5F" },
+		{ "resource": "00CC056F2AA1499C", "flag": "5F" },
+		{ "resource": "00DFB0D8BC29D607", "flag": "5F" }
 	],
-	"extraBlueprintDependencies": [
-
-	],
-	"comments": [
-
-	]
+	"extraBlueprintDependencies": [],
+	"comments": []
 }
