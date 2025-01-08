@@ -152,11 +152,6 @@
 		"toChunk": 1
 	},
 	{
-		"runtimeID": "00FC761F5BC4EF8A",
-		"comment": "hokkaido_wires_lamps",
-		"toChunk": 1
-	},
-	{
 		"runtimeID": "00DD3B02533AD71E",
 		"comment": "hokkaido_little_lamps",
 		"toChunk": 1
@@ -167,42 +162,7 @@
 		"toChunk": 1
 	},
 	{
-		"runtimeID": "0029222E19CDE0BF",
-		"comment": "WC_wire_lamps",
-		"toChunk": 1
-	},
-	{
-		"runtimeID": "00964A71CA18BBD1",
-		"comment": "Fireworks stuff",
-		"toChunk": 1
-	},
-	{
-		"runtimeID": "0074A528CE4E0F78",
-		"comment": "Fireworks stuff",
-		"toChunk": 1
-	},
-	{
-		"runtimeID": "006D93EB00EDDD5F",
-		"comment": "Fireworks stuff",
-		"toChunk": 1
-	},
-	{
-		"runtimeID": "00AE8574A2DF8F00",
-		"comment": "Fireworks stuff",
-		"toChunk": 1
-	},
-	{
-		"runtimeID": "00B747B0450DFB3B",
-		"comment": "Fireworks stuff",
-		"toChunk": 1
-	},
-	{
-		"runtimeID": "0099FA407A26CD1A",
-		"comment": "Fireworks stuff",
-		"toChunk": 1
-	},
-	{
-		"runtimeID": "00CDA374BED0E840",
+		"runtimeID": "00964A71CA18BBD1,0074A528CE4E0F78,006D93EB00EDDD5F,00AE8574A2DF8F00,00B747B0450DFB3B,0099FA407A26CD1A,00CDA374BED0E840",
 		"comment": "Fireworks stuff",
 		"toChunk": 1
 	},{
@@ -210,6 +170,14 @@
 		"comment": "SkyClearB",
 		"portFromChunk1": true,
 		"toChunk": 0
+	},{
+		"runtimeID": "00464EE06E4AA17D",
+		"comment": "Sky Bulldog",
+		"toChunk": 1
+	},{
+		"runtimeID": "00E1CCC446CD4777",
+		"comment": "Hokkaido Lamp",
+		"toChunk": 9
 	},
 
 

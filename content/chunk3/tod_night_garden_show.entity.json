@@ -33232,7 +33232,6 @@
 	"pinConnectionOverrideDeletes": [],
 	"externalScenes": [
 		"[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/missions/ancestral/commentary_bulldog.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/missions/ancestral/scenario_smoothsnake.brick].pc_entitytype"
 	],
 	"subType": "scene",
