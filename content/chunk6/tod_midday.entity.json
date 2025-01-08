@@ -1044,6 +1044,109 @@
 		{
 			"entities": [
 				{
+					"ref": "62d866a3a55bfc0f",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "2ab7f23fe6d85310",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "ae387ec3fb0fd1c5",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "86c2515c7b6095e9",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "853674b5ab1d90df",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "db29ef83eba540b3",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "ad244d0d141e80b4",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "2a1fdb701d64f1cf",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "f30a33f9db2644b3",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "0e3df92d5da54077",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "f69bd01ce3311565",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "87ecd2bd33ee57b3",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "37f0a5db618920cb",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "bc87a2fc608fe726",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "b54af488bf38dba5",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "e2b45c3e3a2e0545",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "ee0240599217f859",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "a0d461073e88e408",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "07a27a09a1a17619",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "d05dc51107c73c15",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "660c629056f346c6",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "fd3b88fd109e0658",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "daaef1b1f000e3e8",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				},
+				{
+					"ref": "784709f9ad021c33",
+					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_nOutfitCharset": { "type": "int32", "value": 0 }
+			}
+		},
+		{
+			"entities": [
+				{
 					"ref": "199433d4f4034a5e",
 					"externalScene": "[assembly:/_pro/scenes/missions/wet/scenario_rat.brick].pc_entitytype"
 				}
@@ -1715,6 +1818,17 @@
 					"type": "ZRuntimeResourceID",
 					"value": {
 						"resource": "006EA96660BA7E48",
+						"flag": "5F"
+					}
+				},
+				"m_sVertexPaintSourceResourceId": {
+					"type": "ZString",
+					"value": "[assembly:/runtimeresources/vertexpaint/_pro/items/templates/gadget/gadgets/car_battery_external_b_c28f445afcf04d8589cf94600288776d.vertexdata].pc_vertexdata"
+				},
+				"m_VertexPaintData": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/vertexpaint/_pro/items/templates/gadget/gadgets/car_battery_external_b_c28f445afcf04d8589cf94600288776d.vertexdata].pc_vertexdata",
 						"flag": "5F"
 					}
 				}
