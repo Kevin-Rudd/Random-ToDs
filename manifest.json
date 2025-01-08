@@ -5,11 +5,17 @@
 	"contentFolders": ["content"],
 	"description": "Gives some maps alternative times of day each time you visit. Requires SDK mod for vanilla or plugin for Peacock",
 	"authors": ["Kevin Rudd", "Kercyx"],
-    "loadBefore": [
-        "musicalmushr00m.LightingUltimate"
-    ],
+    "loadAfter": [],
+    "options": [{
+		"name": "Romania Chunk 2",
+		"type": "conditional",
+		"condition": "\"KevinRudd.PassengerTrain\" or \"KevinRudd.FreelancerVariations\" in config.loadOrder",
+		"contentFolders": ["compatibility/passengertrain"],
+		"dependencies": []
+	}],
 	"frameworkVersion": "2.1.0",
-	"dependencies": [{
+	"dependencies": [
+		{
 		"runtimeID": "00907BCED9E107EB",
 		"toChunk": 9,
 		"comment": "Magpie Lamp"
