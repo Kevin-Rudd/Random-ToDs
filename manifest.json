@@ -9,7 +9,11 @@
         "musicalmushr00m.LightingUltimate"
     ],
 	"frameworkVersion": "2.1.0",
-	"dependencies": ["007BE9EAE845E573",{
+	"dependencies": [{
+		"runtimeID": "00907BCED9E107EB",
+		"toChunk": 9,
+		"comment": "Magpie Lamp"
+	},"0018AB110B83E417","002E85BC93584A8A","007BE9EAE845E573",{
 		"runtimeID": "007E17AB2A0A1D00",
 		"comment": "Freedom Fighters Sky",
 		"toChunk": 1
