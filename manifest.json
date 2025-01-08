@@ -3,10 +3,11 @@
 	"id": "TeamRuddcy.RandomToDs",
 	"name": "Random Times of Day",
 	"contentFolders": ["content"],
-	"description": "Gives some maps alternative times of day each time you visit. Requires SDK mod for vanilla or plugin for Peacock",
-	"authors": ["Kevin Rudd", "Kercyx"],
-    "loadAfter": [],
+	"description": "Gives maps alternative times of day each time you visit. Requires SDK mod for Online or Peacock use",
+	"authors": ["Team Ruddcy"],
+    "loadAfter": ["KevinRudd.SeafoodMassacre"],
     "options": [],
+	"updateCheck": "https://raw.githubusercontent.com/Kevin-Rudd/Random-ToDs/master/updates.json",
 	"frameworkVersion": "2.1.0",
 	"dependencies": [
 		{
