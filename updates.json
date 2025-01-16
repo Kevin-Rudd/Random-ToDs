@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "changelog": "Initial launch. Make sure you have Mission Companion (Nexus) and the Modding SDK",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.0.0/Random.ToDs.1.0.0.zip"
+    "version": "1.0.1",
+    "changelog": "- Converts files to different format to remove SMF warnings\n- Changes to have compatibility with Lighting Ultimate\n- Sapienza Night: Adds night time soundscape",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.0.1/Random.ToDs.1.0.1.zip"
 }
