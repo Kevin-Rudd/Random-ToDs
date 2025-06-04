@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "changelog": "- Converts files to different format to remove SMF warnings\n- Changes to have compatibility with Lighting Ultimate\n- Sapienza Night: Adds night time soundscape",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.0.1/Random.ToDs.1.0.1.zip"
+    "version": "1.0.2",
+    "changelog": "Haven Island (Night) Update\n- Reinstates Haven Night improvements from 2023\n- Removes shadows from dodgy hokkaido wall lamps\n- Additional lamps at Villa area\n- Turns on more vanilla lamps",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.0.2/Random.ToDs.1.0.2.zip"
 }
