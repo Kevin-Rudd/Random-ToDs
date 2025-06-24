@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "changelog": "Haven Island (Night) Update\n- Reinstates Haven Night improvements from 2023\n- Removes shadows from dodgy hokkaido wall lamps\n- Additional lamps at Villa area\n- Turns on more vanilla lamps",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.0.2/Random.ToDs.1.0.2.zip"
+    "version": "1.1.0",
+    "changelog": "Paris Update\n- PARIS: Rewrites mod to no longer use various (old) Lighting Ultimate files. Removes 2016 vanilla lighting.\n- PARIS - DAY: Gives daytime more realistic, less saturated look, changes sun position, fixes post filter settings in some dark basement rooms\n- PARIS – NIGHT: More lamps turned on in some spots\n- PARIS – HOLIDAY HOARDERS: Sets to foggy blue night to differentiate from regular night more\n- REMOVES TEST OFFLINE CONTRACTS",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.0/Random.ToDs.1.1.0.zip"
 }
