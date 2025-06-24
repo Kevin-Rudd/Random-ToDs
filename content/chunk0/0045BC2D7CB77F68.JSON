@@ -24,7 +24,10 @@
         ],
         "RandomBricks": {
             "TimeOfDay": [
-                "assembly:/_pro/scenes/missions/paris/tod_midday.brick"
+                "assembly:/_pro/scenes/missions/paris/tod_night.brick",
+                "assembly:/_pro/scenes/missions/paris/tod_paris_midday.brick",
+                "assembly:/_pro/scenes/missions/paris/location_parisnoel.brick",
+                "assembly:/_pro/scenes/missions/paris/lighting_newlook.brick"
             ]
         },
         "GameDifficulties": [

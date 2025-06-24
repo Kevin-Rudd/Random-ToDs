@@ -1,0 +1,88 @@
+{
+	"tempHash": "00B69DB24675E6EC",
+	"tbluHash": "004D5CA3BACBD51E",
+	"patch": [
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "8c5bd9082c8599ff",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/tod_sunset.brick].pc_entitytype"
+				},
+				"propertyName": "BillboardTexture",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_e3_paris_grade.texture?/diffuse_a.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "f9902dacbcd8a2ea",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/tod_sunset.brick].pc_entitytype"
+				},
+				"propertyName": "BillboardTexture",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_paris_night.texture?/diffuse_a.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "150b46bf8a9388db",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/tod_sunset.brick].pc_entitytype"
+				},
+				"propertyName": "BillboardTexture",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_paris_night.texture?/diffuse_a.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "ff5bba15816b0cfd",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/agencymarkup_peacock.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -107.5659331229418
+						},
+						"position": {
+							"x": -255.52239990234375,
+							"y": 21.307159423828125,
+							"z": 8.005999565124512
+						}
+					}
+				}
+			}
+		},
+		{
+			"AddOverrideDelete": {
+				"ref": "32e1bb57d5d3b12e",
+				"externalScene": "[assembly:/_pro/scenes/missions/paris/lighting_newlook.brick].pc_entitytype"
+			}
+		},
+		{
+			"AddExternalScene": "[assembly:/_pro/scenes/missions/paris/lighting_newlook.brick].pc_entitytype"
+		}
+	],
+	"patchVersion": 6
+}
