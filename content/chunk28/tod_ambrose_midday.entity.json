@@ -25,14 +25,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": -18.999982833862305
+							"x": -0.0,
+							"y": 0.0,
+							"z": -18.999982854998105
 						},
 						"position": {
 							"x": -60.65182876586914,
 							"y": 7.194575786590576,
-							"z": -176.08999633789065
+							"z": -93.05453491210938
 						}
 					}
 				},
@@ -47,11 +47,11 @@
 				},
 				"ConstantVector1D_07_Value": {
 					"type": "float32",
-					"value": 1.5
+					"value": 1.600000023841858
 				},
 				"ConstantColorRGB_01_Value": {
 					"type": "SColorRGB",
-					"value": "#fff2d9"
+					"value": "#edf8ff"
 				}
 			}
 		},
@@ -2987,8 +2987,8 @@
 					"value": {
 						"data": [
 							[
-								0, 26.869766235351562, 0, 0, 0, 0,
-								1.970083236694336, 26.869766235351562
+								0, 26.86976623535156, 0, 0, 0, 0,
+								1.970083236694336, 26.86976623535156
 							],
 							[
 								1, 28.8398494720459, 0, 0, 0, 0, 0,
@@ -4433,7 +4433,7 @@
 						"data": [
 							[
 								0, 97.28074645996094, 0, 0, 0, 0,
-								-25.654434204101562, 97.28074645996094
+								-25.65443420410156, 97.28074645996094
 							],
 							[
 								1, 71.62631225585938, 0, 0, 0, 0, 0,
@@ -5536,8 +5536,8 @@
 								-0.0827488899230957, -3.3057169914245605
 							],
 							[
-								1, -3.3884658813476562, 0, 0, 0, 0, 0,
-								-3.3884658813476562
+								1, -3.388465881347656, 0, 0, 0, 0, 0,
+								-3.388465881347656
 							]
 						]
 					}
@@ -8449,7 +8449,7 @@
 					}
 				},
 				"m_bCastCSMShadows": { "type": "bool", "value": true },
-				"m_fDiffusePower": { "type": "float32", "value": 700 },
+				"m_fDiffusePower": { "type": "float32", "value": 300.0 },
 				"m_bVisible": { "type": "bool", "value": true },
 				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_mTransform": {
@@ -8473,7 +8473,7 @@
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#ffffff"
+					"value": "#f4f9fb"
 				}
 			}
 		},
@@ -8485,27 +8485,35 @@
 			"properties": {
 				"m_fHeightAboveSeaLevel": {
 					"type": "float32",
-					"value": 200
+					"value": 31.0
 				},
 				"m_fSunIntensityScale": {
 					"type": "float32",
 					"value": 100000
 				},
-				"m_fSunRadiusScale": { "type": "float32", "value": 1 },
+				"m_fSunRadiusScale": { "type": "float32", "value": 3.5 },
 				"m_fRayleighHeightScale": {
 					"type": "float32",
 					"value": 3000
 				},
 				"m_RayleighColor": {
 					"type": "SColorRGB",
-					"value": "#4a95ff"
+					"value": "#79b1ff"
 				},
 				"m_fInscatterIntensity": { "type": "float32", "value": 1 },
 				"m_fMieAnisotropy": {
 					"type": "float32",
 					"value": 0.6899999976158142
 				},
-				"m_fMieHeightScale": { "type": "float32", "value": 500 }
+				"m_fMieHeightScale": { "type": "float32", "value": 500 },
+				"m_fWaterPlaneHeight": {
+					"type": "float32",
+					"value": -22.700000762939453
+				},
+				"m_fWorldScale": {
+					"type": "float32",
+					"value": 1.2999999523162842
+				}
 			}
 		},
 		"abcdd0018b67479e": {
