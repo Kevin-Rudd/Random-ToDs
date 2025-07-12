@@ -10247,6 +10247,120 @@
 					}
 				}
 			}
+		},
+		"cafe0522f9d4f5ac": {
+			"parent": "fffffffffffffffe",
+			"name": "Brighten areas",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"cafe7b75c8968ad2": {
+			"parent": "cafe0522f9d4f5ac",
+			"name": "PostfilterAreaBox Under Stilts",
+			"factory": "[modules:/zpostfilterareaboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpostfilterareaboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -168.3671726723181
+						},
+						"position": {
+							"x": 3.277439594268799,
+							"y": 105.34618377685548,
+							"z": 1.6749356985092163
+						}
+					}
+				},
+				"m_PostfilterParametersID": {
+					"type": "int32",
+					"value": 3
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 16.299999237060547,
+						"y": 32.099998474121094,
+						"z": 5.0
+					}
+				},
+				"m_bVisible": { "type": "bool", "value": true }
+			}
+		},
+		"cafeca314e9b73b5": {
+			"parent": "cafe0522f9d4f5ac",
+			"name": "PostfilterAreaBox Jungle",
+			"factory": "[modules:/zpostfilterareaboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpostfilterareaboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -86.21256615062084
+						},
+						"position": {
+							"x": -49.483856201171875,
+							"y": 247.314453125,
+							"z": 10.745457649230955
+						}
+					}
+				},
+				"m_PostfilterParametersID": {
+					"type": "int32",
+					"value": 3
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 25.899999618530273,
+						"y": 50.70000076293945,
+						"z": 10.0
+					}
+				},
+				"m_bVisible": { "type": "bool", "value": true }
+			}
+		},
+		"cafefdd857086b3f": {
+			"parent": "cafe0522f9d4f5ac",
+			"name": "PostfilterAreaBox Treasure",
+			"factory": "[modules:/zpostfilterareaboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpostfilterareaboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 172.03106876737527
+						},
+						"position": {
+							"x": -3.0412373542785645,
+							"y": 245.56053161621097,
+							"z": 1.6448607444763184
+						}
+					}
+				},
+				"m_PostfilterParametersID": {
+					"type": "int32",
+					"value": 3
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": {
+						"x": 6.099999904632568,
+						"y": 6.900000095367432,
+						"z": 10.0
+					}
+				},
+				"m_bVisible": { "type": "bool", "value": true }
+			}
 		}
 	},
 	"propertyOverrides": [
