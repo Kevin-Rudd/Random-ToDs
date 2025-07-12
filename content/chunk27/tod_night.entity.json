@@ -74,62 +74,6 @@
 		{
 			"entities": [
 				{
-					"ref": "5d51972bb6ffe6f3",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "bdbe6538e3abd129",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "f5cc05909fba8a42",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "0096921509e16df9",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "c2d09c338b2c14dc",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "722df9f32a7ef7db",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "20504fa3a0b4bf67",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "72593a50443f73df",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "36ee18ae6b5a0569",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "6dd35967488eaaf2",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "8c94eccc5c4d67a4",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "b074c00ab03e7ae9",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "ca9567048f86f025",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "7fe5493520c2615e",
-					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
-				},
-				{
 					"ref": "8e7f8cc3033d02b1",
 					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
 				},
@@ -388,9 +332,92 @@
 				{
 					"ref": "61e1012411790cae",
 					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "3456a2be347d2194",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "d3a306d9e8f748b3",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
 				}
 			],
 			"properties": {
+				"On": { "type": "bool", "value": true },
+				"LightCastShadows": { "type": "bool", "value": true }
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "5d51972bb6ffe6f3",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "bdbe6538e3abd129",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "f5cc05909fba8a42",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "0096921509e16df9",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "c2d09c338b2c14dc",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "722df9f32a7ef7db",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "20504fa3a0b4bf67",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "72593a50443f73df",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "36ee18ae6b5a0569",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "6dd35967488eaaf2",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "8c94eccc5c4d67a4",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "b074c00ab03e7ae9",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "ca9567048f86f025",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "7fe5493520c2615e",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"GlowPower": { "type": "float32", "value": 5.5 },
+				"DiffusePower": { "type": "float32", "value": 45 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 1.0, "y": 5.099999904632568 }
+				},
+				"m_fLightFadeDistance": { "type": "float32", "value": 60 },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 20.0
+				},
 				"On": { "type": "bool", "value": true },
 				"LightCastShadows": { "type": "bool", "value": true }
 			}
