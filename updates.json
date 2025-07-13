@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "changelog": "Paris Update\n- PARIS: Rewrites mod to no longer use various (old) Lighting Ultimate files. Removes 2016 vanilla lighting.\n- PARIS - DAY: Gives daytime more realistic, less saturated look, changes sun position, fixes post filter settings in some dark basement rooms\n- PARIS – NIGHT: More lamps turned on in some spots\n- PARIS – HOLIDAY HOARDERS: Sets to foggy blue night to differentiate from regular night more\n- REMOVES TEST OFFLINE CONTRACTS",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.0/Random.ToDs.1.1.0.zip"
+    "version": "1.1.1",
+    "changelog": "No JSON update required\n- Paris: Night - Makes recently turned on top balcony lamps shine on wall like the other balcony lamps\n- Chongqing: Day - Gloomier and greyer, replaces 3x umbrella acts, replaces 2x umbrella blend in spots\n- Ambrose midday: Fixes dark outside spots, make sun less bright, removes slight orange tinge to sky",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.1/Random.ToDs.1.1.1.zip"
 }
