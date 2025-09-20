@@ -11,6 +11,10 @@
 	"frameworkVersion": "2.1.0",
 	"dependencies": [
 		{
+		"runtimeID": "00EA33BD94BD2577,00A47BD7D49620A3,0060C36EC3932E4F,0035B2B445FC2F8B,0026E1082076FBA6",
+		"toChunk": 1,
+		"comment": "Moon and stars"
+	},{
 		"runtimeID": "00907BCED9E107EB",
 		"toChunk": 9,
 		"comment": "Magpie Lamp"

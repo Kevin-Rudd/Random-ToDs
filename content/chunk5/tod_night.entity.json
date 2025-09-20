@@ -22,7 +22,7 @@
 						"position": {
 							"x": 65.85529327392578,
 							"y": -67.98452758789062,
-							"z": 51.188621520996094
+							"z": -500000
 						}
 					}
 				},
@@ -79,6 +79,193 @@
 					"postInit": true
 				}
 			}
+		},
+		"cafe74682d3f5dbf": {
+			"parent": "fffffffffffffffe",
+			"name": "fx_plane_500m",
+			"factory": "[assembly:/templates/aspectdummy.aspect]([assembly:/_pro/effects/geometry/misc/fx_basic_shapes.wl2?/fx_plane_500m.prim].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entitytype",
+			"blueprint": "[assembly:/templates/aspectdummy.aspect]([assembly:/templates/geometrytemplatestaticcoll.template?/geomentity01.entitytemplate].entitytype,[modules:/zprojectedareacullingaspect.class].entitytype).pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -62.24203,
+							"y": 28.953367,
+							"z": -52.090385
+						},
+						"position": {
+							"x": 6710.947,
+							"y": -4473.312,
+							"z": 303.852
+						}
+					}
+				},
+				"m_PrimitiveScale": {
+					"type": "SVector3",
+					"value": { "x": 55, "y": 55, "z": 1 }
+				},
+				"m_bVisibleInBoxReflection": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC"
+				},
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_bDisablePAC": { "type": "bool", "value": true },
+				"m_bVisible": { "type": "bool", "value": true },
+				"m_bRemovePhysics": { "type": "bool", "value": true },
+				"m_bDisableNavmeshExport": {
+					"type": "bool",
+					"value": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "68dcb1032d674d6e",
+						"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			}
+		},
+		"cafec59f5653cfc8": {
+			"parent": "cafe74682d3f5dbf",
+			"name": "fx_custom_moon",
+			"factory": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/materials/custom/fox/fx_custom_moon.mi].pc_entityblueprint",
+			"properties": {
+				"142001717": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"277986898": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"748147322": { "type": "float32", "value": 20.2 },
+				"974143070": { "type": "float32", "value": 200000 },
+				"2932013595": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"4004151359": { "type": "SColorRGB", "value": "#bfe0ff" },
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -121.9581832885742,
+							"y": 42.37390518188477,
+							"z": 22.06916618347168
+						},
+						"position": {
+							"x": -35.43621826171875,
+							"y": -8.46634292602539,
+							"z": 4.354286193847656
+						},
+						"scale": {
+							"x": 0.9999999999999998,
+							"y": 1,
+							"z": 1
+						}
+					}
+				},
+				"Override": { "type": "bool", "value": true },
+				"Texture2D_01": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/environment/textures/backdrop/sky/moon_a.texture?/diffuse_d.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				},
+				"Texture2D_01_enab": { "type": "bool", "value": true },
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["cafe74682d3f5dbf"],
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafe74682d3f5dbf",
+					"postInit": true
+				}
+			}
+		},
+		"cafec8cddc3c2d4a": {
+			"parent": "fffffffffffffffe",
+			"name": "fx_glow_starfield.1",
+			"factory": "[assembly:/_pro/effects/geometry/glow/fx_glow_starfield.wl2?/fx_glow_starfield.prim].pc_entitytype",
+			"blueprint": "[assembly:/templates/geometrytemplatenocoll.template?/geomentity01.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 92.96780089475568
+						},
+						"position": {
+							"x": 32.35503005981445,
+							"y": -39.96133041381836,
+							"z": 30.35017967224121
+						}
+					}
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+				},
+				"m_bVisible": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": false },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			}
+		},
+		"cafecec2868e0910": {
+			"parent": "cafec8cddc3c2d4a",
+			"name": "fx_glow_starfield",
+			"factory": "[assembly:/_pro/effects/materials/glow/fx_glow_starfield.mi].pc_entitytype",
+			"blueprint": "[assembly:/_pro/effects/materials/glow/fx_glow_starfield.mi].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": { "x": 0, "y": 0, "z": 0 }
+					}
+				},
+				"ConstantColorRGB_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"ConstantColorRGB_01_Value": {
+					"type": "SColorRGB",
+					"value": "#787ed6"
+				},
+				"ConstantVector1D_01_Value": {
+					"type": "float32",
+					"value": 900
+				},
+				"ConstantVector1D_01_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				},
+				"Clients": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": ["cafec8cddc3c2d4a"],
+					"postInit": true
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "cafec8cddc3c2d4a",
+					"postInit": true
+				}
+			}
 		}
 	},
 	"propertyOverrides": [
@@ -99,11 +286,30 @@
 				{
 					"ref": "8217535cb1c58be0",
 					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "cc55418aae3f02ef",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "0e83e7179d098840",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "3fa9d6ddc0c1659a",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "a460685d3ddb7d85",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
 				}
 			],
 			"properties": {
 				"SpotCastShadows": { "type": "bool", "value": true },
-				"m_fLightFadeDistance": { "type": "float32", "value": 50 },
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 150
+				},
 				"On": { "type": "bool", "value": true },
 				"m_vAngularAttenuation": {
 					"type": "SVector2",
@@ -119,7 +325,7 @@
 						"y": 13.9399995803833
 					}
 				},
-				"DiffusePower": { "type": "float32", "value": 150 }
+				"DiffusePower": { "type": "float32", "value": 60 }
 			}
 		},
 		{
@@ -139,11 +345,27 @@
 				{
 					"ref": "7f1230a454722459",
 					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "996955f19fe6e15a",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "c578c606d6968c2b",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "aedbd9c63b62bb28",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
+				},
+				{
+					"ref": "e628456e61805f79",
+					"externalScene": "[assembly:/_pro/scenes/missions/elegant/scenario_llama.brick].pc_entitytype"
 				}
 			],
 			"properties": {
 				"DiffusePower": { "type": "float32", "value": 40 },
-				"GlowPower": { "type": "float32", "value": 1500.0 },
+				"GlowPower": { "type": "float32", "value": 1500 },
 				"m_vFarAttenuation": {
 					"type": "SVector2",
 					"value": {
@@ -162,9 +384,10 @@
 				},
 				"m_bUseStaticShadowMap": { "type": "bool", "value": true },
 				"On": { "type": "bool", "value": true },
-				"m_fLightFadeDistance": {
-					"type": "float32",
-					"value": 50.0
+				"m_fLightFadeDistance": { "type": "float32", "value": 75 },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 0.1, "y": 1.1 }
 				}
 			}
 		},
@@ -500,86 +723,30 @@
 					"type": "ILightEntity.ELightType",
 					"value": "LT_DIRECTIONAL"
 				},
-				"m_vBoxSize": {
-					"type": "SVector3",
-					"value": {
-						"x": 573.0609741210938,
-						"y": 359.9079895019531,
-						"z": 705.346008300781
-					}
-				},
 				"m_bCastCSMShadows": { "type": "bool", "value": true },
-				"m_fDiffusePower": {
+				"m_fShadowBlurWidth": {
 					"type": "float32",
-					"value": 3.0999999046325684
+					"value": 0.33000001311302185
 				},
+				"m_fDiffusePower": { "type": "float32", "value": 1.1 },
 				"m_bVisible": { "type": "bool", "value": true },
 				"m_bCastShadows": { "type": "bool", "value": true },
-				"m_eRoomLightFlow": {
-					"type": "ILightEntity.ERoomLightFlow",
-					"value": "AUTOMATIC"
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": -42.70023296800538,
-							"y": 74.70875037672401,
-							"z": -34.44647772163591
-						},
-						"position": {
-							"x": 63.26300811767578,
-							"y": -2.2509994506835938,
-							"z": 59.78799819946289
-						}
-					}
-				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
 				},
-				"m_fLightBleedingReduction": {
-					"type": "float32",
-					"value": 1.0
-				},
-				"m_diffuseColor": {
-					"type": "SColorRGB",
-					"value": "#a1a1a1"
+				"m_bCrowdCastShadows": { "type": "bool", "value": true },
+				"m_vCSMSplitFades": {
+					"type": "SVector3",
+					"value": { "x": -1, "y": -1, "z": 5 }
 				},
 				"m_vCSMCascadeRadii": {
 					"type": "SVector3",
-					"value": { "x": -1.0, "y": -1.0, "z": 150.0 }
+					"value": { "x": -1, "y": -1, "z": 150 }
 				},
-				"m_bForceVisible": { "type": "bool", "value": false },
-				"m_bPCCastShadows": { "type": "bool", "value": false },
-				"m_bCastOmniShadows": { "type": "bool", "value": false },
-				"m_bUseDynamicShadowMap": {
-					"type": "bool",
-					"value": true
-				},
-				"m_bUseStaticShadowMap": { "type": "bool", "value": true },
-				"m_bHighShadowPriority": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bCrowdCastShadows": { "type": "bool", "value": true },
-				"m_vBoxFadePos": {
-					"type": "SVector3",
-					"value": {
-						"x": 0.0,
-						"y": 0.019999999552965164,
-						"z": 0.0
-					}
-				},
-				"m_bHQDynamicShadowMap": {
-					"type": "bool",
-					"value": false
-				},
-				"m_bHQStaticShadowMap": { "type": "bool", "value": false },
-				"m_bEnableLightFade": { "type": "bool", "value": false },
-				"m_eidParent": {
-					"type": "SEntityTemplateReference",
-					"value": "fffffffffffffffe"
+				"m_diffuseColor": {
+					"type": "SColorRGB",
+					"value": "#b2d2ff"
 				}
 			}
 		},
@@ -591,24 +758,16 @@
 				}
 			],
 			"properties": {
-				"m_RayleighColor": {
-					"type": "SColorRGB",
-					"value": "#cedded"
-				},
-				"m_MieColor": { "type": "SColorRGB", "value": "#ffffff" },
-				"m_fSunRadiusScale": {
-					"type": "float32",
-					"value": 3.450000047683716
-				},
-				"m_fSunIntensityScale": {
-					"type": "float32",
-					"value": 111.0
-				},
+				"m_fSunRadiusScale": { "type": "float32", "value": 3 },
+				"m_fSunIntensityScale": { "type": "float32", "value": 0 },
 				"m_fHeightAboveSeaLevel": {
 					"type": "float32",
-					"value": 109.8000030517578
+					"value": 3000
 				},
-				"m_fMieAnisotropy": { "type": "float32", "value": 1.0 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_STATIC"
@@ -620,29 +779,54 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_fRayleighDepthScale": {
-					"type": "float32",
-					"value": 0.25
-				},
-				"m_fWorldScale": { "type": "float32", "value": 9.5 },
-				"m_fWaterPlaneHeight": { "type": "float32", "value": -55 },
+				"m_fWorldScale": { "type": "float32", "value": 12 },
+				"m_fMieDepthScale": { "type": "float32", "value": 0.5 },
 				"m_fShadowedInscatterIntensity": {
 					"type": "float32",
-					"value": 0.75
+					"value": 3
 				},
-				"m_fShadowedMieDepthScale": {
+				"m_fMieAnisotropy": {
 					"type": "float32",
-					"value": 1
+					"value": 0.20000000298023224
 				},
-				"m_fShadowedRayleighDepthScale": {
+				"m_fInscatterIntensity": {
 					"type": "float32",
-					"value": 10
+					"value": 1.100000023841858
 				},
-				"m_fInscatterIntensity": { "type": "float32", "value": 2 },
-				"m_fMieHeightScale": { "type": "float32", "value": 1000 },
+				"m_fRayleighDepthScale": {
+					"type": "float32",
+					"value": 0.800000011920929
+				},
+				"m_MieColor": { "type": "SColorRGB", "value": "#2b3a52" },
 				"m_fRayleighHeightScale": {
 					"type": "float32",
-					"value": 1000
+					"value": 2500
+				},
+				"m_RayleighColor": {
+					"type": "SColorRGB",
+					"value": "#3c4555"
+				},
+				"m_fAmbientInscatterFraction": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fMieHeightScale": { "type": "float32", "value": 1000 },
+				"m_fWaterPlaneHeight": { "type": "float32", "value": -10 },
+				"m_vMieColor_LowQuality": {
+					"type": "SColorRGB",
+					"value": "#fff49e"
+				},
+				"m_vRayleighColor_LowQuality": {
+					"type": "SColorRGB",
+					"value": "#5496ff"
+				},
+				"m_fWorldScale_LowQuality": {
+					"type": "float32",
+					"value": 6
+				},
+				"m_bUseLowQualitySettings": {
+					"type": "bool",
+					"value": true
 				}
 			}
 		},
@@ -665,24 +849,24 @@
 				}
 			],
 			"properties": {
-				"m_GlobalLightFrontColor": {
-					"type": "SColorRGB",
-					"value": "#d8d8d8"
-				},
-				"m_GlobalLightBackColor": {
-					"type": "SColorRGB",
-					"value": "#858585"
-				},
 				"m_fGlobalLightFrontIntensity": {
 					"type": "float32",
-					"value": 0.4
+					"value": 0.10000000149011612
 				},
 				"m_fGlobalLightBackIntensity": {
 					"type": "float32",
-					"value": 0.4
+					"value": 0.10000000149011612
+				},
+				"m_GlobalLightBackColor": {
+					"type": "SColorRGB",
+					"value": "#dbe8ff"
+				},
+				"m_GlobalLightFrontColor": {
+					"type": "SColorRGB",
+					"value": "#dbe8ff"
 				},
 				"m_bVisible": { "type": "bool", "value": true },
-				"m_fGlobalLightPhong": { "type": "float32", "value": 2 }
+				"m_fGlobalLightPhong": { "type": "float32", "value": 1 }
 			}
 		},
 		{
@@ -698,42 +882,57 @@
 					"value": {
 						"data": [
 							[
-								-6, 0.00737512344494462, 0, 0, 0, 0,
-								0.0019304618472233417, 0.00737512344494462
+								-6, 0.00957079604268074, 0, 0, 0, 0,
+								0.0011221279855817556, 0.00957079604268074
 							],
 							[
-								-5.28280782699585, 0.00930558517575264, 0,
-								0, 0, 0, 0.023692648857831955,
-								0.00930558517575264
+								-4.002769947052002, 0.01069292426109314, 0,
+								0, 0, 0, 0.003696108935400843,
+								0.01069292426109314
 							],
 							[
-								-2.042663335800171, 0.032998234033584595,
-								0, 0, 0, 0, 0.009559597820043564,
-								0.032998234033584595
+								-3.0107123851776123, 0.014389032498002052,
+								0, 0, 0, 0, 0.02659582905471325,
+								0.014389032498002052
 							],
 							[
-								-0.7353485822677612, 0.04255783185362816,
-								0, 0, 0, 0, 0.023190023377537727,
-								0.04255783185362816
+								-1.9621422290802, 0.0409848615527153, 0, 0,
+								0, 0, 0.023537371307611465,
+								0.0409848615527153
 							],
 							[
-								-0.005953712854534388, 0.06574785709381104,
-								0, 0, 0, 0, 0.05404132604598999,
-								0.06574785709381104
+								-1.432363748550415, 0.06452222913503647, 0,
+								0, 0, 0, 0.0234500952064991,
+								0.06452222913503647
 							],
 							[
-								0.9094015955924988, 0.11978918313980104, 0,
-								0, 0, 0, 0.021822921931743625,
-								0.11978918313980104
+								-0.9885783791542052, 0.08797232806682587,
+								0, 0, 0, 0, 0.037641558796167374,
+								0.08797232806682587
 							],
 							[
-								1.331021428108215, 0.14161209762096405, 0,
-								0, 0, 0, 0.010183779522776604,
-								0.14161209762096405
+								-0.3924284279346466, 0.12561388313770294,
+								0, 0, 0, 0, 0.02088901959359646,
+								0.12561388313770294
 							],
 							[
-								1.8463621139526367, 0.1517958790063858, 0,
-								0, 0, 0, 0, 0.1517958790063858
+								0.00736115500330925, 0.14650291204452515,
+								0, 0, 0, 0, 0.037844929844141006,
+								0.14650291204452515
+							],
+							[
+								0.9863947629928588, 0.18434783816337583, 0,
+								0, 0, 0, 0.0145752327516675,
+								0.18434783816337583
+							],
+							[
+								1.8051707744598389, 0.19892306625843048, 0,
+								0, 0, 0, 0.002119481796398759,
+								0.19892306625843048
+							],
+							[
+								2.9473683834075928, 0.2010425478219986, 0,
+								0, 0, 0, 0, 0.2010425478219986
 							]
 						]
 					}
