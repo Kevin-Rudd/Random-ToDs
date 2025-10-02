@@ -1,31 +1,6 @@
 {
     "Data": {
-        "Objectives": [
-            {
-                "Id": "ae817ab7-fdfe-4902-9f0c-30518a39207d",
-                "Primary": true,
-                "SuccessEvent": {
-                    "EventName": "Kill",
-                    "EventValues": {
-                        "RepositoryId": "ee3f55b8-12f8-4245-8ef2-3022b4f6f120"
-                    }
-                },
-                "ResetEvent": null,
-                "FailedEvent": null
-            },
-            {
-                "Id": "178d62b2-b5ef-463f-bc8e-7f7096ac73d1",
-                "Primary": true,
-                "SuccessEvent": {
-                    "EventName": "Kill",
-                    "EventValues": {
-                        "RepositoryId": "f65fff84-6cad-4a11-9a0a-b89430c03397"
-                    }
-                },
-                "ResetEvent": null,
-                "FailedEvent": null
-            }
-        ],
+        "Objectives": [],
         "GameDifficulties": [
             {
                 "Difficulty": "easy",
@@ -46,7 +21,7 @@
         ],
         "Bricks": [],
         "RandomBricks": {
-			"Testing": ["assembly:/_pro/scenes/missions/bangkok/tod_morning.brick"]
+			"Testing": ["assembly:/_pro/scenes/missions/bangkok/hot_baiju.brick"]
 		},
         "VR": [
             {
@@ -79,7 +54,7 @@
         "DebriefingVideo": "debriefing_tiger",
         "TileImage": "images/Contracts/Tiger/Tile.jpg",
         "CodeName_Hint": "Tiger",
-        "ScenePath": "assembly:/_PRO/Scenes/Missions/Bangkok/_Scene_Mission_Tiger.entity",
+        "ScenePath": "assembly:/_PRO/Scenes/Missions/Bangkok/_Scene_Tiger.entity",
         "Type": "mission",
         "Release": "1.4.x",
         "RequiredUnlockable": "ACCESS_HIT_TIGER",

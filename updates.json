@@ -1,5 +1,5 @@
 {
-    "version": "1.1.1",
-    "changelog": "No JSON update required\n- Paris: Night - Makes recently turned on top balcony lamps shine on wall like the other balcony lamps\n- Chongqing: Day - Gloomier and greyer, replaces 3x umbrella acts, replaces 2x umbrella blend in spots\n- Ambrose midday: Fixes dark outside spots, make sun less bright, removes slight orange tinge to sky",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.1/Random.ToDs.1.1.1.zip"
+    "version": "1.1.2",
+    "changelog": "MISSION COMPANION CURRENTLY DOES NOT WORK, MOD NOT PLAYABLE\nJSON update required for new variant\n- Compatible with latest SMF\n- Adds Bangkok Morning (Bangkok ToDs currently do not apply to The Infiltrator)",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.2/Random.ToDs.1.1.2.zip"
 }

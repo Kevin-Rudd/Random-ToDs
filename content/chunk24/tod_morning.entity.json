@@ -1144,6 +1144,52 @@
 				"m_fAngularDeviationZ": { "type": "float32", "value": 10 },
 				"m_fAngularDeviationY": { "type": "float32", "value": 30 }
 			}
+		},
+		"cafeed697c5805c0": {
+			"parent": "fffffffffffffffe",
+			"name": "lamp_spot_light_small_a_18",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_small_a_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_spot_light_small_a_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -1.61155527921684
+						},
+						"position": {
+							"x": 2.643463134765625,
+							"y": 3.618209838867187,
+							"z": 12.804012298583984
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#c5d6e4"
+				},
+				"GlowPower": { "type": "float32", "value": 1000.0 },
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "8ce010f1be8f5477",
+						"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+					},
+					"postInit": true
+				},
+				"DiffusePower": { "type": "float32", "value": 60.0 },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"On": { "type": "bool", "value": true },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.509999990463257,
+						"y": 6.679999828338623
+					}
+				}
+			}
 		}
 	},
 	"propertyOverrides": [
@@ -1670,6 +1716,14 @@
 					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
 				},
 				{
+					"ref": "4971f52c9139350b",
+					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "29676beba5ad816e",
+					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
+				},
+				{
 					"ref": "ce529d3bf61be406",
 					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
 				},
@@ -1715,14 +1769,6 @@
 				},
 				{
 					"ref": "6f534d1e52463299",
-					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "4971f52c9139350b",
-					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
-				},
-				{
-					"ref": "29676beba5ad816e",
 					"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
 				}
 			],
@@ -2059,6 +2105,10 @@
 	],
 	"overrideDeletes": [
 		{
+			"ref": "d21e556d8987e9f2",
+			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/dressing_hotel_floor3_tiger.brick].pc_entitytype"
+		},
+		{
 			"ref": "c446496b82e88026",
 			"externalScene": "[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype"
 		},
@@ -2170,7 +2220,8 @@
 		"[assembly:/_pro/scenes/missions/bangkok/location.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/missions/bangkok/lighting_newlook.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/missions/bangkok/dressing_wing_b_vip_suite.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/missions/bangkok/dressing_arrival.brick].pc_entitytype"
+		"[assembly:/_pro/scenes/missions/bangkok/dressing_arrival.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/missions/bangkok/dressing_hotel_floor3_tiger.brick].pc_entitytype"
 	],
 	"subType": "brick",
 	"quickEntityVersion": 3.1,
