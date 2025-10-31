@@ -496,7 +496,7 @@
 						"rotation": {
 							"x": 75.00019073486328,
 							"y": 1.296395225836022e-6,
-							"z": 1.7067151247829318e-7
+							"z": 1.706715124782932e-7
 						},
 						"position": {
 							"x": -0.05685805901885033,
@@ -827,7 +827,7 @@
 						"rotation": { "x": 0, "y": 0, "z": 0 },
 						"position": {
 							"x": 21.915529251098633,
-							"y": -27.054580688476562,
+							"y": -27.05458068847656,
 							"z": 10.645899772644045
 						}
 					}
@@ -3361,6 +3361,37 @@
 				"m_aParents": {
 					"type": "TArray<SEntityTemplateReference>",
 					"value": ["feed3fbaa6ddf5c2", "feedb22a3279cf1c"]
+				}
+			}
+		},
+		"cafe5bdcecfb554d": {
+			"parent": "feed4cfecb679818",
+			"name": "BoxReflection",
+			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
+			"properties": {
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": { "x": 800, "y": 800, "z": 400 }
+				},
+				"m_vSampleOffset": {
+					"type": "SVector3",
+					"value": { "x": 0, "y": 0, "z": 5 }
+				},
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": { "x": 0, "y": 0, "z": 0 }
+					}
+				},
+				"m_eType": {
+					"type": "ZBoxReflectionEntity.EType",
+					"value": "eFallback"
+				},
+				"m_eBoundsType": {
+					"type": "ZBoxReflectionEntity.EBoundsType",
+					"value": "eBox"
 				}
 			}
 		}
