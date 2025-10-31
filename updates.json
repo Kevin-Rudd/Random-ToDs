@@ -1,5 +1,5 @@
 {
-    "version": "1.1.2",
-    "changelog": "MISSION COMPANION CURRENTLY DOES NOT WORK, MOD NOT PLAYABLE\nJSON update required for new variant\n- Compatible with latest SMF\n- Adds Bangkok Morning (Bangkok ToDs currently do not apply to The Infiltrator)",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.2/Random.ToDs.1.1.2.zip"
+    "version": "1.1.3",
+    "changelog": "MISSION COMPANION CURRENTLY DOES NOT WORK, MOD NOT PLAYABLE... BUT HOPEFULLY SOON\n- Works for new game update\n- Bangkok: Morning - Now works with The Infiltrator (I think)\n- Mumbai Night: Restores to intended slight 'purple' look",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.3/Random.ToDs.1.1.3.zip"
 }
