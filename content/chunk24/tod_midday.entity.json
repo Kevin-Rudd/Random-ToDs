@@ -5,7 +5,7 @@
 	"entities": {
 		"fffffffffffffffe": {
 			"parent": null,
-			"name": "Scene",
+			"name": "ToD_Midday",
 			"factory": "[modules:/zspatialentity.class].pc_entitytype",
 			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
 		},
@@ -1282,33 +1282,6 @@
 					"value": 0.4000000059604645
 				},
 				"m_fVignetteMax": { "type": "float32", "value": 1.5 }
-			}
-		},
-		"abcdf0566079d96a": {
-			"parent": "fffffffffffffffe",
-			"name": "Trigger stuff upon game start",
-			"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_eEvent": {
-					"type": "EGameEventType",
-					"value": "GET_IntroCutEnd"
-				}
-			},
-			"events": {
-				"EventOccurred": { "GetIndex": ["abcd7a16f1a136d8"] }
-			}
-		},
-		"abcd7a16f1a136d8": {
-			"parent": "abcdf0566079d96a",
-			"name": "zmultiparentspatialentity",
-			"factory": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
-			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
-			"properties": {
-				"m_aParents": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcdd717beaac490"]
-				}
 			}
 		}
 	},

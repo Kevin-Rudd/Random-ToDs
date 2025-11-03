@@ -6195,6 +6195,240 @@
 					}
 				}
 			}
+		},
+		"cafea040bbebfb71": {
+			"parent": "abcd8de625d8767e",
+			"name": "Atlantide House",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"cafe6f5156303cee": {
+			"parent": "cafea040bbebfb71",
+			"name": "Lamp_Thin_Spot_Light_A__06",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": {
+							"x": -6.038421630859375,
+							"y": -0.3075752258300781,
+							"z": 3.6498851776123047
+						}
+					}
+				},
+				"On": { "type": "bool", "value": true },
+				"GlowPower": { "type": "float32", "value": 1000.0 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.600000023841858,
+						"y": 7.800000190734863
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 60.0 },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.01906999945640564,
+						"y": 1.2065000534057615
+					}
+				},
+				"SpotCastShadows": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 11.0
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e1e3e8"
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.699999988079071
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "14f4e2dbaac602c0",
+						"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe838eb6fe8576": {
+			"parent": "cafea040bbebfb71",
+			"name": "Lamp_Thin_Spot_Light_A__05",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": {
+							"x": 3.957586288452149,
+							"y": 13.574445724487305,
+							"z": 3.640300750732422
+						}
+					}
+				},
+				"On": { "type": "bool", "value": true },
+				"GlowPower": { "type": "float32", "value": 1000.0 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.600000023841858,
+						"y": 7.800000190734863
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 60.0 },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.01906999945640564,
+						"y": 1.2065000534057615
+					}
+				},
+				"SpotCastShadows": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 15.0
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e1e3e8"
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.699999988079071
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "14f4e2dbaac602c0",
+						"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe42ca417bd73f": {
+			"parent": "cafea040bbebfb71",
+			"name": "Lamp_Thin_Spot_Light_A__07",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0, "z": -0.0 },
+						"position": {
+							"x": -31.264442,
+							"y": -49.765118,
+							"z": 13.6403
+						}
+					}
+				},
+				"On": { "type": "bool", "value": true },
+				"GlowPower": { "type": "float32", "value": 1000.0 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 1.600000023841858,
+						"y": 7.800000190734863
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 60.0 },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.01906999945640564,
+						"y": 1.2065000534057615
+					}
+				},
+				"SpotCastShadows": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 11.0
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e1e3e8"
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.699999988079071
+				},
+				"m_eRoomBehaviour": {
+					"type": "ZSpatialEntity.ERoomBehaviour",
+					"value": "ROOM_DYNAMIC"
+				}
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafec78bf1ac8f46": {
+			"parent": "cafea040bbebfb71",
+			"name": "Lamp_Thin_Spot_Light_A__06 Bathroom",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_thin_spot_light_a_.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": {
+							"x": 4.238447189331055,
+							"y": 3.969169616699219,
+							"z": 3.6229848861694336
+						}
+					}
+				},
+				"On": { "type": "bool", "value": true },
+				"GlowPower": { "type": "float32", "value": 2000.0 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.680000066757202,
+						"y": 5.329999923706055
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 40.0 },
+				"m_vAngularAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.42906999588012695,
+						"y": 1.1464999914169312
+					}
+				},
+				"SpotCastShadows": { "type": "bool", "value": true },
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 11.0
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#d9e0ff"
+				},
+				"m_fWrappedDiffuse": {
+					"type": "float32",
+					"value": 0.30000001192092896
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "63eea130db0fce5d",
+						"externalScene": "[assembly:/_pro/scenes/missions/skunk/scenario_skunk.brick].pc_entitytype"
+					},
+					"postInit": true
+				}
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
 		}
 	},
 	"propertyOverrides": [

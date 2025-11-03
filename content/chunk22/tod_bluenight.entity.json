@@ -5,7 +5,7 @@
 	"entities": {
 		"fffffffffffffffe": {
 			"parent": null,
-			"name": "Scene",
+			"name": "ToD_Bluenight",
 			"factory": "[modules:/zspatialentity.class].pc_entitytype",
 			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
 		},
@@ -1977,38 +1977,6 @@
 				}
 			}
 		},
-		"abcdda5116b3226e": {
-			"parent": "fffffffffffffffe",
-			"name": "Trigger stuff upon game start",
-			"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_eEvent": {
-					"type": "EGameEventType",
-					"value": "GET_GameplayStart"
-				}
-			},
-			"events": {
-				"EventOccurred": { "GetIndex": ["abcd4be6399231c3"] }
-			}
-		},
-		"abcd4be6399231c3": {
-			"parent": "abcdda5116b3226e",
-			"name": "zmultiparentspatialentity",
-			"factory": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
-			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
-			"properties": {
-				"m_aParents": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"abcd92a5042630cc",
-						"abcd8553d05aabb1",
-						"abcd3dd8bd28419e",
-						"abcde0054890f747"
-					]
-				}
-			}
-		},
 		"cafea5ceaef6f5d8": {
 			"parent": "abcd541450c03451",
 			"name": "BoxReflection",
@@ -2146,7 +2114,7 @@
 		"[assembly:/_pro/scenes/missions/hokkaido/tod_winter_twilight_clear.brick].pc_entitytype",
 		"[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
 	],
-	"subType": "scene",
+	"subType": "brick",
 	"quickEntityVersion": 3.1,
 	"extraFactoryDependencies": [],
 	"extraBlueprintDependencies": [],

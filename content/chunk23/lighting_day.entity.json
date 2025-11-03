@@ -4577,28 +4577,12 @@
 				"m_eBoundsType": {
 					"type": "ZBoxReflectionEntity.EBoundsType",
 					"value": "eBox"
-				}
+				},
+				"m_bVisible": { "type": "bool", "value": true }
 			}
 		}
 	},
 	"propertyOverrides": [
-		{
-			"entities": [
-				{
-					"ref": "48b1d89611871ec7",
-					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
-				}
-			],
-			"properties": {
-				"m_pBoxReflectionCache": {
-					"type": "ZRuntimeResourceID",
-					"value": {
-						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/colorado_2/lighting_day.boxc].pc_boxc",
-						"flag": "5F"
-					}
-				}
-			}
-		},
 		{
 			"entities": [
 				{
@@ -5896,6 +5880,10 @@
 		{
 			"ref": "ca14ebc54ab5ffb9",
 			"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_newlook.brick].pc_entitytype"
+		},
+		{
+			"ref": "48b1d89611871ec7",
+			"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/lighting_dusk.brick].pc_entitytype"
 		}
 	],
 	"pinConnectionOverrides": [],

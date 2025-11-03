@@ -4152,7 +4152,7 @@
 		},
 		"abcdd8663f62dec0": {
 			"parent": "abcdabdb0c3c5840",
-			"name": "PostfilterAreaBoxLeft",
+			"name": "PostfilterAreaBoxLeftExhibit",
 			"factory": "[modules:/zpostfilterareaboxentity.class].pc_entitytype",
 			"blueprint": "[modules:/zpostfilterareaboxentity.class].pc_entityblueprint",
 			"properties": {
@@ -4160,14 +4160,14 @@
 					"type": "SMatrix43",
 					"value": {
 						"rotation": {
-							"x": 0,
-							"y": -0.12912483298079683,
-							"z": 0
+							"x": -0.0,
+							"y": -0.12972151814148866,
+							"z": -0.0
 						},
 						"position": {
-							"x": -205.99846,
-							"y": 1.989161,
-							"z": 0.4560526
+							"x": -160.1272735595703,
+							"y": -11.95358943939209,
+							"z": 0.45605260133743286
 						}
 					}
 				},
@@ -4177,7 +4177,11 @@
 				},
 				"m_vGlobalSize": {
 					"type": "SVector3",
-					"value": { "x": 27, "y": 6, "z": 10 }
+					"value": {
+						"x": 10.600000381469728,
+						"y": 8.199999809265137,
+						"z": 10.0
+					}
 				},
 				"m_bVisible": { "type": "bool", "value": true }
 			}
@@ -4243,7 +4247,7 @@
 					"type": "SVector3",
 					"value": { "x": 20, "y": 20, "z": 20 }
 				},
-				"m_bVisible": { "type": "bool", "value": true }
+				"m_bVisible": { "type": "bool", "value": false }
 			}
 		},
 		"abcd96bf03d45b85": {
@@ -4274,6 +4278,38 @@
 				"m_vGlobalSize": {
 					"type": "SVector3",
 					"value": { "x": 8, "y": 8, "z": 10 }
+				},
+				"m_bVisible": { "type": "bool", "value": true }
+			}
+		},
+		"cafeb7e8cb35ed55": {
+			"parent": "abcdabdb0c3c5840",
+			"name": "PostfilterAreaBoxLeft",
+			"factory": "[modules:/zpostfilterareaboxentity.class].pc_entitytype",
+			"blueprint": "[modules:/zpostfilterareaboxentity.class].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": -0.12912483298079683,
+							"z": 0
+						},
+						"position": {
+							"x": -205.99846,
+							"y": 1.989161,
+							"z": 0.4560526
+						}
+					}
+				},
+				"m_PostfilterParametersID": {
+					"type": "int32",
+					"value": 0
+				},
+				"m_vGlobalSize": {
+					"type": "SVector3",
+					"value": { "x": 27, "y": 6, "z": 10 }
 				},
 				"m_bVisible": { "type": "bool", "value": true }
 			}
@@ -4564,6 +4600,18 @@
 				},
 				{
 					"ref": "76e57a9fa47be8a1",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "b359f617fde03105",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "2eed8dd31750e50b",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "04718cb2d035646b",
 					"externalScene": "[assembly:/_pro/scenes/missions/paris/location.brick].pc_entitytype"
 				}
 			],
