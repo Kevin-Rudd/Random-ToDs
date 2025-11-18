@@ -676,7 +676,7 @@
 					"value": "#ffffff"
 				},
 				"m_fHDRWhitePoint": { "type": "float32", "value": 11 },
-				"m_nParameterId": { "type": "int32", "value": 0 },
+				"m_nParameterId": { "type": "int32", "value": 1 },
 				"m_vSSAOStrengthNearFar": {
 					"type": "SVector2",
 					"value": { "x": 0, "y": 15 }
@@ -1183,7 +1183,11 @@
 					"type": "ZSpatialEntity.ERoomBehaviour",
 					"value": "ROOM_DYNAMIC"
 				},
-				"m_bCastShadows": { "type": "bool", "value": true }
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 21.200000762939453
+				}
 			},
 			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
 		},
@@ -1248,9 +1252,1097 @@
 				"m_bCastShadows": { "type": "bool", "value": true }
 			},
 			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafeabffa328dbb0": {
+			"parent": "cafedf5c4f98641b",
+			"name": "MiddleGrayCurve.4",
+			"factory": "[modules:/zmiddlegraycurveentity.class].pc_entitytype",
+			"blueprint": "[modules:/zmiddlegraycurveentity.class].pc_entityblueprint",
+			"properties": {
+				"m_Remap": {
+					"type": "ZCurve",
+					"value": {
+						"data": [
+							[
+								-6, 0.004874347243458033, 0, 0, 0, 0,
+								0.010524948127567768, 0.004874347243458033
+							],
+							[
+								-3.0107123851776123, 0.015399295836687088,
+								0, 0, 0, 0, 0.03120797500014305,
+								0.015399295836687088
+							],
+							[
+								-1.432363748550415, 0.04660727083683014, 0,
+								0, 0, 0, 0.08482543379068375,
+								0.04660727083683014
+							],
+							[
+								0, 0.1314326971769333, 0, 0, 0, 0,
+								0.05291513353586197, 0.1314326971769333
+							],
+							[
+								0.9863947629928588, 0.18434783816337583, 0,
+								0, 0, 0, 0.0145752327516675,
+								0.18434783816337583
+							],
+							[
+								1.8051707744598389, 0.19892306625843048, 0,
+								0, 0, 0, 0.002119481796398759,
+								0.19892306625843048
+							],
+							[
+								2.9473683834075928, 0.2010425478219986, 0,
+								0, 0, 0, 0, 0.2010425478219986
+							]
+						]
+					}
+				}
+			}
+		},
+		"cafedf5c4f98641b": {
+			"parent": "636d58aff24191e4",
+			"name": "PostfilterParameters_5_Tunnel UNUSED",
+			"factory": "[modules:/zrenderpostfilterparametersentity.class].pc_entitytype",
+			"blueprint": "[modules:/zrenderpostfilterparametersentity.class].pc_entityblueprint",
+			"properties": {
+				"m_bColorCorrectionEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bDistortionBarrelEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bHDRLensFlareEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bHDRGlareEnabled": { "type": "bool", "value": true },
+				"m_eHDRGlareType": {
+					"type": "ZRenderPostfilterParametersEntity.EHDRGlareType",
+					"value": "eFilterSnowCrossSpectral"
+				},
+				"m_fHDRBrightPassThreshold": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_fHDRBrightPassMaxPercentage": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_bNoiseEnabled": { "type": "bool", "value": false },
+				"m_fNoiseScale": {
+					"type": "float32",
+					"value": 0.949999988079071
+				},
+				"m_bSSAOEnabled": { "type": "bool", "value": true },
+				"m_fSSAOOcclusionRange": { "type": "float32", "value": 1 },
+				"m_bDepthOfFieldEnabled": {
+					"type": "bool",
+					"value": true
+				},
+				"m_bFogEnabled": { "type": "bool", "value": false },
+				"m_fFogDensity": {
+					"type": "float32",
+					"value": 0.10999999940395357
+				},
+				"m_FogColor": { "type": "SColorRGB", "value": "#171c21" },
+				"m_bGaussianBlurEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fDepthOfFieldBlurriness": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fHDRLensFlareThresholdA": {
+					"type": "float32",
+					"value": 0.4699999988079071
+				},
+				"m_fHDRLensFlareAttenuation": {
+					"type": "float32",
+					"value": 0.40999999642372126
+				},
+				"m_fHDRBloomScale": { "type": "float32", "value": 0.25 },
+				"m_fDistortionBarrelScale": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_fNoiseIntensity": {
+					"type": "float32",
+					"value": 0.05000000074505806
+				},
+				"m_fHDRLensFlareThresholdB": {
+					"type": "float32",
+					"value": 0.4300000071525574
+				},
+				"m_fHDRLensFlareThresholdC": {
+					"type": "float32",
+					"value": 0.23999999463558197
+				},
+				"m_fHDRLensFlareThresholdD": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_HDRLensFlareColorC": {
+					"type": "SColorRGB",
+					"value": "#651873"
+				},
+				"m_fDepthOfFieldFocusEnd": {
+					"type": "float32",
+					"value": 50
+				},
+				"m_bFogGlobal": { "type": "bool", "value": false },
+				"m_fFogTurbulenceOpacity": {
+					"type": "float32",
+					"value": 0.800000011920929
+				},
+				"m_fDepthOfFieldFocalFadeFar": {
+					"type": "float32",
+					"value": 25
+				},
+				"m_bVignetteEnabled": { "type": "bool", "value": true },
+				"m_fVignetteStrength": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_VignetteColor": {
+					"type": "SColorRGB",
+					"value": "#0d0d0d"
+				},
+				"m_bSpatialBlurEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bRadialBlurEnabled": { "type": "bool", "value": false },
+				"m_fRadialBlurriness": { "type": "float32", "value": 1 },
+				"m_bDistortionWobbleEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_bDistortionWobbleUseRealTime": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fDistortionWobbleScale": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fGaussianBlurriness": { "type": "float32", "value": 1 },
+				"m_vRadialBlurCenter": {
+					"type": "SVector2",
+					"value": { "x": 0.5, "y": 0.5 }
+				},
+				"m_fRadialBlurStart": { "type": "float32", "value": 0 },
+				"m_fRadialBlurFadeFactor": {
+					"type": "float32",
+					"value": 0.10999999940395357
+				},
+				"m_vSpatialBlurCenter": {
+					"type": "SVector3",
+					"value": { "x": 0, "y": 0, "z": 0 }
+				},
+				"m_fSpatialBlurStart": { "type": "float32", "value": 0 },
+				"m_fSpatialBlurFade": { "type": "float32", "value": 10 },
+				"m_fSpatialBlurriness": { "type": "float32", "value": 1 },
+				"m_fDepthOfFieldFocusStart": {
+					"type": "float32",
+					"value": 1
+				},
+				"m_fDepthOfFieldFocalFadeNear": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_vDistortionBarrel": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.2199999988079071,
+						"y": 0.05999999865889549
+					}
+				},
+				"m_bDistortionBarrelUseRealTime": {
+					"type": "bool",
+					"value": false
+				},
+				"m_vDistortionWobbleWaveLength": {
+					"type": "SVector2",
+					"value": {
+						"x": 0.029999999329447743,
+						"y": 0.029999999329447743
+					}
+				},
+				"m_vDistortionWobbleSpeed": {
+					"type": "SVector2",
+					"value": { "x": 1, "y": 1 }
+				},
+				"m_vFogTurbulenceNearScale": {
+					"type": "SVector3",
+					"value": { "x": 10, "y": 10, "z": 10 }
+				},
+				"m_vFogTurbulenceVelocity": {
+					"type": "SVector3",
+					"value": {
+						"x": 0.30000001192092896,
+						"y": 0.5,
+						"z": 0.10000000149011612
+					}
+				},
+				"m_fFogTurbulenceChaos": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_vHDRAdaptationSpeed": {
+					"type": "SVector2",
+					"value": { "x": 4, "y": 4 }
+				},
+				"m_HDRLensFlareColorA": {
+					"type": "SColorRGB",
+					"value": "#000000"
+				},
+				"m_HDRLensFlareColorB": {
+					"type": "SColorRGB",
+					"value": "#000000"
+				},
+				"m_HDRLensFlareColorD": {
+					"type": "SColorRGB",
+					"value": "#42260a"
+				},
+				"m_vVignetteGradientLightColor": {
+					"type": "SColorRGB",
+					"value": "#ffffff"
+				},
+				"m_fVignetteGradientLightStrength": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_bDepthOfFieldUseNew": { "type": "bool", "value": true },
+				"m_fDepthOfFieldFocalDistance": {
+					"type": "float32",
+					"value": 10
+				},
+				"m_fDepthOfFieldAperture": {
+					"type": "float32",
+					"value": 3
+				},
+				"m_bDoubleVisionEnabled": {
+					"type": "bool",
+					"value": false
+				},
+				"m_fDoubleVisionStrength": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_fDoubleVisionSpeed": {
+					"type": "float32",
+					"value": 0.10000000149011612
+				},
+				"m_fDoubleVisionEyeSeparation": {
+					"type": "float32",
+					"value": 0
+				},
+				"m_fDoubleVisionSpeed1": {
+					"type": "float32",
+					"value": 147
+				},
+				"m_fDoubleVisionSpeed2": {
+					"type": "float32",
+					"value": 109
+				},
+				"m_fDoubleVisionScaleSpeed1": {
+					"type": "float32",
+					"value": 121
+				},
+				"m_fDoubleVisionScaleSpeed2": {
+					"type": "float32",
+					"value": 97
+				},
+				"m_fDoubleVisionMinScale": {
+					"type": "float32",
+					"value": 0.07000000029802322
+				},
+				"m_fDoubleVisionMaxScale": {
+					"type": "float32",
+					"value": 0.09000000357627869
+				},
+				"m_fDoubleVisionBlendSpeed": {
+					"type": "float32",
+					"value": 80
+				},
+				"m_fDoubleVisionBlendStrength": {
+					"type": "float32",
+					"value": 0.20000000298023224
+				},
+				"m_fDoubleVisionTrailStrength": {
+					"type": "float32",
+					"value": 0.05000000074505806
+				},
+				"m_fHDRBloomFalloff": { "type": "float32", "value": 1 },
+				"m_eHDRToneMapType": {
+					"type": "ZRenderPostfilterParametersEntity.EHDRToneMapType",
+					"value": "eFilmicRGB"
+				},
+				"m_vHDRAdaptationMiddleGrayMinMax": {
+					"type": "SVector2",
+					"value": { "x": 0.10000000149011612, "y": 0.5 }
+				},
+				"m_nParameterId": { "type": "int32", "value": 5 },
+				"m_vSSAOStrengthNearFar": {
+					"type": "SVector2",
+					"value": { "x": 0, "y": 15 }
+				},
+				"m_vSSAODistanceNearFar": {
+					"type": "SVector2",
+					"value": { "x": 0, "y": 15 }
+				},
+				"m_vSSAOScreenSpaceRadiusLimits": {
+					"type": "SVector2",
+					"value": { "x": 15, "y": 100 }
+				},
+				"BillboardTexture": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_mission_polarbear.texture?/lut_hangar.tex](ascolormap).pc_tex",
+						"flag": "5F"
+					}
+				},
+				"m_fLensBlur": { "type": "float32", "value": 0 },
+				"m_eBlurQuality": {
+					"type": "ZRenderPostfilterParametersEntity.EDOFBlurType",
+					"value": "eLowRezLensBlurSoft"
+				},
+				"m_bForegroundBlur": { "type": "bool", "value": false },
+				"m_fLabsDofAnamorphic": { "type": "float32", "value": 0 },
+				"m_fLabsDofSwirl": { "type": "float32", "value": 0 },
+				"m_fHDRExposureMeteringSize": {
+					"type": "float32",
+					"value": 0.5
+				},
+				"m_HDRAdaptionMiddleGrayCurveEntity": {
+					"type": "SEntityTemplateReference",
+					"value": "cafeabffa328dbb0",
+					"postInit": true
+				}
+			}
+		},
+		"cafec5af3ee35e73": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": -90 },
+						"position": {
+							"x": 0.01349399983882904,
+							"y": -15.325650215148926,
+							"z": 3.1522181034088135
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 5.840000152587891
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "4ebd91cf6b55db0d",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafe9d0ece29d429": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_04",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -89.9999965849052
+						},
+						"position": {
+							"x": 0.9529752731323242,
+							"y": 4.540809631347656,
+							"z": 5.75025749206543
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 5.840000152587891
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "fccf8b5f607f9a26",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafecf1a2b3dc7a5": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -35.000026812563796
+						},
+						"position": {
+							"x": 96.21871185302734,
+							"y": 0.1992645263671875,
+							"z": -77.42597198486328
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 5.840000152587891
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "b826924694c353a8",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafed0a50e97ffe7": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -89.99988047168952
+						},
+						"position": {
+							"x": 4.297264099121094,
+							"y": -1.7744674682617188,
+							"z": 4.407985687255859
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 8.710000038146973
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "335c8cd9be805664",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafeea87cd8400d2": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": 0,
+							"y": 0,
+							"z": -89.99988540844126
+						},
+						"position": {
+							"x": 103.80760192871094,
+							"y": 86.49833679199219,
+							"z": -76.50804138183594
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 8.710000038146973
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "b826924694c353a8",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafe8a818c7d4062": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_02",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": -90 },
+						"position": {
+							"x": 0.01349399983882904,
+							"y": -8.492340087890625,
+							"z": 3.1522200107574463
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 5.840000152587891
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "4ebd91cf6b55db0d",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafed86675a71d27": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_04",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": -90 },
+						"position": {
+							"x": 0.013495000079274178,
+							"y": 9.039077758789064,
+							"z": 3.1522200107574463
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 5.840000152587891
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "4ebd91cf6b55db0d",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafe330e491da51b": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_01",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -89.99991120753549
+						},
+						"position": {
+							"x": 4.297264099121094,
+							"y": -12.068870544433594,
+							"z": 4.3083343505859375
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100.0 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 8.710000038146973
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "335c8cd9be805664",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafe4f482832444f": {
+			"parent": "cafeb80558f76647",
+			"name": "Lamp_Strip_Light_Wires_SizeA_00_03",
+			"factory": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/props/lamps/lamps_indoor_a.template?/lamp_strip_light_wires_sizea_00.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": -90 },
+						"position": {
+							"x": 0.01349399983882904,
+							"y": -3.457000970840454,
+							"z": 3.1522200107574463
+						}
+					}
+				},
+				"DiffuseColor": {
+					"type": "SColorRGB",
+					"value": "#e6c27a"
+				},
+				"GlowPower": { "type": "float32", "value": 5000 },
+				"On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true },
+				"LampTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": 0, "y": 0, "z": 0 },
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": -1.1100000143051147
+						}
+					}
+				},
+				"DiffusePower": { "type": "float32", "value": 100 },
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": {
+						"x": 2.8590009212493896,
+						"y": 5.840000152587891
+					}
+				},
+				"m_fLightFadeDistance": {
+					"type": "float32",
+					"value": 500
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": {
+						"ref": "4ebd91cf6b55db0d",
+						"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+					}
+				},
+				"m_bCastOmniShadows": { "type": "bool", "value": true },
+				"m_fShadowFadeDistance": {
+					"type": "float32",
+					"value": 30.0
+				}
+			}
+		},
+		"cafeb80558f76647": {
+			"parent": "fffffffffffffffe",
+			"name": "Rabies Lamps",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
 		}
 	},
 	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "b1215496f6d5bd11",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "f8414b4390b5bbcd",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "797650eb0629429b",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "bc191c1a64b67474",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "2acdede1eebbed77",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "09af19cc743831f6",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "7d8d8af60e53cdc5",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "6c8d4f9af4d4c2ec",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "860b5ad4dedb5690",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "d97d73203da302e8",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_vFarAttenuation": {
+					"type": "SVector2",
+					"value": { "x": 2.0, "y": 4.9 }
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "6e510ab6743e19e6",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "55897b352fe4258d",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "d47a3d66db33ce98",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "cf1ca7499b8a2e70",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "10bd51cc43afdfef",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "5d9e5093e28a2394",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "c4a523e470265b64",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "70d4eafa27e64212",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "79795a98d993b46d",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "a6bf7f89b3bc0f59",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "a1ef6621f5e58cf7",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "16d26e79bc40fcae",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "3c5f92e67a6fd3fe",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "d7266a2076a82ad8",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "11ae6adc999e1d09",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "1567afbb0b469005",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "a3a2cd1b948d423e",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "e5843acdaaab99d5",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "97101cbcefc4c915",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "0debe083306c9a71",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "fccf8b5f607f9a26",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_PostfilterParametersID": { "type": "int32", "value": 1 }
+			}
+		},
 		{
 			"entities": [
 				{
@@ -1290,7 +2382,7 @@
 					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
 				},
 				{
-					"ref": "1bf4b9088160a59",
+					"ref": "01bf4b9088160a59",
 					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
 				},
 				{
@@ -1388,11 +2480,32 @@
 				{
 					"ref": "4f4b7989b73c7d3c",
 					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "275d753f9e051956",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "55178e73f36b6ead",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "66b56403698cb11d",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "9152b53e0560871b",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
+				},
+				{
+					"ref": "bd7c04a0deb0058c",
+					"externalScene": "[assembly:/_pro/scenes/missions/colorado_2/location.brick].pc_entitytype"
 				}
 			],
 			"properties": {
 				"On": { "type": "bool", "value": true },
-				"Light_On": { "type": "bool", "value": true }
+				"Light_On": { "type": "bool", "value": true },
+				"m_bCastShadows": { "type": "bool", "value": true }
 			}
 		},
 		{
