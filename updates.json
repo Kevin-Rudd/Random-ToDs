@@ -1,5 +1,5 @@
 {
-    "version": "1.1.3",
-    "changelog": "MISSION COMPANION CURRENTLY DOES NOT WORK, MOD NOT PLAYABLE... BUT HOPEFULLY SOON\n- Works for new game update\n- Bangkok: Morning - Now works with The Infiltrator (I think)\n- Mumbai Night: Restores to intended slight 'purple' look",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.3/Random.ToDs.1.1.3.zip"
+    "version": "1.1.4",
+    "changelog": "MISSION COMPANION NOW WORKS! Grab SDK 4.0.0RC2 and latest Mission Companion\n- Santa Fortuna: Night – Fixes deletions that were not working\n- Colorado: Night – Improves indoor lighting, improves properties of some outdoor lights, turns on and adds more outdoor lamps\n- Colorado: Day – Small tweaks to improve (from Sandbox The Vector)\n- Chongqing: Midday – Reverts from grey experimental version that was NOT meant to be shipped",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.4/Random.ToDs.1.1.4.zip"
 }
