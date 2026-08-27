@@ -3,7 +3,8 @@
         "EnableExits": {
             "$eq": ["$ec5a2a3e-7dad-49a0-bfdc-74e2717ad32d", "$522a8f9e-9528-47f8-9dbf-624287cb45c8", "$ffaa1229-2fd3-4a93-87ca-974122e2a25f", "Completed"]
         },
-        "Objectives": [{
+        "Objectives": [
+            {
                 "_comment": "----- Eliminate The Winemaker -----",
                 "Id": "ec5a2a3e-7dad-49a0-bfdc-74e2717ad32d",
                 "UpdateActivationWhileCompleted": true,
