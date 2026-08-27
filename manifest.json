@@ -10,7 +10,7 @@
 	"updateCheck": "https://raw.githubusercontent.com/Kevin-Rudd/Random-ToDs/master/updates.json",
 	"frameworkVersion": "2.1.0",
 	"dependencies": [
-		"00E65AB3BD8C2901","0026DCAB01593B34,008F55E057D79796,00F178A2B3B66FBB,00DAB64C50475ECB",{
+		"0026DCAB01593B34,008F55E057D79796,00F178A2B3B66FBB,00DAB64C50475ECB",{
 		"runtimeID": "0093B5E1875E03E0",
 		"comment": "Wolverine Sunset",
 		"toChunk": 1

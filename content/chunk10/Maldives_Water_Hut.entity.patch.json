@@ -560,6 +560,48 @@
 					]
 				}
 			]
+		},
+		{
+			"SubEntityOperation": [
+				"8c6d1f6553e29ae8",
+				{
+					"AddPropertyAliasConnection": [
+						"m_fDrawDistance",
+						{
+							"originalProperty": "m_fDrawDistance",
+							"originalEntity": "751cb26b72446eda"
+						}
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"8c6d1f6553e29ae8",
+				{
+					"AddPropertyAliasConnection": [
+						"m_fDrawDistance",
+						{
+							"originalProperty": "m_fDrawDistance",
+							"originalEntity": "6223d745266af901"
+						}
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"8c6d1f6553e29ae8",
+				{
+					"AddPropertyAliasConnection": [
+						"m_fDrawDistance",
+						{
+							"originalProperty": "m_fDrawDistance",
+							"originalEntity": "a983044130621001"
+						}
+					]
+				}
+			]
 		}
 	],
 	"patchVersion": 6
