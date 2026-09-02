@@ -1208,7 +1208,7 @@
 				"m_pBoxReflectionCache": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "008C2E370F53B11B",
+						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/paris/location_parisnoel.boxc].pc_boxc",
 						"flag": "5F"
 					}
 				}

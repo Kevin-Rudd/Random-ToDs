@@ -470,10 +470,10 @@
 				},
 				"m_eRoomBehaviour": {
 					"type": "ZSpatialEntity.ERoomBehaviour",
-					"value": "ROOM_STATIC_OUTSIDE_CLIENT"
+					"value": "ROOM_DYNAMIC"
 				},
 				"m_bCastShadows": { "type": "bool", "value": false },
-				"m_bVisible": { "type": "bool", "value": false },
+				"m_bVisible": { "type": "bool", "value": true },
 				"m_bIsPrivate": { "type": "bool", "value": true },
 				"m_PrimitiveScale": {
 					"type": "SVector3",
@@ -483,37 +483,22 @@
 						"z": 20
 					}
 				},
-				"m_bRemovePhysics": { "type": "bool", "value": true }
+				"m_bRemovePhysics": { "type": "bool", "value": true },
+				"m_bForceVisible": { "type": "bool", "value": false }
 			}
 		},
 		"cafed27bf48a5b09": {
 			"parent": "cafead7e841a2512",
-			"name": "BoxReflection",
-			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
+			"name": "BoxReflectionCache",
+			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
 			"properties": {
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": { "x": 1000, "y": 1000, "z": 1000 }
-				},
-				"m_vSampleOffset": {
-					"type": "SVector3",
-					"value": { "x": 0, "y": 0, "z": 5 }
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
 					"value": {
-						"rotation": { "x": 0, "y": 0, "z": 0 },
-						"position": { "x": 0, "y": 0, "z": 0 }
+						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/opulent/mission_stingray/haven_sunset.boxc].pc_boxc",
+						"flag": "5F"
 					}
-				},
-				"m_eType": {
-					"type": "ZBoxReflectionEntity.EType",
-					"value": "eFallback"
-				},
-				"m_eBoundsType": {
-					"type": "ZBoxReflectionEntity.EBoundsType",
-					"value": "eBox"
 				}
 			}
 		},
@@ -585,7 +570,7 @@
 					"value": "#ff6131"
 				},
 				"m_bCastCSMShadows": { "type": "bool", "value": true },
-				"m_fDiffusePower": { "type": "float32", "value": 150.0 },
+				"m_fDiffusePower": { "type": "float32", "value": 140.0 },
 				"m_bVisible": { "type": "bool", "value": true },
 				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_eRoomLightFlow": {
@@ -1011,7 +996,7 @@
 				},
 				"m_RayleighColor": {
 					"type": "SColorRGB",
-					"value": "#c5921e"
+					"value": "#c54c1e"
 				},
 				"m_fInscatterIntensity": { "type": "float32", "value": 1 },
 				"m_fMieAnisotropy": { "type": "float32", "value": 0.7 },
@@ -1126,7 +1111,7 @@
 				},
 				"ConstantVector1D_07_Value": {
 					"type": "float32",
-					"value": 10
+					"value": 8.0
 				},
 				"m_bVisible": { "type": "bool", "value": true },
 				"OpacityBottom": { "type": "float32", "value": 1 },
@@ -1417,7 +1402,7 @@
 				"BillboardTexture": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/_pro/effects/textures/lut/lut_stingray.texture?/lut_stingray_a.tex](ascolormap).pc_tex",
+						"resource": "[assembly:/_pro/effects/textures/lut/lut_season2_look.texture?/lut_colorado_snakebite.tex](ascolormap).pc_tex",
 						"flag": "5F"
 					}
 				},
@@ -1528,7 +1513,7 @@
 				"ColorCorrectionTextureHDR": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/_pro/effects/textures/lut/cubelut/stingray_sunny.cube](ascolormap).pc_tex",
+						"resource": "[assembly:/_pro/effects/textures/lut/cubelut/daylight_vanilla.cube](ascolormap).pc_tex",
 						"flag": "5F"
 					}
 				},
@@ -2302,7 +2287,7 @@
 				"ColorCorrectionTextureHDR": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/_pro/effects/textures/lut/cubelut/stingray_sunny.cube](ascolormap).pc_tex",
+						"resource": "[assembly:/_pro/effects/textures/lut/cubelut/daylight_vanilla.cube](ascolormap).pc_tex",
 						"flag": "5F"
 					}
 				},
@@ -2382,6 +2367,23 @@
 		{
 			"entities": [
 				{
+					"ref": "80a901ba9b56074a",
+					"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/opulent/mission_stingray/haven_sunset.boxc].pc_boxc",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
 					"ref": "d6d4c1ac2f63f1d8",
 					"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
 				}
@@ -2425,7 +2427,7 @@
 					"type": "float32",
 					"value": 40
 				},
-				"m_fDrawDistance": { "type": "float32", "value": 2770.0 }
+				"m_fDrawDistance": { "type": "float32", "value": 2850.0 }
 			}
 		},
 		{
@@ -2536,7 +2538,8 @@
 				"m_diffuseColor": {
 					"type": "SColorRGB",
 					"value": "#ffffff"
-				}
+				},
+				"m_fDiffusePower": { "type": "float32", "value": 50 }
 			}
 		}
 	],
@@ -2551,10 +2554,6 @@
 		},
 		{
 			"ref": "b37cb6f7ad77b9b5",
-			"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
-		},
-		{
-			"ref": "80a901ba9b56074a",
 			"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
 		},
 		{

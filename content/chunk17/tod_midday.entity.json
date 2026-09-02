@@ -18,7 +18,7 @@
 				"m_pBoxReflectionCache": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "005342751DF36344",
+						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/mumbai/scenario_kingcobra.boxc].pc_boxc",
 						"flag": "5F"
 					}
 				}
@@ -27,7 +27,7 @@
 		"abcda1ef0d7af7f3": {
 			"parent": "fffffffffffffffe",
 			"name": "Sky_Sunset_v3_063b",
-			"factory": "003D80CEEDCAAAD4",
+			"factory": "[assembly:/_pro/environment/templates/backdrop/sky/sky_newseasons.template?/sky_sunset_v3_063b.entitytemplate].pc_entitytype",
 			"blueprint": "00EB0D8C4945FE01",
 			"properties": {
 				"m_mTransform": {

@@ -54,32 +54,16 @@
 		},
 		"abcd5a137e4c8995": {
 			"parent": "abcd03f4298b8b99",
-			"name": "BoxReflection",
-			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
+			"name": "BoxReflectionCache",
+			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
 			"properties": {
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": { "x": 1000, "y": 1000, "z": 1000 }
-				},
-				"m_vSampleOffset": {
-					"type": "SVector3",
-					"value": { "x": 0, "y": 0, "z": 5 }
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
 					"value": {
-						"rotation": { "x": 0, "y": 0, "z": 0 },
-						"position": { "x": 0, "y": 0, "z": 0 }
+						"resource": "00CBB809C967B4F2",
+						"flag": "5F"
 					}
-				},
-				"m_eType": {
-					"type": "ZBoxReflectionEntity.EType",
-					"value": "eFallback"
-				},
-				"m_eBoundsType": {
-					"type": "ZBoxReflectionEntity.EBoundsType",
-					"value": "eBox"
 				}
 			}
 		},

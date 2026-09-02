@@ -1082,37 +1082,6 @@
 				}
 			}
 		},
-		"cafe88f3b2454d40": {
-			"parent": "cafefb31e4f3e4ea",
-			"name": "BoxReflection",
-			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
-			"properties": {
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": { "x": 1000, "y": 1000, "z": 1000 }
-				},
-				"m_vSampleOffset": {
-					"type": "SVector3",
-					"value": { "x": 0, "y": 0, "z": 5 }
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": { "x": 0, "y": 0, "z": 0 },
-						"position": { "x": 0, "y": 0, "z": 0 }
-					}
-				},
-				"m_eType": {
-					"type": "ZBoxReflectionEntity.EType",
-					"value": "eFallback"
-				},
-				"m_eBoundsType": {
-					"type": "ZBoxReflectionEntity.EBoundsType",
-					"value": "eBox"
-				}
-			}
-		},
 		"cafe795bc44aaf71": {
 			"parent": "cafefb31e4f3e4ea",
 			"name": "Wind",
@@ -1187,6 +1156,21 @@
 					"value": {
 						"x": 2.509999990463257,
 						"y": 6.679999828338623
+					}
+				}
+			}
+		},
+		"cafe3797d279c225": {
+			"parent": "cafefb31e4f3e4ea",
+			"name": "BoxReflectionCache",
+			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "009D9E85D8BC9F90",
+						"flag": "5F"
 					}
 				}
 			}

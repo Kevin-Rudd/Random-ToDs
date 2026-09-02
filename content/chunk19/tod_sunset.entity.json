@@ -17,75 +17,52 @@
 		},
 		"abcd60502f7a398c": {
 			"parent": "abcd0765bb864b71",
-			"name": "Sky_Sunset_v2_035",
-			"factory": "003D96EAECB00C82",
-			"blueprint": "00A95F89845528ED",
+			"name": "Sky_Sunset_E",
+			"factory": "[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_e.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/environment/templates/backdrop/sky/sky_sunset.template?/sky_sunset_e.entitytemplate].pc_entityblueprint",
 			"properties": {
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
-						"rotation": { "x": 0, "y": 0, "z": -20 },
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 23.559307089110128
+						},
 						"position": {
-							"x": -60.65182876586914,
-							"y": 8.699393272399902,
-							"z": -104.23999786376952
+							"x": -2.7853550910949707,
+							"y": -1.6622519493103027,
+							"z": -24.924774169921875
 						}
 					}
 				},
-				"ConstantVector1D_02_Value": {
-					"type": "float32",
-					"value": 0.8999999761581421
-				},
-				"m_bVisible": { "type": "bool", "value": true },
 				"ConstantVector1D_07_Value": {
 					"type": "float32",
-					"value": 4
+					"value": 5.0
+				},
+				"m_bVisible": { "type": "bool", "value": true },
+				"ConstantVector1D_02_Value": {
+					"type": "float32",
+					"value": 1.0
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
 				}
-			}
-		},
-		"abcdca7d78208bf8": {
-			"parent": "abcd0765bb864b71",
-			"name": "Trigger stuff upon game start",
-			"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_eEvent": {
-					"type": "EGameEventType",
-					"value": "GET_IntroCutEnd"
-				}
-			},
-			"events": {
-				"EventOccurred": { "GetIndex": ["abcd8efc466ef79e"] }
 			}
 		},
 		"abcd6638e6d35b99": {
 			"parent": "abcd0765bb864b71",
-			"name": "BoxReflection",
-			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
+			"name": "BoxReflectionCache",
+			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
 			"properties": {
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": { "x": 1000, "y": 1000, "z": 1000 }
-				},
-				"m_vSampleOffset": {
-					"type": "SVector3",
-					"value": { "x": 0, "y": 0, "z": 5 }
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
 					"value": {
-						"rotation": { "x": 0, "y": 0, "z": 0 },
-						"position": { "x": 0, "y": 0, "z": 0 }
+						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/miami/tod_sunset.boxc].pc_boxc",
+						"flag": "5F"
 					}
-				},
-				"m_eType": {
-					"type": "ZBoxReflectionEntity.EType",
-					"value": "eFallback"
-				},
-				"m_eBoundsType": {
-					"type": "ZBoxReflectionEntity.EBoundsType",
-					"value": "eBox"
 				}
 			}
 		},
@@ -131,22 +108,6 @@
 				"m_vGlobalLightDirection": {
 					"type": "SVector3",
 					"value": { "x": 1, "y": 1, "z": 1 }
-				}
-			}
-		},
-		"abcd8efc466ef79e": {
-			"parent": "abcdca7d78208bf8",
-			"name": "zmultiparentspatialentity",
-			"factory": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
-			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
-			"properties": {
-				"m_aParents": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"abcd26812e1eae0e",
-						"abcd60502f7a398c",
-						"abcd3c3f9bf7eddf"
-					]
 				}
 			}
 		},

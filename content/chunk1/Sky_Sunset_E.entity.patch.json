@@ -1,0 +1,35 @@
+{
+	"tempHash": "00EFCE0454AB1E1D",
+	"tbluHash": "00C80B5F0CBD26A8",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"b30455220836c88d",
+				{
+					"AddPropertyAliasConnection": [
+						"Texture2D_04",
+						{
+							"originalProperty": "Texture2D_04",
+							"originalEntity": "b5fd25f334b02ca4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b30455220836c88d",
+				{
+					"AddPropertyAliasConnection": [
+						"Texture2D_04",
+						{
+							"originalProperty": "Texture2D_04",
+							"originalEntity": "d2929864a16a1ce0"
+						}
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

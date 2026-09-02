@@ -1038,14 +1038,8 @@
 			"factory": "[modules:/zentity.class].pc_entitytype",
 			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
 		},
-		"822c908f7ff01900": {
-			"parent": "a043a41834593a56",
-			"name": "Time of day",
-			"factory": "[modules:/zentity.class].pc_entitytype",
-			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
-		},
 		"b37cb6f7ad77b9b5": {
-			"parent": "822c908f7ff01900",
+			"parent": "a043a41834593a56",
 			"name": "GlobalLight",
 			"factory": "[modules:/zentity.class].pc_entitytype",
 			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
@@ -1092,7 +1086,7 @@
 			}
 		},
 		"7c237deed5cdebf0": {
-			"parent": "822c908f7ff01900",
+			"parent": "a043a41834593a56",
 			"name": "Postfilters",
 			"factory": "[modules:/zentity.class].pc_entitytype",
 			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
@@ -1528,7 +1522,7 @@
 			}
 		},
 		"a33608324cde0d0d": {
-			"parent": "822c908f7ff01900",
+			"parent": "a043a41834593a56",
 			"name": "Light_CSM",
 			"factory": "[modules:/zlightentity.class].pc_entitytype",
 			"blueprint": "[modules:/zlightentity.class].pc_entityblueprint",
@@ -1542,7 +1536,7 @@
 					"value": { "x": 400, "y": 400, "z": 400 }
 				},
 				"m_bCastCSMShadows": { "type": "bool", "value": true },
-				"m_fDiffusePower": { "type": "float32", "value": 2 },
+				"m_fDiffusePower": { "type": "float32", "value": 4 },
 				"m_bVisible": { "type": "bool", "value": true },
 				"m_bCastShadows": { "type": "bool", "value": true },
 				"m_mTransform": {
@@ -1567,11 +1561,11 @@
 				},
 				"m_fShadowFadeDistance": {
 					"type": "float32",
-					"value": 10
+					"value": 30
 				},
 				"m_diffuseColor": {
 					"type": "SColorRGB",
-					"value": "#b9ceff"
+					"value": "#d6e0f7"
 				},
 				"m_fWrappedDiffuse": { "type": "float32", "value": 0 },
 				"m_fLightBleedingReduction": {
@@ -1594,7 +1588,7 @@
 			}
 		},
 		"cdc86efd19dea3c0": {
-			"parent": "822c908f7ff01900",
+			"parent": "a043a41834593a56",
 			"name": "RenderAtmosphericScattering",
 			"factory": "[modules:/zrenderatmosphericscatteringentity.class].pc_entitytype",
 			"blueprint": "[modules:/zrenderatmosphericscatteringentity.class].pc_entityblueprint",
@@ -1633,7 +1627,10 @@
 					"type": "bool",
 					"value": true
 				},
-				"m_fWorldScale": { "type": "float32", "value": 1 },
+				"m_fWorldScale": {
+					"type": "float32",
+					"value": 0.699999988079071
+				},
 				"m_fInscatterIntensity": {
 					"type": "float32",
 					"value": 0.25
@@ -1644,7 +1641,7 @@
 				},
 				"m_fMieAnisotropy": {
 					"type": "float32",
-					"value": 0.47999998927116394
+					"value": 6.679999828338623
 				},
 				"m_fShadowedRange": { "type": "float32", "value": 100 },
 				"m_fHeightAboveSeaLevel": {
@@ -1655,7 +1652,7 @@
 					"type": "float32",
 					"value": 0
 				},
-				"m_fMieHeightScale": { "type": "float32", "value": 75 },
+				"m_fMieHeightScale": { "type": "float32", "value": 75.0 },
 				"m_fRayleighHeightScale": {
 					"type": "float32",
 					"value": 500
@@ -3341,9 +3338,59 @@
 					"value": 40.0
 				}
 			}
+		},
+		"cafe856e1289f1c3": {
+			"parent": "a043a41834593a56",
+			"name": "BoxReflectionCache",
+			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/opulent/mission_stingray/tod_night.boxc].pc_boxc",
+						"flag": "5F"
+					}
+				}
+			}
 		}
 	},
 	"propertyOverrides": [
+		{
+			"entities": [
+				{
+					"ref": "80a901ba9b56074a",
+					"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/opulent/mission_stingray/tod_night.boxc].pc_boxc",
+						"flag": "5F"
+					}
+				}
+			}
+		},
+		{
+			"entities": [
+				{
+					"ref": "5660ebd2ff7a6320",
+					"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
+				}
+			],
+			"properties": {
+				"ConstantVector1D_08_Value": {
+					"type": "float32",
+					"value": -0.1
+				},
+				"ConstantVector1D_08_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
+				}
+			}
+		},
 		{
 			"entities": [
 				{
@@ -3355,6 +3402,10 @@
 				"ConstantVector1D_06_Value": {
 					"type": "float32",
 					"value": -1.950000047683716
+				},
+				"ConstantVector1D_06_Value_op": {
+					"type": "IRenderMaterialEntity.EModifierOperation",
+					"value": "eReplace"
 				},
 				"ConstantVector1D_02_Value": {
 					"type": "float32",
@@ -4819,10 +4870,6 @@
 		},
 		{
 			"ref": "949b0865ad8021ba",
-			"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
-		},
-		{
-			"ref": "80a901ba9b56074a",
 			"externalScene": "[assembly:/_pro/scenes/missions/opulent/mission_stingray/scenario_stingray.brick].pc_entitytype"
 		},
 		{

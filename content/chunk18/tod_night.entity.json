@@ -1440,67 +1440,6 @@
 				}
 			}
 		},
-		"abcd1f2cd12082bb": {
-			"parent": "fffffffffffffffe",
-			"name": "Trigger stuff upon game start",
-			"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_eEvent": {
-					"type": "EGameEventType",
-					"value": "GET_GameplayStart"
-				}
-			},
-			"events": {
-				"EventOccurred": { "GetIndex": ["abcd67dd6db1625e"] }
-			}
-		},
-		"abcd67dd6db1625e": {
-			"parent": "abcd1f2cd12082bb",
-			"name": "zmultiparentspatialentity",
-			"factory": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
-			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
-			"properties": {
-				"m_aParents": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"abcd91e2709806c5",
-						"abcd5682e273464b",
-						"abcdbd6127757576",
-						"abcd29ef439b80c6",
-						"abcd65bd981a7307",
-						"abcd1036dde84f02",
-						"abcda506c4367f32",
-						"abcdec557cff84bb",
-						"abcdeec6fa0b6e20",
-						"abcd02e091b5dcd1",
-						"abcd09a610f6b13a",
-						"abcd13b028ad6574",
-						"abcd49c311bddf9a",
-						"abcdf21999c4319a",
-						"abcd3adcf7a3c9d1",
-						"abcd87a9c458f464",
-						"abcdb574a0844c23",
-						"abcdbbd05c9a32dc",
-						"abcde111af54f86a",
-						"abcd395adec074f2",
-						"abcd1c870483ceaa",
-						"abcd7d1418abfe96",
-						"abcd8a0db7dcd486",
-						"abcd8cbb8ccc030e",
-						"abcd26b72ad5f939",
-						"abcd36f3bdc44490",
-						"abcd44e4b3bd8199",
-						"abcd46db8deb5ccc",
-						"abcd57d9ef3b5589",
-						"abcdf7dbab607c7d",
-						"abcdc2c0104901b0",
-						"abcd2bc2dc556b2c",
-						"abcdaa1cbe8ed371"
-					]
-				}
-			}
-		},
 		"abcd8a2bdd1e674f": {
 			"parent": "abcddb78bb036150",
 			"name": "Village",
@@ -8537,32 +8476,16 @@
 		},
 		"cafe5531ba5f2bcd": {
 			"parent": "abcdc4bca8cc9a16",
-			"name": "BoxReflection",
-			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
+			"name": "BoxReflectionCache",
+			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
 			"properties": {
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": { "x": 800, "y": 800, "z": 400 }
-				},
-				"m_vSampleOffset": {
-					"type": "SVector3",
-					"value": { "x": 0, "y": 0, "z": 5 }
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
 					"value": {
-						"rotation": { "x": 0, "y": 0, "z": 0 },
-						"position": { "x": 0, "y": 0, "z": 0 }
+						"resource": "004EC53DBDE5DCFE",
+						"flag": "5F"
 					}
-				},
-				"m_eType": {
-					"type": "ZBoxReflectionEntity.EType",
-					"value": "eFallback"
-				},
-				"m_eBoundsType": {
-					"type": "ZBoxReflectionEntity.EBoundsType",
-					"value": "eBox"
 				}
 			}
 		}

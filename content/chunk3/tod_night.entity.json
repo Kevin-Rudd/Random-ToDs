@@ -12294,7 +12294,7 @@
 					"type": "SColorRGB",
 					"value": "#c4deff"
 				},
-				"m_fDiffusePower": { "type": "float32", "value": 3 },
+				"m_fDiffusePower": { "type": "float32", "value": 4 },
 				"m_mTransform": {
 					"type": "SMatrix43",
 					"value": {
@@ -12307,8 +12307,7 @@
 							"x": -35.43621826171875,
 							"y": -8.46634292602539,
 							"z": 4.354286193847656
-						},
-						"scale": { "x": 1.0, "y": 1, "z": 1 }
+						}
 					}
 				},
 				"m_vBoxSize": {
@@ -12784,31 +12783,6 @@
 			],
 			"properties": {
 				"LightVisible": { "type": "bool", "value": false }
-			}
-		},
-		{
-			"entities": [
-				{
-					"ref": "c5ae9c0f85b3c42f",
-					"externalScene": "[assembly:/_pro/scenes/missions/ancestral/scenario_bulldog.brick].pc_entitytype"
-				}
-			],
-			"properties": {
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": {
-							"x": 0,
-							"y": 0,
-							"z": 11.05679350487692
-						},
-						"position": {
-							"x": 2.688282012939453,
-							"y": 0.7490230202674866,
-							"z": 0.5477499961853027
-						}
-					}
-				}
 			}
 		},
 		{

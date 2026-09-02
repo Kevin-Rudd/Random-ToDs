@@ -320,37 +320,6 @@
 				}
 			}
 		},
-		"abcdd759b32e16e5": {
-			"parent": "abcd1b21e4e4ec02",
-			"name": "BoxReflection",
-			"factory": "[modules:/zboxreflectionentity.class].pc_entitytype",
-			"blueprint": "[modules:/zboxreflectionentity.class].pc_entityblueprint",
-			"properties": {
-				"m_vGlobalSize": {
-					"type": "SVector3",
-					"value": { "x": 1000, "y": 1000, "z": 1000 }
-				},
-				"m_vSampleOffset": {
-					"type": "SVector3",
-					"value": { "x": 0, "y": 0, "z": 5 }
-				},
-				"m_mTransform": {
-					"type": "SMatrix43",
-					"value": {
-						"rotation": { "x": 0, "y": 0, "z": 0 },
-						"position": { "x": 0, "y": 0, "z": 0 }
-					}
-				},
-				"m_eType": {
-					"type": "ZBoxReflectionEntity.EType",
-					"value": "eFallback"
-				},
-				"m_eBoundsType": {
-					"type": "ZBoxReflectionEntity.EBoundsType",
-					"value": "eBox"
-				}
-			}
-		},
 		"abcd01e84ba9e168": {
 			"parent": "abcd3ecd064746f5",
 			"name": "47 wearing blindfold",
@@ -1236,7 +1205,7 @@
 				"m_pBoxReflectionCache": {
 					"type": "ZRuntimeResourceID",
 					"value": {
-						"resource": "[assembly:/runtimeresources/boxreflections/_pro/scenes/missions/colorado_2/scene_rabies.boxc].pc_boxc",
+						"resource": "00B6BC3C20BB019E",
 						"flag": "5F"
 					}
 				}

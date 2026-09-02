@@ -1488,6 +1488,21 @@
 				"m_bVisible": { "type": "bool", "value": true },
 				"m_fGlobalLightPhong": { "type": "float32", "value": 3 }
 			}
+		},
+		"cafe23be4f792ed6": {
+			"parent": "ba65bc27b2ac41b6",
+			"name": "BoxReflectionCache",
+			"factory": "[modules:/zboxreflectioncacheentity.class].pc_entitytype",
+			"blueprint": "[modules:/zboxreflectioncacheentity.class].pc_entityblueprint",
+			"properties": {
+				"m_pBoxReflectionCache": {
+					"type": "ZRuntimeResourceID",
+					"value": {
+						"resource": "00C92FB918344262",
+						"flag": "5F"
+					}
+				}
+			}
 		}
 	},
 	"propertyOverrides": [],
