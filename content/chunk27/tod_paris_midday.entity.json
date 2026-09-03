@@ -4096,33 +4096,6 @@
 				}
 			}
 		},
-		"abcd49daa1ea8118": {
-			"parent": "fffffffffffffffe",
-			"name": "Trigger stuff upon game start",
-			"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_eEvent": {
-					"type": "EGameEventType",
-					"value": "GET_IntroCutEnd"
-				}
-			},
-			"events": {
-				"EventOccurred": { "GetIndex": ["abcd4fa0b02a8182"] }
-			}
-		},
-		"abcd4fa0b02a8182": {
-			"parent": "abcd49daa1ea8118",
-			"name": "zmultiparentspatialentity",
-			"factory": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
-			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
-			"properties": {
-				"m_aParents": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": ["abcd50134aafb7b8", "abcd346fd7532864"]
-				}
-			}
-		},
 		"abcdabdb0c3c5840": {
 			"parent": "fffffffffffffffe",
 			"name": "Brighten areas",

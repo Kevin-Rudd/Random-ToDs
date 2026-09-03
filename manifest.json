@@ -6,6 +6,7 @@
 	"description": "Gives maps alternative times of day each time you visit. Requires SDK mod for Online or Peacock use",
 	"authors": ["Team Ruddcy"],
     "loadAfter": ["KevinRudd.SeafoodMassacre","musicalmushr00m.LightingUltimate"],
+    "loadBefore": ["KevinRudd.FreelancerVariations"],
     "options": [],
 	"updateCheck": "https://raw.githubusercontent.com/Kevin-Rudd/Random-ToDs/master/updates.json",
 	"frameworkVersion": "2.1.0",

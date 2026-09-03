@@ -1,5 +1,5 @@
 {
-    "version": "1.1.4",
-    "changelog": "MISSION COMPANION NOW WORKS! Grab SDK 4.0.0RC2 and latest Mission Companion\n- Santa Fortuna: Night – Fixes deletions that were not working\n- Colorado: Night – Improves indoor lighting, improves properties of some outdoor lights, turns on and adds more outdoor lamps\n- Colorado: Day – Small tweaks to improve (from Sandbox The Vector)\n- Chongqing: Midday – Reverts from grey experimental version that was NOT meant to be shipped",
-    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.1.4/Random.ToDs.1.1.4.zip"
+    "version": "1.2.0",
+    "changelog": "**MOD FILE SIZE IS 377x LARGER THAN USUAL** JSON Update required for Haven Sunset\n- All ToDs now have BoxReflectionCaches so lighting has intended look after a map/ToD change (Thanks SDK team, and Luka for generations)\n- Haven: Sunset\n- Haven: Night – Recent Changes from Freelancer, doubles moonlight strength, moonlight less blue\n- Haven: ToDs now apply to The Herbalist (though there are small light issues around umbrellas)\n- Dartmoor: Night ToDs should no longer make a box randomly float in a hallway\n- Mendoza: Removes mandatory WIP night brick from offline mission\n- Mumbai: Night – More sound changes to reflect a less busy city\n- Various: Sunset – Replaces sky with less pixelated ones (HB, Miami, WC, Ambrose, Sgail)",
+    "url": "https://github.com/Kevin-Rudd/Random-ToDs/releases/download/1.2.0/Random.ToDs.1.2.0.zip"
 }

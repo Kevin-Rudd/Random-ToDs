@@ -3337,33 +3337,6 @@
 				}
 			}
 		},
-		"abcdd192ff810744": {
-			"parent": "fffffffffffffffe",
-			"name": "Trigger stuff upon game start",
-			"factory": "[modules:/zgameeventlistenerentity.class].pc_entitytype",
-			"blueprint": "[modules:/zgameeventlistenerentity.class].pc_entityblueprint",
-			"properties": {
-				"m_eEvent": {
-					"type": "EGameEventType",
-					"value": "GET_IntroCutEnd"
-				}
-			},
-			"events": {
-				"EventOccurred": { "GetIndex": ["abcd3bf70c6d523d"] }
-			}
-		},
-		"abcd3bf70c6d523d": {
-			"parent": "abcdd192ff810744",
-			"name": "zmultiparentspatialentity",
-			"factory": "[modules:/zmultiparentspatialentity.class].pc_entitytype",
-			"blueprint": "[modules:/zmultiparentspatialentity.class].pc_entityblueprint",
-			"properties": {
-				"m_aParents": {
-					"type": "TArray<SEntityTemplateReference>",
-					"value": ["feed3fbaa6ddf5c2", "feedb22a3279cf1c"]
-				}
-			}
-		},
 		"cafe07eac632a748": {
 			"parent": "feed4cfecb679818",
 			"name": "BoxReflectionCache",
